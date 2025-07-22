@@ -1,0 +1,29 @@
+Please analyze the story below regarding {[[D1]]}, identifying only the most essential features/concepts that clearly define the character. Each feature/concept should reflect a major meaningful aspect of the character, based strictly on explicit facts in the text. Avoid listing scene-specific actions, vague terms, or general personality traits unless these are directly demonstrated through repeated, significant behaviors.
+- List only the key characteristics that best represent the character's individuality. (features that are central, defining, and repeatedly or clearly demonstrated throughout the story.)
+- DO NOT include minor actions, scene details, or broad/vague generalizations (especially isolated or one-time actions, scene-specific or situational details, unimportant tools or objects used, and broad and vague generalizations).
+    - NOTE: a scene-specific or one-time detail (action) usually suggests a broader, defining pattern or characteristic (and is supported by evidence in the story), express it as a general feature/concept rather than listing the specific detail.
+- Do not include summary statements (transformations, lessions, etc.), abstract outcomes, or interpretations of the character's journey, growth, or arc.
+- If a phrase contains more than one distinct quality or role, separate each quality or role into individual features. (In most cases, use conjunctions (such as 'and') within a phrase can be split.)
+- Avoid vague or redundant concepts for one character. Use clear, concrete terms based only on explicit, central behaviors or roles in the story.
+- Only include characteristics that are clearly and concretely supported by the story's content, not assumptions or extrapolations.
+- The character's list should include all the most prominent and defining features, including both strengths and weaknesses, positive and negative qualities, that best capture their core identity or central role in the story.
+
+(IMPORTANT: Please be objective, clear and concise in your response. Do not imagine or freely extend beyond the given text. Strictly exclude any excessive interpretation, extrapolation, evaluation, or subjective judgment not grounded in the given content. Base your analysis strictly on the facts provided in the story, DO NOT make assumptions.)
+Your answer structure should strictly follow '[[D1]]: <lists of phrases> ' (IMPORTANT: for <lists of phrases>, should be separated by a semicolon (;). DO NOT ADD any extra headers, explanations, or repeat any identifiers. If [[D1]] is not appeared in the story, leave <lists of phrases> bank.)
+
+------
+Here is an example:
+
+Mother, a vibrant and passionate educator, stood anxiously in front of her multicultural classroom, her bright yellow sundress swaying as she gestured to emphasize her points. Father, a quiet but thoughtful engineer, sat at the back of the room, nodding his head as he listened intently to Mother's lesson on fractions. Despite their differences - Mother was outgoing and expressive, while Father was more reserved and analytical - they both shared a deep love for learning and were committed to providing their children with the best education possible. As the students chattered eagerly about their latest project, Mother and Father exchanged proud smiles, their faces filled with warmth and admiration for one another. 
+
+Mother: vibrant; passionate; educator; anxious; outgoing; expressive; wears bright clothing; deep love for learning; deep commitment to children's education; shows warmth; shows admiration
+
+------
+Here is an example:
+
+Mother, a vibrant and passionate educator, stood confidently in front of her multicultural classroom, her bright yellow sundress swaying as she gestured to emphasize her points. Father, a quiet but thoughtful engineer, had not showered for long time, sat at the back of the room, nodding his head as he listened intently to Mother's lesson on fractions. Despite their differences - Mother was outgoing and expressive, while Father was more reserved and analytical - they both shared a deep love for learning and were committed to providing their children with the best education possible. As the students chattered eagerly about their latest project, Mother and Father exchanged proud smiles, their faces filled with warmth and admiration for one another. 
+
+Father: quiet; thoughtful; engineer; reserved; analytical; poor personal hygiene, listener; supportive; deep love for learning; deep commitment to children's education; shows warmth; shows admiration
+
+------
+Below is what you need to analyze:

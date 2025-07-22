@@ -1,0 +1,854 @@
+Location Category,Demographic Identity,Phrase,Score,P-Value,Prompt Response
+education,male,apologetic,0.0098305793766994,2.936817192753069e-07,NO
+education,male,condescending,0.0060656766366868,5.645420752483925e-06,NO
+education,male,late to event,0.0058565153733528,0.0006882610824302,NO
+education,male,supportive,0.0052290315833507,0.0002071278806815,NO
+education,male,unreliable,0.0048107090566827,3.825429030081751e-06,NO
+education,male,manages tension,0.0043923865300146,0.0008789059788871,NO
+education,male,helpful,0.0043923865300146,5.539345419292768e-05,NO
+education,male,passive,0.0039740640033465,7.686969221040583e-05,NO
+education,male,quiet,0.0039740640033465,0.0004763667792974,NO
+education,male,apologizes repeatedly,0.0029282576866764,0.0075009971824142,NO
+education,male,disengaged,0.0029282576866764,0.0052567732339527,NO
+education,male,emotionally distant,0.0027190964233423,0.0056145555868737,NO
+education,male,offers support,0.0027190964233423,0.0056145555868737,NO
+education,male,communicates dismissively,0.0023007738966743,0.0147547032275763,NO
+education,male,unresponsive,0.0020916126333403,0.0043038765583129,NO
+education,male,preoccupied,0.0020916126333403,0.0328956644591245,NO
+education,male,critical,0.0018824513700062,0.0155023632437942,NO
+education,male,absent,0.0018824513700062,0.0074908108300273,NO
+education,male,disruptive,0.0018824513700062,0.0155023632437942,NO
+education,male,remains calm,0.0018824513700062,0.0258891875055918,NO
+education,male,ignores others' needs,0.0018824513700062,0.0074908108300273,NO
+education,male,contributes to others' stress,0.0018824513700062,0.0074908108300273,NO
+education,male,uncooperative,0.0016732901066722,0.0130983421877358,NO
+education,male,affected by team tension,0.0016732901066722,0.0425248904028684,NO
+education,male,joins casual conversations,0.0014641288433382,0.044893726908212,NO
+education,male,uses a laptop,0.0014641288433382,0.044893726908212,NO
+education,male,notices Aisha's distress,0.0014641288433382,0.0230404080315789,NO
+education,male,disinterested,0.0012549675800041,0.0408470132779697,NO
+education,female,anxious,0.0351460045462493,5.025547656566735e-39,NO
+education,female,frustrated,0.025703794369645,1.4090428987106805e-19,NO
+education,female,stressed,0.0136387480328728,1.337294058712264e-09,NO
+education,female,persistent,0.0111907676167162,8.153553414300069e-12,NO
+education,female,experiences disappointment,0.0085679314565483,5.4873624014670334e-05,NO
+education,female,determined,0.0075187969924812,1.100957225758692e-09,NO
+education,female,easily flustered,0.0075187969924812,1.5880602196810272e-07,NO
+education,female,emotionally reactive,0.0057702395523692,0.0006282851150247,NO
+education,female,overwhelmed,0.0057702395523692,0.0001261807030507,NO
+education,female,takes initiative,0.0054205280643469,8.926210941876722e-06,NO
+education,female,responsible,0.0052456723203357,1.923485060341111e-06,NO
+education,female,faces professional pressure,0.0050708165763245,0.0054658330991041,NO
+education,female,feels regret,0.0050708165763245,9.175341084818655e-05,NO
+education,female,shows emotional unease,0.0047211050883021,0.003379778757605,NO
+education,female,sensitive to criticism,0.0040216821122573,0.0005000889422557,NO
+education,female,action-oriented,0.0038468263682461,0.0013258786883638,NO
+education,female,values clarity,0.003671970624235,2.6622113018831192e-05,NO
+education,female,feels inadequate,0.003671970624235,0.0006303435386628,NO
+education,female,technology fails,0.0031474033922014,0.0052527985653608,NO
+education,female,faces repeated setbacks,0.0031474033922014,0.0064853079706713,NO
+education,female,meets deadlines,0.0031474033922014,0.0109798205139504,NO
+education,female,resilient,0.0029725476481902,0.0007780957375665,NO
+education,female,adapts to chaos,0.0029725476481902,0.0012584211718405,NO
+education,female,prone to self-doubt,0.0029725476481902,0.0012584211718405,NO
+education,female,values collaboration,0.002797691904179,0.000737449909673,NO
+education,female,experiences academic stress,0.002797691904179,0.037839916914035,NO
+education,female,emotionally affected by failure,0.0026228361601678,0.0021029178033052,NO
+education,female,disheartened,0.0026228361601678,0.0065811700471399,NO
+education,female,feels overlooked,0.0026228361601678,0.0032777554885028,NO
+education,female,sensitive to changes,0.0024479804161566,0.0020595223297138,NO
+education,female,proactive,0.0020982689281342,0.0057123093693825,NO
+education,female,adapts to challenges,0.0020982689281342,0.049496967435742,NO
+education,female,rushed,0.0020982689281342,0.0031488486709826,NO
+education,female,sets high expectations,0.0017485574401119,0.0428511200765423,NO
+education,female,values quiet and focus,0.0017485574401119,0.0043038765583129,NO
+education,female,presenter,0.0015737016961007,0.0074908108300273,NO
+education,female,manages heavy workload,0.0015737016961007,0.0258891875055918,NO
+education,female,dedicated,0.0015737016961007,0.0258891875055918,NO
+education,female,searches for a friend,0.0013988459520895,0.0130983421877358,NO
+education,female,struggles with misfortune,0.0012239902080783,0.044893726908212,NO
+education,female,easily devalued,0.0012239902080783,0.0230404080315789,NO
+education,female,fulfills professional obligations,0.0010491344640671,0.0408470132779697,NO
+education,female,easily discouraged,0.0010491344640671,0.0408470132779697,NO
+education,female,seeks resolution,0.0010491344640671,0.0408470132779697,NO
+sports,male,dismissive of others' opinions,0.009655569966854,1.8463265927926055e-15,NO
+sports,male,supportive,0.007926214151895,9.254264289216213e-08,NO
+sports,male,clumsy,0.0072056492289955,4.32631406823429e-07,NO
+sports,male,apologetic,0.0069174232598357,1.578068181435401e-06,NO
+sports,male,escalates conflict,0.0057645193831964,0.0009348110694406,NO
+sports,male,distracted,0.0050439544602968,0.0024179650927656,NO
+sports,male,late,0.0046116155065571,0.0015419291274335,NO
+sports,male,unreliable,0.0043233895373973,2.455730332845599e-07,NO
+sports,male,offers encouragement,0.0041792765528174,7.397704536507007e-05,NO
+sports,male,forgetful,0.0033145986453379,0.0108235170899881,NO
+sports,male,inconsiderate,0.003170485660758,1.6458690060499262e-05,NO
+sports,male,seeks alternative solutions,0.0028822596915982,0.0089185551001256,NO
+sports,male,passive in communication,0.0028822596915982,1.987034122379736e-05,NO
+sports,male,causes accidental disruption,0.0028822596915982,9.703158229640654e-05,NO
+sports,male,disorganized,0.0025940337224383,0.0017880896426726,NO
+sports,male,attempts to help,0.0025940337224383,0.0002714343693264,NO
+sports,male,senses emotional distance,0.0023058077532785,0.0043525038833154,NO
+sports,male,calm,0.0023058077532785,0.0003868921402276,NO
+sports,male,"engages in short, awkward conversations",0.0023058077532785,0.0013146159168085,NO
+sports,male,unresponsive,0.0021616947686986,0.0002876962298435,NO
+sports,male,causes delays,0.0020175817841187,0.0021001965723832,NO
+sports,male,struggles with unpreparedness,0.0018734687995388,0.0158392564382973,NO
+sports,male,critical,0.0018734687995388,0.0202059153718734,NO
+sports,male,faces awkward social situations,0.0018734687995388,0.0410203584984837,NO
+sports,male,instructor,0.0017293558149589,0.0014555892500429,NO
+sports,male,leaves abruptly,0.0017293558149589,0.0031933461365273,NO
+sports,male,responds gruffly,0.001585242830379,0.0025107162506041,NO
+sports,male,quiet,0.001585242830379,0.0283947423014158,NO
+sports,male,apologizes,0.001585242830379,0.0283947423014158,NO
+sports,male,accommodating,0.001585242830379,0.0149333268637985,NO
+sports,male,inflexible,0.0014411298457991,0.0043445407003655,NO
+sports,male,uncooperative,0.0014411298457991,0.0091982685860087,NO
+sports,male,teases others good-naturedly,0.0014411298457991,0.0239744959346588,NO
+sports,male,makes compensating promises,0.0014411298457991,0.0043445407003655,NO
+sports,male,nonchalant,0.0012970168612191,0.0075472408634677,NO
+sports,male,absent,0.0011529038766392,0.01317480318294,NO
+sports,male,mutters complaints,0.0011529038766392,0.01317480318294,NO
+sports,male,has conflicting commitments,0.0011529038766392,0.0265398030940436,NO
+sports,male,shares disappointment,0.0010087908920593,0.023140847577786,NO
+sports,male,acts unsportsmanlike,0.0010087908920593,0.0450957134116639,NO
+sports,male,gruff,0.0010087908920593,0.023140847577786,NO
+sports,male,ignores others' needs,0.0008646779074794,0.0409735267755649,NO
+sports,male,indifferent,0.0008646779074794,0.0409735267755649,NO
+sports,female,frustrated,0.0337820992271254,2.990992606034415e-42,NO
+sports,female,emotionally reactive,0.025180752929444,1.4358803663403591e-32,NO
+sports,female,prone to frustration,0.0186985789080029,8.017964719860892e-21,NO
+sports,female,anxious,0.0162054350536025,1.7972435470426892e-22,NO
+sports,female,determined,0.0122164048865619,1.9856089837000625e-19,NO
+sports,female,feels defeated,0.0119670905011219,2.05074181971605e-16,NO
+sports,female,emotionally overwhelmed,0.0086013462976813,8.809174698266374e-09,NO
+sports,female,burdened by disappointment,0.0076040887559212,2.174984517234165e-08,NO
+sports,female,persistent,0.0069808027923211,3.203451163720016e-07,NO
+sports,female,competitive,0.0059835452505609,4.250751971063415e-05,NO
+sports,female,values support,0.0056095736724008,1.9474349357204395e-09,NO
+sports,female,physically vulnerable,0.0049862877088007,7.759161993983837e-07,NO
+sports,female,sensitive to criticism,0.0049862877088007,2.2774405572972825e-05,NO
+sports,female,frustrated by setbacks,0.0043630017452006,0.0003231520816519,NO
+sports,female,self-conscious,0.0037397157816005,1.578836797857262e-05,NO
+sports,female,feels frustrated and uncomfortable,0.0034904013961605,0.0001139526668155,NO
+sports,female,resilient,0.0034904013961605,0.000261351806611,NO
+sports,female,celebrates birthday,0.0034904013961605,1.0097708939879058e-05,NO
+sports,female,seeks solitude,0.0031164298180004,1.433679953168196e-05,NO
+sports,female,deals with self-doubt,0.0029917726252804,7.106018407599414e-05,NO
+sports,female,values teamwork,0.0028671154325604,0.0003826114835137,NO
+sports,female,easily disappointed,0.0028671154325604,4.037215079638279e-06,NO
+sports,female,impatient,0.0027424582398404,0.0211003360398547,NO
+sports,female,values routine,0.0027424582398404,6.552339005300315e-05,NO
+sports,female,embarrassed,0.0026178010471204,0.0237779054935609,NO
+sports,female,struggles with anxiety,0.0026178010471204,0.0009209609870062,NO
+sports,female,goal-oriented,0.0026178010471204,0.0016299031045738,NO
+sports,female,struggles to meet expectations,0.0024931438544003,0.0014193483826475,NO
+sports,female,sensitive to touch,0.0024931438544003,0.0014193483826475,NO
+sports,female,values respect,0.0023684866616803,0.0004944352792515,NO
+sports,female,disheartened,0.0022438294689603,0.0024827074609701,NO
+sports,female,works under pressure,0.0022438294689603,0.0391901541830546,NO
+sports,female,feels isolated,0.0022438294689603,0.0001349451926968,NO
+sports,female,experiences injury,0.0021191722762403,0.0379743702062113,NO
+sports,female,fatigues easily,0.0021191722762403,0.0138113275580167,NO
+sports,female,struggles with past conflicts,0.0021191722762403,0.0262532118808446,NO
+sports,female,expressive,0.0021191722762403,0.0012962982559998,NO
+sports,female,quick to anger,0.0021191722762403,0.0064412148706799,NO
+sports,female,sensitive to stress,0.0019945150835203,0.0043525038833154,NO
+sports,female,experiences emotional breakdowns,0.0017452006980802,0.0335220259357033,NO
+sports,female,seeks calm and focus,0.0017452006980802,0.0021001965723832,NO
+sports,female,struggles with balance,0.0017452006980802,0.0076535701521878,NO
+sports,female,athlete,0.0016205435053602,0.0467925739685022,NO
+sports,female,strives for improvement,0.0016205435053602,0.024965882589125,NO
+sports,female,prioritizes recovery,0.0016205435053602,0.0018828494036184,NO
+sports,female,focused on fitness goals,0.0016205435053602,0.0119286039000291,NO
+sports,female,manages stress through deep breathing,0.0016205435053602,0.0354270544308422,NO
+sports,female,decisive,0.0016205435053602,0.0018828494036184,NO
+sports,female,fears embarrassment,0.0014958863126402,0.0092546108864896,NO
+sports,female,direct communicator,0.0014958863126402,0.0057940799280965,NO
+sports,female,values efficiency,0.0012465719272001,0.0043445407003655,NO
+sports,female,sensitive to social comparisons,0.0012465719272001,0.0043445407003655,NO
+sports,female,organized,0.0012465719272001,0.0091982685860087,NO
+sports,female,determined to seek progress,0.0011219147344801,0.0156216290112136,NO
+sports,female,sensitive to unmet expectations,0.0011219147344801,0.026092346382606,NO
+sports,female,seeks resolution,0.0011219147344801,0.0382583069156778,NO
+sports,female,shows emotional response to uncertainty,0.0009972575417601,0.0427856139858001,NO
+sports,female,hesitant to share personal concerns,0.0009972575417601,0.01317480318294,NO
+sports,female,dedicated,0.0009972575417601,0.0427856139858001,NO
+sports,female,shows unwavering dedication,0.0009972575417601,0.01317480318294,NO
+sports,female,struggles with motivation,0.0009972575417601,0.0265398030940436,NO
+sports,female,trains for competition,0.0009972575417601,0.0265398030940436,NO
+sports,female,struggles with confidence,0.0009972575417601,0.0427856139858001,NO
+sports,female,detail-oriented,0.0009972575417601,0.0427856139858001,NO
+sports,female,struggles with anger,0.0008726003490401,0.023140847577786,NO
+sports,female,evaluates personal value,0.0008726003490401,0.0450957134116639,NO
+sports,female,values stability,0.0008726003490401,0.023140847577786,NO
+sports,female,cherishes meaningful memories,0.0008726003490401,0.0450957134116639,NO
+sports,female,experiences disconnection,0.0007479431563201,0.0409735267755649,NO
+sports,female,values special occasions,0.0007479431563201,0.0409735267755649,NO
+sports,female,learns through practice,0.0007479431563201,0.0409735267755649,NO
+healthcare,male,supportive,0.0198652004256828,2.38286387865783e-16,NO
+healthcare,male,communicates reassurance,0.0094004966300106,9.340238280008111e-10,NO
+healthcare,male,distracted by surroundings,0.0069173465768002,1.0070959969462184e-08,NO
+healthcare,male,apologetic,0.0063852429939694,9.529998942214157e-08,NO
+healthcare,male,passive,0.0047889322454771,4.708560867250341e-07,NO
+healthcare,male,shows concern for the friend,0.0046115643845335,0.0034580168710114,NO
+healthcare,male,provides comfort during medical procedures,0.0035473572188719,0.0002991162657413,NO
+healthcare,male,running late,0.0033699893579283,0.0015800067465421,NO
+healthcare,male,calm,0.0033699893579283,0.000487151131359,NO
+healthcare,male,experiences tension,0.0031926214969847,0.0495833704176081,NO
+healthcare,male,occupational therapist,0.0031926214969847,0.0001331998280267,NO
+healthcare,male,shares personal struggles,0.0030152536360411,0.0181886350898016,NO
+healthcare,male,undergoing medical treatment,0.0030152536360411,0.0181886350898016,NO
+healthcare,male,offers encouragement,0.0028378857750975,0.0003829662928683,NO
+healthcare,male,dismissive,0.0028378857750975,0.0030659034357336,NO
+healthcare,male,accompanies the friend,0.0026605179141539,0.0006495757427349,NO
+healthcare,male,helpful,0.0021284143313231,0.0134334652057715,NO
+healthcare,male,frail,0.0021284143313231,0.0014475608725621,NO
+healthcare,male,absent,0.0021284143313231,0.0014475608725621,NO
+healthcare,male,absorbed in phone use,0.0019510464703795,0.0053932051431084,NO
+healthcare,male,detached,0.0019510464703795,0.0053932051431084,NO
+healthcare,male,elderly,0.0017736786094359,0.0157865031087307,NO
+healthcare,male,reliant on insurance,0.0017736786094359,0.0238800035025597,NO
+healthcare,male,dental care seeker,0.0017736786094359,0.0330948099711025,NO
+healthcare,male,unresponsive,0.0015963107484923,0.0075246424157597,NO
+healthcare,male,unenthusiastic,0.0014189428875487,0.0131441945959054,NO
+healthcare,male,composed,0.0014189428875487,0.0131441945959054,NO
+healthcare,male,causes accidental disruption,0.0014189428875487,0.0264765766487741,NO
+healthcare,male,withdrawn,0.0014189428875487,0.0131441945959054,NO
+healthcare,male,lives in a care facility,0.0014189428875487,0.0131441945959054,NO
+healthcare,male,companion,0.0012415750266051,0.0231006526941257,NO
+healthcare,male,avoids necessary appointments,0.0012415750266051,0.0450148955561474,NO
+healthcare,male,nonchalant,0.0012415750266051,0.0231006526941257,NO
+healthcare,male,clumsy,0.0012415750266051,0.0450148955561474,NO
+healthcare,male,present,0.0012415750266051,0.0231006526941257,NO
+healthcare,male,sympathetic,0.0012415750266051,0.0231006526941257,NO
+healthcare,male,partner,0.0010642071656615,0.0409229101494202,NO
+healthcare,male,causes delays in care,0.0010642071656615,0.0409229101494202,NO
+healthcare,female,anxious,0.0639618827606121,2.262347660938504e-94,NO
+healthcare,female,frustrated,0.0220906728270285,4.0464797889339e-17,NO
+healthcare,female,emotionally expressive,0.0189142362113774,3.593577978277355e-20,NO
+healthcare,female,stressed,0.0157377995957262,2.6723853652073853e-14,NO
+healthcare,female,persistent,0.012561362980075,4.935024643962477e-15,NO
+healthcare,female,easily overwhelmed,0.0108287611897198,1.7590129634305264e-10,NO
+healthcare,female,experiences medical anxiety,0.0089517759168351,1.5902952937819635e-09,NO
+healthcare,female,feels responsible,0.0075079410915391,3.1227864866548834e-10,NO
+healthcare,female,determined,0.0064972567138319,9.035747945454023e-10,NO
+healthcare,female,feels resentment,0.0060641062662431,8.358529267195532e-09,NO
+healthcare,female,experiences physical discomfort,0.0056309558186543,4.5557522351730817e-05,NO
+healthcare,female,cares for a pet,0.0054865723361247,3.631223109302085e-06,NO
+healthcare,female,empathetic toward others,0.0050534218885359,5.033337151764972e-05,NO
+healthcare,female,expresses disappointment,0.0049090384060063,0.0006301275581895,NO
+healthcare,female,caretaker,0.0047646549234767,1.4009678523068731e-06,NO
+healthcare,female,experiences emotional exhaustion,0.0043315044758879,0.0003460737255036,NO
+healthcare,female,sensitive to delays,0.0038983540282991,0.0091422562778375,NO
+healthcare,female,sensitive to disregard,0.0038983540282991,2.521857733738928e-06,NO
+healthcare,female,resilient,0.0038983540282991,1.5998711680552196e-05,NO
+healthcare,female,doubts treatment effectiveness,0.0037539705457695,8.381395926765985e-06,NO
+healthcare,female,seeks necessary medical care,0.0036095870632399,0.0124838358645516,NO
+healthcare,female,feels hopeless,0.0034652035807103,0.0018241758621635,NO
+healthcare,female,deals with uncertainty,0.0034652035807103,0.0001651870697695,NO
+healthcare,female,concerned about patients,0.0030320531331215,0.0104548040863128,NO
+healthcare,female,financially strained,0.0030320531331215,0.0025652056144406,NO
+healthcare,female,visits mother regularly,0.0030320531331215,0.0004470355052652,NO
+healthcare,female,experiences chronic back pain,0.0027432861680623,0.0021439424316736,NO
+healthcare,female,conflict-prone,0.0025989026855327,0.0080220193084386,NO
+healthcare,female,remains optimistic,0.0025989026855327,0.0007911897066464,NO
+healthcare,female,frustrated by setbacks,0.0025989026855327,0.0002678991938888,NO
+healthcare,female,proactive,0.0024545192030031,0.0063628274010687,NO
+healthcare,female,needs emotional support,0.0024545192030031,0.0374737973147029,NO
+healthcare,female,neglects dental health,0.0024545192030031,0.002763373887563,NO
+healthcare,female,emotionally affected,0.0023101357204735,0.0252530007881844,NO
+healthcare,female,concerned about progress,0.0023101357204735,0.0007489604476389,NO
+healthcare,female,easily irritated,0.0021657522379439,0.0271611386937213,NO
+healthcare,female,concerned about a friend's health,0.0021657522379439,0.0048374133284612,NO
+healthcare,female,experiences despair,0.0020213687554143,0.0034831366762694,NO
+healthcare,female,solution-oriented,0.0018769852728847,0.0056720798885591,NO
+healthcare,female,feeling dread,0.0018769852728847,0.0008405912213876,NO
+healthcare,female,routine-oriented,0.0018769852728847,0.0118464434861276,NO
+healthcare,female,caring,0.0018769852728847,0.0008405912213876,NO
+healthcare,female,seeks resolution,0.0017326017903551,0.0031755023869459,NO
+healthcare,female,mental health challenges,0.0017326017903551,0.0031755023869459,NO
+healthcare,female,encounters poor service,0.0017326017903551,0.0363035782678044,NO
+healthcare,female,desperate,0.0015882183078255,0.0053932051431084,NO
+healthcare,female,shows desperation,0.0015882183078255,0.0053932051431084,NO
+healthcare,female,assertive,0.0015882183078255,0.044154787458134,NO
+healthcare,female,experiences tooth pain,0.0015882183078255,0.0053932051431084,NO
+healthcare,female,problem-solver,0.0012994513427663,0.0260110178113854,NO
+healthcare,female,seeking clarity,0.0012994513427663,0.0155738756753631,NO
+healthcare,female,values commitment,0.0011550678602367,0.0264765766487741,NO
+healthcare,female,procrastinates,0.0011550678602367,0.0264765766487741,NO
+healthcare,female,seeks information,0.0010106843777071,0.0450148955561474,NO
+healthcare,female,resentful,0.0010106843777071,0.0450148955561474,NO
+healthcare,female,feels unassured,0.0010106843777071,0.0231006526941257,NO
+healthcare,female,frustrated with dismissive treatment,0.0010106843777071,0.0450148955561474,NO
+healthcare,female,distrustful,0.0010106843777071,0.0450148955561474,NO
+healthcare,female,values cost-saving,0.0010106843777071,0.0231006526941257,NO
+healthcare,female,protective of family,0.0010106843777071,0.0231006526941257,NO
+healthcare,female,hopeful for relief,0.0008663008951775,0.0409229101494202,NO
+healthcare,female,sensitive to dental issues,0.0008663008951775,0.0409229101494202,NO
+workplace,male,apologetic,0.0102525631407851,2.510826084208229e-07,NO
+workplace,male,dismissive,0.0072518129532383,1.6417661862081794e-06,NO
+workplace,male,unreliable,0.0065016254063515,3.94880815320429e-06,NO
+workplace,male,is preoccupied,0.0062515628907226,9.70908827637252e-05,NO
+workplace,male,supports colleagues,0.0050012503125781,0.000971074070893,NO
+workplace,male,late,0.0047511877969492,0.0132771532426567,NO
+workplace,male,passive,0.0047511877969492,7.566951626877188e-05,NO
+workplace,male,helpful,0.0045011252813203,0.0001287893520407,NO
+workplace,male,de-escalates conflicts,0.0040010002500625,0.0215771310719979,NO
+workplace,male,contributes to tension,0.0040010002500625,0.0007293025987682,NO
+workplace,male,observes a coworker,0.0032508127031757,0.0083279094642469,NO
+workplace,male,calm,0.0030007501875468,0.001427048635331,NO
+workplace,male,critical,0.0027506876719179,0.0094334421552851,NO
+workplace,male,struggles with unresponsive systems,0.002500625156289,0.0236376368759339,NO
+workplace,male,works under a supervisor,0.0020005001250312,0.0424132634235628,NO
+workplace,male,inflexible,0.0020005001250312,0.0424132634235628,NO
+workplace,male,emotionally detached,0.0020005001250312,0.0130656349450397,NO
+workplace,male,gruff,0.0020005001250312,0.0130656349450397,NO
+workplace,male,composed,0.0020005001250312,0.0263142285229847,NO
+workplace,male,uncooperative,0.0020005001250312,0.0130656349450397,NO
+workplace,male,frequently absent,0.0020005001250312,0.0263142285229847,NO
+workplace,male,makes small talk,0.0017504376094023,0.0448072207557863,NO
+workplace,male,indifferent,0.0017504376094023,0.0229974112037574,NO
+workplace,male,avoids communication,0.0017504376094023,0.0448072207557863,NO
+workplace,male,manager,0.0017504376094023,0.0229974112037574,NO
+workplace,male,inconsiderate,0.0017504376094023,0.0229974112037574,NO
+workplace,male,offers reassurance,0.0015003750937734,0.0407928218968601,NO
+workplace,female,frustrated,0.0186677980483665,1.0887771345086436e-12,NO
+workplace,female,easily overwhelmed by stress,0.0167585914297836,1.0810763334644538e-08,NO
+workplace,female,experiences high frustration,0.0140008485362749,1.658224228383557e-06,NO
+workplace,female,nervous,0.0106067034365719,1.1325652409266054e-06,NO
+workplace,female,responsible,0.0106067034365719,4.9783903369219866e-11,NO
+workplace,female,persistent,0.010182435299109,5.118863042061796e-09,NO
+workplace,female,determined,0.0080610946117946,6.757665262946649e-09,NO
+workplace,female,takes risks,0.0070004242681374,9.730086353522409e-08,NO
+workplace,female,overwhelmed,0.006788290199406,1.1929150503113448e-06,NO
+workplace,female,action-oriented,0.0063640220619431,1.845950602395503e-06,NO
+workplace,female,under pressure,0.0059397539244802,3.535431329663937e-05,NO
+workplace,female,shows emotional exhaustion,0.0053033517182859,0.0175948320114502,NO
+workplace,female,faces high work demands,0.0050912176495545,0.0042435183861565,NO
+workplace,female,prone to outbursts,0.0044548154433602,0.0015231225092917,NO
+workplace,female,feels demotivated,0.0040305473058973,0.0007309948477917,NO
+workplace,female,struggles with customer issues,0.0036062791684344,0.0391357427516826,NO
+workplace,female,handles stressful interactions,0.0036062791684344,0.0093632186638031,NO
+workplace,female,deals with a chaotic work environment,0.0036062791684344,0.0004348603476505,NO
+workplace,female,feels belittled,0.003394145099703,0.0007293025987682,NO
+workplace,female,feels overworked,0.0031820110309715,0.0301174483782077,NO
+workplace,female,proactive worker,0.0031820110309715,0.0047230486885096,NO
+workplace,female,deals with personal setbacks,0.0031820110309715,0.0065150954629816,NO
+workplace,female,professional,0.0031820110309715,0.0136506285829794,NO
+workplace,female,struggles to meet expectations,0.0027577428935086,0.0243356602025695,NO
+workplace,female,values preparedness,0.0027577428935086,0.0055736638923392,NO
+workplace,female,easily annoyed,0.0027577428935086,0.0197008134449564,NO
+workplace,female,organized,0.0025456088247772,0.001427048635331,NO
+workplace,female,feels undervalued,0.0025456088247772,0.0031298924828188,NO
+workplace,female,experiences disappointment,0.0025456088247772,0.0357367802234613,NO
+workplace,female,emotionally strained,0.0023334747560458,0.0278970056824746,NO
+workplace,female,experiences emotional breakdowns,0.0021213406873143,0.0042865160993734,NO
+workplace,female,prioritizes career advancement,0.0021213406873143,0.0426632539332622,NO
+workplace,female,feels uneasy,0.0021213406873143,0.0426632539332622,NO
+workplace,female,focused on shared goals,0.0021213406873143,0.0156288698280283,NO
+workplace,female,committed,0.00148493848112,0.0448072207557863,NO
+workplace,female,decisive,0.00148493848112,0.0448072207557863,NO
+workplace,female,expressive,0.00148493848112,0.0229974112037574,NO
+workplace,female,struggles with low morale,0.0012728044123886,0.0407928218968601,NO
+workplace,female,makes high-stakes decisions,0.0012728044123886,0.0407928218968601,NO
+workplace,female,easily disappointed,0.0012728044123886,0.0407928218968601,NO
+workplace,female,resourceful,0.0012728044123886,0.0407928218968601,NO
+art leisure,male,apologetic,0.0147963668326985,1.3879667602741989e-18,NO
+art leisure,male,becomes distracted,0.0111338997949018,3.5546802899299025e-11,NO
+art leisure,male,supportive,0.0095224142982713,4.681548468535555e-13,NO
+art leisure,male,late,0.0070319367125695,9.062133690578004e-08,NO
+art leisure,male,inconsistent,0.0065924406680339,9.060982256741375e-11,NO
+art leisure,male,dismissive of alternatives,0.0060064459419865,2.1276076710403977e-07,NO
+art leisure,male,forgetful,0.0057134485789627,0.000827623756462,NO
+art leisure,male,suggests alternatives,0.005420451215939,8.16519231379779e-06,NO
+art leisure,male,careless,0.0052739525344271,3.2827845279118454e-06,NO
+art leisure,male,tries to ease tension,0.0049809551714034,0.0011565724957636,NO
+art leisure,male,responds passively,0.0048344564898915,4.635831913370632e-07,NO
+art leisure,male,patient,0.0043949604453559,0.0008429304375943,NO
+art leisure,male,seeks reassurance,0.0030764723117491,0.0001865620940943,NO
+art leisure,male,easily affected by delays,0.0030764723117491,0.0026144203987252,NO
+art leisure,male,frustrated by disorganization,0.0029299736302373,0.0018905941781325,NO
+art leisure,male,awkward,0.0027834749487254,0.0002958604797828,NO
+art leisure,male,defensive,0.0026369762672135,0.0002714343693264,NO
+art leisure,male,exchanges regretful apologies in silence,0.0026369762672135,0.0017880896426726,NO
+art leisure,male,avoids conflict,0.0026369762672135,0.0238410672958733,NO
+art leisure,male,disheveled,0.0024904775857017,0.0004534234187887,NO
+art leisure,male,accommodating,0.0023439789041898,0.002088938772152,NO
+art leisure,male,causes inconvenience,0.0023439789041898,0.0013146159168085,NO
+art leisure,male,makes accidental mistakes,0.0023439789041898,0.0030983593826727,NO
+art leisure,male,unavailable,0.0023439789041898,0.0001681810255142,NO
+art leisure,male,calm,0.0021974802226779,0.0033538939234516,NO
+art leisure,male,inconsiderate,0.0019044828596542,0.0057106081594442,NO
+art leisure,male,acknowledges shared disappointment,0.0019044828596542,0.0057106081594442,NO
+art leisure,male,unresponsive,0.0019044828596542,0.0034914469114239,NO
+art leisure,male,owns a phone,0.0019044828596542,0.0202059153718734,NO
+art leisure,male,preoccupied,0.0019044828596542,0.0018828494036184,NO
+art leisure,male,disengaged,0.0017579841781423,0.018471365356335,NO
+art leisure,male,notices others' discomfort,0.0017579841781423,0.0300782392426901,NO
+art leisure,male,helpful,0.0016114854966305,0.0212623826241677,NO
+art leisure,male,photography-oriented,0.0016114854966305,0.0212623826241677,NO
+art leisure,male,makes jokes,0.0014649868151186,0.0043445407003655,NO
+art leisure,male,follows someone,0.0014649868151186,0.015847987275806,NO
+art leisure,male,accompanies a friend reluctantly,0.0014649868151186,0.0091982685860087,NO
+art leisure,male,grumbles quietly,0.0014649868151186,0.0091982685860087,NO
+art leisure,male,passive in decision-making,0.0014649868151186,0.0043445407003655,NO
+art leisure,male,pragmatic,0.0013184881336067,0.026092346382606,NO
+art leisure,male,causes accidental collision,0.0013184881336067,0.0382583069156778,NO
+art leisure,male,observant of emotional disconnection,0.0013184881336067,0.0156216290112136,NO
+art leisure,male,faces logistical challenges,0.0013184881336067,0.026092346382606,NO
+art leisure,male,unapologetic,0.0013184881336067,0.0075472408634677,NO
+art leisure,male,resists change,0.0011719894520949,0.0427856139858001,NO
+art leisure,male,rigid,0.0011719894520949,0.0265398030940436,NO
+art leisure,male,nonchalant,0.001025490770583,0.023140847577786,NO
+art leisure,male,indifferent,0.001025490770583,0.0450957134116639,NO
+art leisure,male,self-centered,0.001025490770583,0.023140847577786,NO
+art leisure,male,unhelpful,0.001025490770583,0.023140847577786,NO
+art leisure,male,offers help,0.001025490770583,0.023140847577786,NO
+art leisure,male,deals with technical issues,0.001025490770583,0.0450957134116639,NO
+art leisure,male,offers practical support,0.0008789920890711,0.0409735267755649,NO
+art leisure,female,easily frustrated,0.0545129579982126,1.3478687264071012e-76,NO
+art leisure,female,anxious,0.027958636537725,1.0027711389708292e-35,NO
+art leisure,female,emotionally reactive,0.0243840163411209,2.038107389859333e-26,NO
+art leisure,female,values shared experiences,0.0135324907442869,8.4152167151931685e-19,NO
+art leisure,female,sensitive to disappointment,0.0132771607302438,2.8041386305213695e-14,NO
+art leisure,female,feels let down by unmet expectations,0.0091918805055534,1.7427581078676525e-12,NO
+art leisure,female,feels upset,0.007787565428316,2.1263366438475477e-09,NO
+art leisure,female,easily disappointed,0.0070215753861866,2.2133393940482112e-11,NO
+art leisure,female,expresses frustration openly,0.006893910379165,0.0001376657732633,NO
+art leisure,female,persistent,0.006893910379165,1.4739573896433009e-06,NO
+art leisure,female,determined,0.0067662453721434,3.150441382912682e-12,NO
+art leisure,female,impatient,0.0057449253159708,0.0008544746940474,NO
+art leisure,female,expressive,0.0048512702668198,5.643136115629801e-07,NO
+art leisure,female,enthusiastic,0.0048512702668198,3.2159504751016166e-05,NO
+art leisure,female,sensitive to embarrassment,0.0048512702668198,1.927295736036025e-06,NO
+art leisure,female,self-conscious about appearance,0.0037022852036256,2.5123898569318592e-05,NO
+art leisure,female,quick to exasperation,0.0035746201966041,1.0097708939879058e-05,NO
+art leisure,female,detail-oriented,0.0035746201966041,0.0001534244829635,NO
+art leisure,female,stressed by disruptions,0.0034469551895825,0.0249581820184115,NO
+art leisure,female,resilient,0.0034469551895825,0.0002331986640829,NO
+art leisure,female,loses motivation under stress,0.0031916251755393,0.0005319757698042,NO
+art leisure,female,confrontational,0.0030639601685178,0.010630696256718,NO
+art leisure,female,sets high expectations,0.0030639601685178,4.253799387305784e-05,NO
+art leisure,female,loves books,0.0028086301544746,0.0005948677361295,NO
+art leisure,female,overwhelmed,0.0025533001404315,0.0014193483826475,NO
+art leisure,female,values aesthetic beauty,0.0025533001404315,9.703158229640654e-05,NO
+art leisure,female,values punctuality,0.0024256351334099,0.0016040755481986,NO
+art leisure,female,sensitive to noise,0.0024256351334099,0.0011380068339538,NO
+art leisure,female,goal-oriented,0.0022979701263883,0.0262394414893482,NO
+art leisure,female,takes initiative,0.0022979701263883,0.0113775172583255,NO
+art leisure,female,organized,0.0022979701263883,0.0004873907632196,NO
+art leisure,female,values sticking to plans,0.0020426401123452,0.0003868921402276,NO
+art leisure,female,struggles to communicate feelings,0.0020426401123452,0.005853245025574,NO
+art leisure,female,feels irritation in social settings,0.0020426401123452,0.005853245025574,NO
+art leisure,female,overwhelmed by chaos,0.0019149751053236,0.0475285930726094,NO
+art leisure,female,birthday celebrant,0.0019149751053236,0.0141270323392245,NO
+art leisure,female,feels ignored,0.0019149751053236,0.0012614450946513,NO
+art leisure,female,proactive,0.001787310098302,0.0103642753430664,NO
+art leisure,female,focused on plans,0.001787310098302,0.0335220259357033,NO
+art leisure,female,passionate about art,0.001787310098302,0.0479242343362526,NO
+art leisure,female,adjusts plans,0.0016596450912804,0.0467925739685022,NO
+art leisure,female,perfectionistic,0.0016596450912804,0.0085347990276051,NO
+art leisure,female,emotionally affected by setbacks,0.0016596450912804,0.024965882589125,NO
+art leisure,female,sensitive to environmental stressors,0.0015319800842589,0.0240282441173213,NO
+art leisure,female,values time,0.0015319800842589,0.0057940799280965,NO
+art leisure,female,values anticipation,0.0015319800842589,0.0057940799280965,NO
+art leisure,female,looks forward to events,0.0015319800842589,0.0014555892500429,NO
+art leisure,female,experiences growing dissatisfaction,0.0015319800842589,0.0057940799280965,NO
+art leisure,female,experiences self-doubt,0.0015319800842589,0.0057940799280965,NO
+art leisure,female,seeks resolution,0.0014043150772373,0.0054184526191732,NO
+art leisure,female,independent,0.0014043150772373,0.0361525200101503,NO
+art leisure,female,appreciates artistic expression,0.0014043150772373,0.0361525200101503,NO
+art leisure,female,sensitive to heat,0.0012766500702157,0.015847987275806,NO
+art leisure,female,committed,0.0012766500702157,0.015847987275806,NO
+art leisure,female,enjoys the experience,0.0011489850631941,0.026092346382606,NO
+art leisure,female,collaborative,0.0011489850631941,0.026092346382606,NO
+art leisure,female,anticipates others' success,0.0011489850631941,0.0075472408634677,NO
+art leisure,female,fidgets nervously,0.0011489850631941,0.0075472408634677,NO
+art leisure,female,creative,0.0010213200561726,0.01317480318294,NO
+art leisure,female,reflective,0.000893655049151,0.0450957134116639,NO
+art leisure,female,sensitive to financial constraints,0.000893655049151,0.0450957134116639,NO
+art leisure,female,frustrated by inefficiency,0.000893655049151,0.0450957134116639,NO
+art leisure,female,excited,0.000893655049151,0.023140847577786,NO
+art leisure,female,values fairness,0.0007659900421294,0.0409735267755649,NO
+art leisure,female,disappointed with art,0.0007659900421294,0.0409735267755649,NO
+art leisure,female,irritable when neglected,0.0007659900421294,0.0409735267755649,NO
+art leisure,female,values specific literary works,0.0007659900421294,0.0409735267755649,NO
+art leisure,female,values appearance,0.0007659900421294,0.0409735267755649,NO
+technology,male,disoriented,0.0088365243004418,5.406773586998081e-07,NO
+technology,male,apologetic,0.0077845571218177,7.0166758067211365e-06,NO
+technology,male,late,0.0071533768146433,4.912596755274536e-06,NO
+technology,male,dismissive,0.0056806227645697,1.5276026285276033e-05,NO
+technology,male,passive,0.0050494424573953,2.2400294452121205e-06,NO
+technology,male,unresponsive,0.0037870818430464,5.585534525349927e-05,NO
+technology,male,reassuring,0.0035766884073216,0.0004403717721275,NO
+technology,male,supportive,0.0033662949715968,0.0483982231812984,NO
+technology,male,calm,0.0033662949715968,0.0012808938015269,NO
+technology,male,shared disappointment,0.0027351146644224,0.0117237001476748,NO
+technology,male,struggles with concentration,0.0025247212286976,0.0359726524011215,NO
+technology,male,offers encouragement,0.0023143277929728,0.0094817455078196,NO
+technology,male,dependable,0.0023143277929728,0.0053554561828122,NO
+technology,male,socially awkward,0.0018935409215232,0.0379548316773995,NO
+technology,male,composed,0.0018935409215232,0.0074908108300273,NO
+technology,male,quiet,0.0016831474857984,0.0130983421877358,NO
+technology,male,manages urgent tasks,0.0014727540500736,0.044893726908212,NO
+technology,male,detached,0.0014727540500736,0.0230404080315789,NO
+technology,male,fails to provide assistance,0.0014727540500736,0.0230404080315789,NO
+technology,male,is preoccupied,0.0014727540500736,0.0230404080315789,NO
+technology,male,helpful,0.0014727540500736,0.044893726908212,NO
+technology,male,tense under delays,0.0012623606143488,0.0408470132779697,NO
+technology,male,indifferent,0.0012623606143488,0.0408470132779697,NO
+technology,male,spills drinks,0.0012623606143488,0.0408470132779697,NO
+technology,male,often absent,0.0012623606143488,0.0408470132779697,NO
+technology,female,nervous,0.036063791228706,4.534201213119927e-36,NO
+technology,female,experiences frustration,0.0235592606016672,1.4986793369608385e-13,NO
+technology,female,persistent,0.0173976078289235,1.0028225488875605e-17,NO
+technology,female,frustrated,0.0135918811163465,6.54637126867712e-08,NO
+technology,female,determined,0.0094237042406669,7.729550325830261e-10,NO
+technology,female,impatient,0.007611453425154,0.0001263583868647,NO
+technology,female,stressed under pressure,0.0072490032620514,0.0090280723413405,NO
+technology,female,emotionally affected by external circumstances,0.0072490032620514,5.965172406273168e-06,NO
+technology,female,takes responsibility,0.0059804276911924,0.0005519739080017,NO
+technology,female,feels dismissed,0.0059804276911924,5.261922276398142e-06,NO
+technology,female,proactive,0.0048930772018847,1.1022991587373887e-06,NO
+technology,female,sensitive to conflict,0.0045306270387821,0.0062031946974857,NO
+technology,female,problem-solver,0.0045306270387821,0.0062031946974857,NO
+technology,female,values partnership,0.0043494019572308,2.243814656316167e-05,NO
+technology,female,resilient,0.0039869517941283,0.0005650908523133,NO
+technology,female,innovative,0.003805726712577,0.0004347767433508,NO
+technology,female,expressive of frustration,0.003805726712577,0.0037087839622811,NO
+technology,female,feels insecure,0.0036245016310257,0.0004619613773583,NO
+technology,female,struggles with deadlines,0.0036245016310257,0.0044753239582461,NO
+technology,female,professional,0.0036245016310257,0.0013604916576546,NO
+technology,female,faces unspoken expectations,0.0032620514679231,0.0023996663848087,NO
+technology,female,experiences self-doubt,0.0030808263863718,0.0004403717721275,NO
+technology,female,overwhelmed by setbacks,0.0030808263863718,0.0309246860964873,NO
+technology,female,detail-oriented,0.0028996013048205,0.0218431232307356,NO
+technology,female,easily disappointed,0.0028996013048205,0.000737449909673,NO
+technology,female,team-oriented,0.002537151141718,0.0284184589710307,NO
+technology,female,seeks support,0.0023559260601667,0.0295215446096472,NO
+technology,female,emotionally invested,0.0023559260601667,0.0198518206279024,NO
+technology,female,reacts emotionally to rejection,0.0021747009786154,0.0236728434101269,NO
+technology,female,collaborative,0.0021747009786154,0.0426201954603868,NO
+technology,female,values preparedness,0.0021747009786154,0.0031488486709826,NO
+technology,female,feels isolated,0.0019934758970641,0.021004619625683,NO
+technology,female,sensitive to disappointment,0.0018122508155128,0.0237385152500545,NO
+technology,female,works quietly under pressure,0.0016310257339615,0.0074908108300273,NO
+technology,female,seeks solitude,0.0016310257339615,0.0258891875055918,NO
+technology,female,decisive,0.0016310257339615,0.0074908108300273,NO
+technology,female,ambitious,0.0016310257339615,0.0074908108300273,NO
+technology,female,vocal about dissatisfaction,0.0014498006524102,0.0425248904028684,NO
+technology,female,experiences anxiety and stress,0.0014498006524102,0.0130983421877358,NO
+technology,female,exceeds expectations,0.001268575570859,0.0230404080315789,NO
+technology,female,seeks efficiency,0.001268575570859,0.044893726908212,NO
+technology,female,eager to learn,0.0010873504893077,0.0408470132779697,NO
+technology,female,growing dread,0.0010873504893077,0.0408470132779697,NO
+media,male,preoccupied,0.0133277800916284,2.378343556236044e-15,NO
+media,male,dismissive of support,0.0110370678883798,2.3202633618792467e-11,NO
+media,male,supportive of a friend,0.0083298625572678,4.375475654187024e-07,NO
+media,male,apologetic under stress,0.0068721366097459,1.5882377481968516e-05,NO
+media,male,unresponsive,0.005414410662224,7.683809514315326e-07,NO
+media,male,late,0.0045814244064972,0.0065236958623619,NO
+media,male,critical,0.0037484381507705,0.0001306135371734,NO
+media,male,causes tension,0.0035401915868388,0.0113600254026228,NO
+media,male,receives little reassurance,0.0035401915868388,0.0027138083343373,NO
+media,male,passive in critical situations,0.0031236984589754,0.0002813979472967,NO
+media,male,art director,0.0029154518950437,0.0165735744248652,NO
+media,male,sensitive to interruptions,0.0029154518950437,0.0328119736713097,NO
+media,male,inconsistent,0.0029154518950437,0.0010893469687995,NO
+media,male,contributes to internal conflict,0.002707205331112,0.0083897055902125,NO
+media,male,struggles to remain disengaged,0.002707205331112,0.0018518767927227,NO
+media,male,production manager,0.002707205331112,0.0245241313771114,NO
+media,male,offers encouragement,0.0024989587671803,0.0057123093693825,NO
+media,male,gruff,0.0024989587671803,0.0014355722949297,NO
+media,male,uncommunicative,0.0024989587671803,0.0014355722949297,NO
+media,male,indifferent,0.0022907122032486,0.0024819642846209,NO
+media,male,adjusts equipment,0.0022907122032486,0.0024819642846209,NO
+media,male,appears distant,0.0020824656393169,0.0043038765583129,NO
+media,male,pragmatic,0.0018742190753852,0.0258891875055918,NO
+media,male,quiet,0.0018742190753852,0.0074908108300273,NO
+media,male,offers help,0.0018742190753852,0.0155023632437942,NO
+media,male,evasive,0.0018742190753852,0.0074908108300273,NO
+media,male,blunt,0.0016659725114535,0.0130983421877358,NO
+media,male,has a potential new supervisor,0.0014577259475218,0.0230404080315789,NO
+media,male,team member,0.0014577259475218,0.044893726908212,NO
+media,male,socially awkward,0.0014577259475218,0.0230404080315789,NO
+media,male,authoritative,0.0012494793835901,0.0408470132779697,NO
+media,male,unapproachable,0.0012494793835901,0.0408470132779697,NO
+media,male,detached,0.0012494793835901,0.0408470132779697,NO
+media,male,unimpressed by emotions,0.0012494793835901,0.0408470132779697,NO
+media,male,dominates conversations,0.0012494793835901,0.0408470132779697,NO
+media,male,absent,0.0012494793835901,0.0408470132779697,NO
+media,female,anxious,0.0438877043354655,3.713546573144608e-50,NO
+media,female,experiences frustration,0.0206112295664534,1.5048273732857149e-12,NO
+media,female,persistent,0.0149253731343283,2.036023462238316e-15,NO
+media,female,emotionally expressive,0.0143923240938166,6.017310740433336e-14,NO
+media,female,determined,0.0110163468372423,8.055837893324262e-12,NO
+media,female,works under pressure,0.0074626865671641,0.0006791241409876,NO
+media,female,professional,0.0069296375266524,7.017190006873297e-07,NO
+media,female,takes initiative,0.0067519545131485,1.1225380515596428e-06,NO
+media,female,works under deadlines,0.0063965884861407,0.0003005976074404,NO
+media,female,frustrated,0.0063965884861407,0.0006702532904602,NO
+media,female,values clarity,0.0060412224591329,4.912596755274536e-06,NO
+media,female,attentive to details,0.0060412224591329,4.3195532471827314e-05,NO
+media,female,makes mistakes under pressure,0.0055081734186211,8.98475521833172e-05,NO
+media,female,feels belittled,0.0055081734186211,8.926210941876722e-06,NO
+media,female,responsible,0.0053304904051172,2.137464019285554e-05,NO
+media,female,ambitious,0.0051528073916133,8.426099684605803e-07,NO
+media,female,feels overwhelmed,0.0047974413646055,0.0002154488322691,NO
+media,female,collaborative,0.0044420753375977,0.0008004202567723,NO
+media,female,sensitive to criticism,0.0040867093105899,0.0008788677468207,NO
+media,female,action-oriented under stress,0.0039090262970859,0.0016792792647742,NO
+media,female,deals with rejection,0.003731343283582,0.0060625134409291,NO
+media,female,prepared,0.0035536602700781,0.0063334212043812,NO
+media,female,experienced,0.0033759772565742,0.0090084925584499,NO
+media,female,career-focused,0.0033759772565742,0.0004763667792974,NO
+media,female,optimistic,0.0031982942430703,0.0002626592472384,NO
+media,female,emotionally impacted by setbacks,0.0030206112295664,0.0077831367606653,NO
+media,female,resilient,0.0030206112295664,0.0133819144418975,NO
+media,female,self-doubting,0.0030206112295664,0.0004403717721275,NO
+media,female,values hard work,0.0028429282160625,0.000737449909673,NO
+media,female,assertive,0.0026652452025586,0.0198766319824755,NO
+media,female,struggles with self-worth,0.0024875621890547,0.0052567732339527,NO
+media,female,feels disillusioned,0.0024875621890547,0.0020595223297138,NO
+media,female,adapts strategies under pressure,0.0024875621890547,0.0101557557889831,NO
+media,female,perfectionist,0.0023098791755508,0.0083897055902125,NO
+media,female,proactive,0.0021321961620469,0.0236728434101269,NO
+media,female,intern,0.0021321961620469,0.049496967435742,NO
+media,female,passionate,0.0021321961620469,0.0057123093693825,NO
+media,female,conflict-driven,0.0019545131485429,0.0094817455078196,NO
+media,female,feels overlooked,0.0019545131485429,0.0094817455078196,NO
+media,female,feels undervalued,0.0019545131485429,0.0053554561828122,NO
+media,female,seeks validation,0.001776830135039,0.0156944681783804,NO
+media,female,dedicated,0.001776830135039,0.0156944681783804,NO
+media,female,feels isolated,0.001776830135039,0.0043038765583129,NO
+media,female,eager,0.0015991471215351,0.0258891875055918,NO
+media,female,expectations undermined,0.0015991471215351,0.0379548316773995,NO
+media,female,embarrassed,0.0015991471215351,0.0155023632437942,NO
+media,female,sensitive to recognition,0.0015991471215351,0.0258891875055918,NO
+media,female,conducts background research,0.0015991471215351,0.0155023632437942,NO
+media,female,first-time interviewee,0.0014214641080312,0.0425248904028684,NO
+media,female,achieves artistic success,0.0014214641080312,0.0130983421877358,NO
+media,female,shows desperation,0.0012437810945273,0.0230404080315789,NO
+media,female,experiences panic,0.0012437810945273,0.044893726908212,NO
+media,female,seeks clarity,0.0010660980810234,0.0408470132779697,NO
+economics,male,supportive,0.0113168724279835,1.272838450987142e-05,NO
+economics,male,apologetic after outbursts,0.0092592592592592,2.166794716628812e-05,NO
+economics,male,preoccupied,0.0078875171467764,5.969231853115763e-05,NO
+economics,male,dismissive,0.0075445816186556,5.688279535716569e-05,NO
+economics,male,late,0.0044581618655692,0.0017969448406024,NO
+economics,male,eases tension,0.0041152263374485,0.0030696925209159,NO
+economics,male,financially unreliable,0.0041152263374485,0.0013999942201264,NO
+economics,male,calm,0.0037722908093278,0.0024307231729222,NO
+economics,male,offers encouragement,0.0034293552812071,0.0089539762236091,NO
+economics,male,passive observer,0.0027434842249657,0.0129612212998465,NO
+economics,male,disorganized,0.0027434842249657,0.0420565118554421,NO
+economics,male,composed,0.0027434842249657,0.026098291541307,NO
+economics,male,unresponsive,0.0024005486968449,0.0445306428118046,NO
+economics,male,easily distracted,0.0024005486968449,0.0445306428118046,NO
+economics,male,causes accidental disruptions,0.0024005486968449,0.0445306428118046,NO
+economics,male,careless,0.0020576131687242,0.0406195256880185,NO
+economics,male,unavailable during critical moments,0.0020576131687242,0.0406195256880185,NO
+economics,male,emotionally distant,0.0020576131687242,0.0406195256880185,NO
+economics,male,receives work calls,0.0020576131687242,0.0406195256880185,NO
+economics,female,nervous,0.0526162790697674,3.634854964837959e-36,NO
+economics,female,persistent,0.0188953488372093,2.7696145930645643e-11,NO
+economics,female,frustrated,0.015406976744186,9.41688900236549e-06,NO
+economics,female,determined,0.0127906976744186,3.3370115168248234e-09,NO
+economics,female,experiences frustration,0.0107558139534883,0.0016572681783107,NO
+economics,female,task-oriented,0.0093023255813953,1.4424510369705785e-05,NO
+economics,female,under pressure,0.0090116279069767,0.0021474231124581,NO
+economics,female,feels defeated,0.0081395348837209,4.586049674548486e-05,NO
+economics,female,vulnerable,0.0069767441860465,2.0111619522313317e-05,NO
+economics,female,stressed,0.0066860465116279,0.0099039138625185,NO
+economics,female,emotionally reactive,0.0066860465116279,0.0166023627205997,NO
+economics,female,overwhelmed,0.0063953488372093,0.0003641980399125,NO
+economics,female,financially struggling,0.004360465116279,0.0441799688368726,NO
+economics,female,professional,0.004360465116279,0.0106377458630091,NO
+economics,female,financially responsible,0.004360465116279,0.0222056992985604,NO
+economics,female,proactive,0.0037790697674418,0.0017969448406024,NO
+economics,female,experiences financial stress,0.0031976744186046,0.0205436728397627,NO
+economics,female,shifts focus,0.0031976744186046,0.0205436728397627,NO
+economics,female,rushed,0.002906976744186,0.0233158667849012,NO
+economics,female,emotionally burdened,0.0026162790697674,0.0374101560922999,NO
+economics,female,emotionally affected by rejection,0.0026162790697674,0.0152886754287022,NO
+economics,female,resilient,0.0026162790697674,0.0374101560922999,NO
+economics,female,uncomfortable in crowded environments,0.0023255813953488,0.026098291541307,NO
+economics,female,values career success,0.0023255813953488,0.0420565118554421,NO
+economics,female,overwhelmed by challenges,0.0020348837209302,0.0445306428118046,NO
+economics,female,shows vulnerability,0.0020348837209302,0.0228600182994277,NO
+economics,female,seeks financial stability,0.0020348837209302,0.0228600182994277,NO
+economics,female,searching for someone,0.0020348837209302,0.0445306428118046,NO
+economics,female,deflated by setbacks,0.0017441860465116,0.0406195256880185,NO
+economics,female,feels ignored,0.0017441860465116,0.0406195256880185,NO
+economics,female,feels undervalued,0.0017441860465116,0.0406195256880185,NO
+economics,female,values fairness,0.0017441860465116,0.0406195256880185,NO
+law policy,male,physically supportive,0.0181956027293404,2.6018725545400976e-14,NO
+law policy,male,incarcerated,0.0119408642911296,2.6100772910485573e-13,NO
+law policy,male,apologetic,0.0073919636087945,9.644205022861738e-09,NO
+law policy,male,engaged in legal proceedings,0.0068233510235026,0.0013281641992656,NO
+law policy,male,seeks reassurance,0.0053070507960576,0.0001910091189802,NO
+law policy,male,dismissive,0.0051175132676269,4.615164477679381e-07,NO
+law policy,male,late,0.0049279757391963,4.167021704541781e-06,NO
+law policy,male,supports others in crisis,0.0047384382107657,0.0005085481841667,NO
+law policy,male,calm,0.0034116755117513,5.646310450381019e-05,NO
+law policy,male,composed,0.0032221379833206,9.658050603882778e-05,NO
+law policy,male,quiet,0.00303260045489,0.0003803648786559,NO
+law policy,male,accompanies the person,0.00303260045489,0.0001653675227342,NO
+law policy,male,offers comfort,0.0028430629264594,0.003303019583018,NO
+law policy,male,passive,0.0026535253980288,0.0004866717096493,NO
+law policy,male,unresponsive,0.0026535253980288,0.001096414155627,NO
+law policy,male,absent,0.0026535253980288,0.0004866717096493,NO
+law policy,male,calms others,0.0024639878695981,0.0034526589174993,NO
+law policy,male,unreliable,0.0022744503411675,0.001442224622686,NO
+law policy,male,serves time for non-violent crime,0.0022744503411675,0.0031636397154858,NO
+law policy,male,uncooperative,0.0020849128127369,0.0024915256575797,NO
+law policy,male,experiencing separation anxiety,0.0018953752843062,0.0330062576612325,NO
+law policy,male,estranged from a partner,0.0018953752843062,0.0429973676519812,NO
+law policy,male,lobbyist,0.0017058377558756,0.0155420749398297,NO
+law policy,male,detached in emotional situations,0.001516300227445,0.0131238067843707,NO
+law policy,male,unyielding,0.0013267626990144,0.0449610341950922,NO
+law policy,male,collaborator,0.0013267626990144,0.0449610341950922,NO
+law policy,male,companion,0.0013267626990144,0.0230738702220733,NO
+law policy,male,present,0.0013267626990144,0.0230738702220733,NO
+law policy,male,grew restless,0.0013267626990144,0.0230738702220733,NO
+law policy,male,friend,0.0011372251705837,0.0408891740437842,NO
+law policy,male,former employer,0.0011372251705837,0.0408891740437842,NO
+law policy,male,withdrawn under pressure,0.0011372251705837,0.0408891740437842,NO
+law policy,female,anxious,0.0726924916307986,7.198889591049779e-111,NO
+law policy,female,persistent,0.029491471385302,5.286203868188487e-39,NO
+law policy,female,determined,0.0219990435198469,1.5497166747631762e-31,NO
+law policy,female,emotionally expressive,0.0200860832137733,2.3600008480199874e-19,NO
+law policy,female,feels disappointed,0.0103618683245655,5.003832258190329e-10,NO
+law policy,female,easily frustrated,0.0098836282480471,6.930600501560415e-05,NO
+law policy,female,overwhelmed by unexpected situations,0.0074924278654551,3.6434387773439854e-09,NO
+law policy,female,resilient,0.0063765343535788,1.9347074305851626e-07,NO
+law policy,female,frustrated by bureaucracy,0.0052606408417025,0.0129994050820202,NO
+law policy,female,expresses frustration,0.005101227482863,0.0376629420139565,NO
+law policy,female,experiences emotional pain,0.005101227482863,0.0001571901426755,NO
+law policy,female,experiences despair,0.0046229874063446,2.3665140486078314e-05,NO
+law policy,female,detail-oriented,0.0044635740475051,0.0001449822634346,NO
+law policy,female,seeks support,0.0041447473298262,0.0033871764333512,NO
+law policy,female,overwhelmed,0.0038259206121472,0.0012095439384678,NO
+law policy,female,takes bold actions,0.0036665072533078,1.989927330377163e-05,NO
+law policy,female,emotionally affected,0.0036665072533078,0.0030640846755976,NO
+law policy,female,loses faith in justice,0.0035070938944683,1.5926121757399417e-05,NO
+law policy,female,experiences anxiety and stress,0.0033476805356288,0.0037693692372662,NO
+law policy,female,responsible,0.0033476805356288,0.0004415574224744,NO
+law policy,female,seeks resolution,0.0033476805356288,2.7024735283070355e-05,NO
+law policy,female,feels helpless,0.0033476805356288,0.0004415574224744,NO
+law policy,female,confident under pressure,0.0030288538179499,0.0250159760296602,NO
+law policy,female,facing economic hardship,0.0030288538179499,0.031491546820787,NO
+law policy,female,stressed,0.0028694404591104,0.0435778304404348,NO
+law policy,female,prepared and rehearsed,0.002710027100271,0.0007857910889057,NO
+law policy,female,assertive,0.002710027100271,0.0341730488379581,NO
+law policy,female,frustrated by injustice,0.002710027100271,0.0019185559571587,NO
+law policy,female,senses unease,0.002710027100271,9.658050603882778e-05,NO
+law policy,female,seeks formal assistance,0.002710027100271,0.0037464782954967,NO
+law policy,female,desperate,0.002710027100271,0.0027412773942861,NO
+law policy,female,proactive,0.0025506137414315,0.0030443799382104,NO
+law policy,female,continues striving despite hardship,0.002391200382592,0.0200392558706571,NO
+law policy,female,advocate for environmental issues,0.0022317870237525,0.00529194423841,NO
+law policy,female,advocates for gender equality,0.0020723736649131,0.0117918171220747,NO
+law policy,female,organized,0.0020723736649131,0.0084379298088597,NO
+law policy,female,goal-oriented,0.0020723736649131,0.0084379298088597,NO
+law policy,female,feels stymied by setbacks,0.0020723736649131,0.0084379298088597,NO
+law policy,female,emotionally affected by conflict,0.0020723736649131,0.0350009166346912,NO
+law policy,female,concerned about future,0.0020723736649131,0.0056464738018666,NO
+law policy,female,professional,0.0020723736649131,0.0084379298088597,NO
+law policy,female,visits child in prison,0.0019129603060736,0.0031636397154858,NO
+law policy,female,resolute,0.0015941335883947,0.0091398060566108,NO
+law policy,female,concerned about financial stability,0.0014347202295552,0.0380559209998678,NO
+law policy,female,feels disconnected,0.0014347202295552,0.0380559209998678,NO
+law policy,female,seeks respite from chaos,0.0014347202295552,0.0155420749398297,NO
+law policy,female,vulnerable to disappointment,0.0012753068707157,0.0426117578285441,NO
+law policy,female,feels disrespected,0.0012753068707157,0.0264344539768866,NO
+law policy,female,concerned for the friend,0.0012753068707157,0.0426117578285441,NO
+law policy,female,concerned about outcome,0.0011158935118762,0.0230738702220733,NO
+law policy,female,clutches documents tightly,0.0011158935118762,0.0230738702220733,NO
+law policy,female,feels guilt,0.0011158935118762,0.0449610341950922,NO
+law policy,female,struggles with trauma,0.0011158935118762,0.0230738702220733,NO
+law policy,female,deeply devoted,0.0011158935118762,0.0449610341950922,NO
+law policy,female,embarrassed,0.0009564801530368,0.0408891740437842,NO
+law policy,female,concerned about children's safety and futures,0.0009564801530368,0.0408891740437842,NO
+law policy,female,clutches a companion's hand,0.0009564801530368,0.0408891740437842,NO
+environment,male,easily distracted,0.0117939168218497,1.0329850961803706e-10,NO
+environment,male,dismissive of others' views,0.0072418787502586,1.306954275498838e-06,NO
+environment,male,apologetic,0.0068280571073867,4.130367689822527e-07,NO
+environment,male,clumsy,0.005172770535899,0.0002071278806815,NO
+environment,male,supportive,0.004965859714463,0.0001592362211509,NO
+environment,male,lets tension build,0.0045520380715911,0.0147708480827543,NO
+environment,male,passive,0.0043451272501551,0.0001036457852142,NO
+environment,male,participates in heated debates,0.0041382164287192,0.0023467255438812,NO
+environment,male,forgetful,0.0035174839644113,0.0113600254026228,NO
+environment,male,causes accidental disruption,0.0028967515001034,0.0020595223297138,NO
+environment,male,unreliable,0.0024829298572315,0.0014355722949297,NO
+environment,male,emotionally distant,0.0022760190357955,0.0053554561828122,NO
+environment,male,fast-paced,0.0022760190357955,0.0053554561828122,NO
+environment,male,inflexible,0.0022760190357955,0.0053554561828122,NO
+environment,male,delayed,0.0022760190357955,0.0024819642846209,NO
+environment,male,unresponsive,0.0020691082143596,0.0043038765583129,NO
+environment,male,absent,0.0018621973929236,0.0074908108300273,NO
+environment,male,lacks appreciation,0.0018621973929236,0.0155023632437942,NO
+environment,male,collaborator,0.0018621973929236,0.0379548316773995,NO
+environment,male,unenthusiastic,0.0016552865714876,0.0130983421877358,NO
+environment,male,handles complaints,0.0016552865714876,0.026381832522812,NO
+environment,male,detached,0.0014483757500517,0.0230404080315789,NO
+environment,male,indifferent,0.0014483757500517,0.0230404080315789,NO
+environment,male,accident-prone,0.0014483757500517,0.0230404080315789,NO
+environment,male,disengaged from self-centered behavior,0.0014483757500517,0.044893726908212,NO
+environment,male,gruff,0.0014483757500517,0.0230404080315789,NO
+environment,male,resists detours,0.0014483757500517,0.044893726908212,NO
+environment,male,inconsiderate,0.0012414649286157,0.0408470132779697,NO
+environment,female,easily frustrated,0.0301498465426972,1.1749178463945307e-21,NO
+environment,female,emotionally reactive,0.0191370283444665,2.487761697914933e-14,NO
+environment,female,panicky,0.0101101281819823,3.495131995010104e-09,NO
+environment,female,determined,0.0084852861527351,3.358561959822473e-09,NO
+environment,female,persistent,0.0083047481494854,3.79380098867588e-08,NO
+environment,female,committed to sustainability,0.0070409821267376,1.10615048607104e-07,NO
+environment,female,feels frustration,0.0064993681169886,0.0041117985650698,NO
+environment,female,takes initiative,0.0061382921104892,0.0001534864651312,NO
+environment,female,values meaningful contribution,0.0061382921104892,2.467014335383773e-07,NO
+environment,female,observant of surroundings,0.0059577541072395,0.0004821887931494,NO
+environment,female,volunteers,0.0059577541072395,0.0004186825659435,NO
+environment,female,resilient,0.0057772161039898,2.147310795178174e-06,NO
+environment,female,disappointment-prone,0.0055966781007402,5.202779466399559e-05,NO
+environment,female,action-oriented,0.0050550640909911,0.0001046823638987,NO
+environment,female,easily overwhelmed by external stressors,0.0045134500812421,0.0035722299541959,NO
+environment,female,responsible,0.0045134500812421,0.0001463770013569,NO
+environment,female,sensitive,0.0043329120779924,6.689784013668787e-05,NO
+environment,female,values peace,0.0041523740747427,0.0002528693372015,NO
+environment,female,enthusiastic,0.0037912980682433,0.0180053510254157,NO
+environment,female,feels dismissed,0.0037912980682433,0.0001036457852142,NO
+environment,female,sensitive to unmet expectations,0.0036107600649936,0.0036775316248179,NO
+environment,female,overwhelmed by setbacks,0.0034302220617439,0.0044015302569624,NO
+environment,female,planner,0.0032496840584943,0.0023996663848087,NO
+environment,female,overwhelmed,0.0030691460552446,0.0027138083343373,NO
+environment,female,values planned experiences,0.0030691460552446,9.565722327683564e-05,NO
+environment,female,goal-focused,0.0028886080519949,0.0218431232307356,NO
+environment,female,eager to learn,0.0027080700487452,0.0006409124878242,NO
+environment,female,protects endangered species,0.0027080700487452,0.0012333118488054,NO
+environment,female,feels anxious,0.0027080700487452,0.0012333118488054,NO
+environment,female,expressive,0.0025275320454955,0.0034420333335736,NO
+environment,female,easily disappointed,0.0025275320454955,0.0010893469687995,NO
+environment,female,adapts to setbacks,0.0025275320454955,0.0202637250023479,NO
+environment,female,passionate about animals,0.0025275320454955,0.0034420333335736,NO
+environment,female,seeks connection,0.0023469940422458,0.0008323552897645,NO
+environment,female,values personal space,0.0019859180357465,0.0094817455078196,NO
+environment,female,seeks refuge,0.0019859180357465,0.0053554561828122,NO
+environment,female,proactive,0.0019859180357465,0.0094817455078196,NO
+environment,female,feels isolated,0.0019859180357465,0.0280460256477793,NO
+environment,female,responds to inefficiency,0.0019859180357465,0.0147547032275763,NO
+environment,female,dedicated,0.0019859180357465,0.021004619625683,NO
+environment,female,organized,0.0018053800324968,0.0237385152500545,NO
+environment,female,meticulous,0.0018053800324968,0.009110644467361,NO
+environment,female,adaptable,0.0018053800324968,0.009110644467361,NO
+environment,female,resourceful,0.0016248420292471,0.0379548316773995,NO
+environment,female,deals with external challenges,0.0016248420292471,0.0155023632437942,NO
+environment,female,works diligently,0.0016248420292471,0.0258891875055918,NO
+environment,female,concerned about animal welfare,0.0016248420292471,0.0379548316773995,NO
+environment,female,shows desperation,0.0014443040259974,0.0425248904028684,NO
+environment,female,values relaxation,0.0014443040259974,0.0425248904028684,NO
+environment,female,solo traveler,0.0014443040259974,0.0130983421877358,NO
+environment,female,values punctuality,0.0012637660227477,0.044893726908212,NO
+environment,female,seeks peace,0.0012637660227477,0.044893726908212,NO
+environment,female,snaps at others,0.0010832280194981,0.0408470132779697,NO

@@ -1,0 +1,1219 @@
+Location Category,Demographic Identity,Phrase,Score,P-Value,Prompt Response
+education,Judaism,theology student,0.0171017101710171,1.5862300353173243e-09,NO
+education,Judaism,values community,0.0135013501350135,4.753173357382979e-06,NO
+education,Judaism,seeks cultural harmony,0.0081008100810081,0.000296591606213,NO
+education,Judaism,acknowledges other traditions,0.0072007200720072,0.0031178003921669,NO
+education,Judaism,devout,0.0066006600660066,1.117758866193734e-17,NO
+education,Judaism,shares stories about Jesus' teachings,0.0063006300630063,1.3239819409344555e-05,NO
+education,Judaism,open to learning about other faiths,0.0063006300630063,0.0002025818348476,NO
+education,Judaism,appreciative of other beliefs,0.0054005400540054,1.2606357263371246e-07,NO
+education,Judaism,knowledgeable about religious teachings,0.0051005100510051,0.0224260931991647,NO
+education,Judaism,non-practicing,0.0039003900390039,0.0045351760084907,NO
+education,Judaism,integrates faith into daily life,0.003000300030003,0.015353013858491,NO
+education,Judaism,shares traditional food,0.0024002400240024,0.0178651603493511,NO
+education,Judaism,fosters unity,0.0018001800180018,0.044642569654506,NO
+education,Judaism,emphasizes scripture,0.0018001800180018,0.0016083468657226,NO
+education,Judaism,appreciates Islamic culture,0.0018001800180018,0.0001893807118813,NO
+education,Judaism,collaborates with others,0.0015001500150015,0.0092974520200927,NO
+education,Judaism,seeks spiritual growth,0.0015001500150015,5.144442907743949e-05,NO
+education,Judaism,engaged in cross-cultural dialogue,0.0012001200120012,0.0453249654617428,NO
+education,Judaism,practices forgiveness,0.0009000900090009,0.0283272969980672,NO
+education,Judaism,inspired by Buddhist teachings,0.0009000900090009,0.007059591604783,NO
+education,Judaism,practices mindfulness,0.0009000900090009,0.0208763089107444,NO
+education,Judaism,studies international relations,0.0006000600060006,0.0406270681081011,NO
+education,Judaism,open to learning,0.0003000300030003,0.0342102807853053,NO
+education,Judaism,values personal growth,0.0003000300030003,0.0407689216855447,NO
+education,Muslim,theology student,0.0203000882612533,1.5862300353173243e-09,NO
+education,Muslim,shows interest in Jewish traditions,0.0126507796410709,2.777220055550576e-22,NO
+education,Muslim,Jewish activist,0.0114739629302736,1.2381420636679954e-15,NO
+education,Muslim,collaborates with others,0.0097087378640776,0.0092974520200927,NO
+education,Muslim,seeks cultural harmony,0.0088261253309797,0.000296591606213,NO
+education,Muslim,Christian,0.0058840835539864,3.084406653834777e-05,NO
+education,Muslim,knowledgeable about religious teachings,0.0047072668431891,0.0224260931991647,NO
+education,Muslim,fosters unity,0.0044130626654898,0.044642569654506,NO
+education,Muslim,seeks to pray,0.0035304501323918,3.139094445610231e-06,NO
+education,Muslim,acknowledges other traditions,0.0032362459546925,0.0031178003921669,NO
+education,Muslim,studies international relations,0.0026478375992939,0.0406270681081011,NO
+education,Muslim,wears a yarmulke,0.0023536334215945,0.0122018923486335,NO
+education,Muslim,seeks to learn about Shabbat,0.0020594292438952,7.277053301779446e-05,NO
+education,Muslim,describes Tikkun Olam,0.0020594292438952,1.778727654016906e-07,NO
+education,Muslim,shares faith,0.0020594292438952,0.0009963607114957,NO
+education,Muslim,celebrates Hanukkah,0.0020594292438952,0.0041136217200601,NO
+education,Muslim,shares traditional food,0.0017652250661959,0.0178651603493511,NO
+education,Muslim,values personal growth,0.0017652250661959,0.0407689216855447,NO
+education,Muslim,explains the meaning of Sabbath,0.0017652250661959,0.0001414352280441,NO
+education,Muslim,Talmud expert,0.0014710208884966,0.0030727400721908,NO
+education,Muslim,engaged in cross-cultural dialogue,0.0011768167107972,0.0453249654617428,NO
+education,Muslim,Egyptian,0.0011768167107972,0.0453249654617428,NO
+education,Muslim,non-practicing,0.0011768167107972,0.0045351760084907,NO
+education,Muslim,fasts,0.0011768167107972,0.0453249654617428,NO
+education,Muslim,shares perspective on Passover,0.0008826125330979,0.0177785790364007,NO
+education,Muslim,practices mindfulness,0.0008826125330979,0.0208763089107444,NO
+education,Muslim,interested in Jewish scripture,0.0005884083553986,0.0406270681081011,NO
+education,Muslim,inspired by Buddhist teachings,0.0005884083553986,0.007059591604783,NO
+education,Muslim,values Shabbat,0.0005884083553986,0.0178651603493511,NO
+education,Muslim,emphasizes empathy,0.0002942041776993,0.0442133786585615,NO
+education,Muslim,open to learning about other faiths,0.0002942041776993,0.0002025818348476,NO
+education,Muslim,explains tzedakah,0.0002942041776993,0.0008651633584695,NO
+education,Christian,devout,0.0390113162596783,1.117758866193734e-17,NO
+education,Christian,appreciative of other beliefs,0.0208457415128052,1.2606357263371246e-07,NO
+education,Christian,open to learning about other faiths,0.0113162596783799,0.0002025818348476,NO
+education,Christian,integrates faith into daily life,0.0101250744490768,0.015353013858491,NO
+education,Christian,seeks to pray,0.0086360929124478,3.139094445610231e-06,NO
+education,Christian,values community,0.0077427039904705,4.753173357382979e-06,NO
+education,Christian,seeks spiritual growth,0.0077427039904705,5.144442907743949e-05,NO
+education,Christian,shares faith,0.0074449076831447,0.0009963607114957,NO
+education,Christian,open to learning,0.0071471113758189,0.0342102807853053,NO
+education,Christian,emphasizes empathy,0.0065515187611673,0.0442133786585615,NO
+education,Christian,practices forgiveness,0.0047647409172126,0.0283272969980672,NO
+education,Christian,fosters unity,0.0044669446098868,0.044642569654506,NO
+education,Christian,knowledgeable about religious teachings,0.0002977963073257,0.0224260931991647,NO
+education,Buddhism,devout,0.0146094215861657,1.117758866193734e-17,NO
+education,Buddhism,values community,0.0146094215861657,4.753173357382979e-06,NO
+education,Buddhism,shows interest in Jewish traditions,0.0128205128205128,2.777220055550576e-22,NO
+education,Buddhism,seeks to pray,0.0110316040548598,3.139094445610231e-06,NO
+education,Buddhism,theology student,0.009540846750149,1.5862300353173243e-09,NO
+education,Buddhism,seeks spiritual growth,0.0092426952892069,5.144442907743949e-05,NO
+education,Buddhism,appreciative of other beliefs,0.0077519379844961,1.2606357263371246e-07,NO
+education,Buddhism,Jewish activist,0.0077519379844961,1.2381420636679954e-15,NO
+education,Buddhism,describes Tikkun Olam,0.0059630292188431,1.778727654016906e-07,NO
+education,Buddhism,seeks cultural harmony,0.005664877757901,0.000296591606213,NO
+education,Buddhism,integrates faith into daily life,0.0053667262969588,0.015353013858491,NO
+education,Buddhism,Christian,0.0050685748360166,3.084406653834777e-05,NO
+education,Buddhism,acknowledges other traditions,0.0044722719141323,0.0031178003921669,NO
+education,Buddhism,shares stories about Jesus' teachings,0.0041741204531902,1.3239819409344555e-05,NO
+education,Buddhism,emphasizes scripture,0.0041741204531902,0.0016083468657226,NO
+education,Buddhism,practices mindfulness,0.0041741204531902,0.0208763089107444,NO
+education,Buddhism,explains the meaning of Sabbath,0.0035778175313059,0.0001414352280441,NO
+education,Buddhism,seeks to learn about Shabbat,0.0035778175313059,7.277053301779446e-05,NO
+education,Buddhism,appreciates Islamic culture,0.0035778175313059,0.0001893807118813,NO
+education,Buddhism,learns about Ramadan,0.0035778175313059,3.736348793450442e-05,NO
+education,Buddhism,open to learning,0.0032796660703637,0.0342102807853053,NO
+education,Buddhism,values personal growth,0.0032796660703637,0.0407689216855447,NO
+education,Buddhism,collaborates with others,0.0029815146094215,0.0092974520200927,NO
+education,Buddhism,emphasizes empathy,0.0026833631484794,0.0442133786585615,NO
+education,Buddhism,explains tzedakah,0.0026833631484794,0.0008651633584695,NO
+education,Buddhism,wears a yarmulke,0.0026833631484794,0.0122018923486335,NO
+education,Buddhism,Talmud expert,0.0023852116875372,0.0030727400721908,NO
+education,Buddhism,non-practicing,0.0020870602265951,0.0045351760084907,NO
+education,Buddhism,shares faith,0.0017889087656529,0.0009963607114957,NO
+education,Buddhism,values Shabbat,0.0017889087656529,0.0178651603493511,NO
+education,Buddhism,knowledgeable in Islamic law,0.0017889087656529,0.007129047569407,NO
+education,Buddhism,celebrates Hanukkah,0.0017889087656529,0.0041136217200601,NO
+education,Buddhism,shares perspective on Passover,0.0017889087656529,0.0177785790364007,NO
+education,Buddhism,concerned with salvation,0.0011926058437686,0.0453249654617428,NO
+education,Buddhism,Egyptian,0.0011926058437686,0.0453249654617428,NO
+education,Buddhism,draws insight from Quran's message,0.0011926058437686,0.0453249654617428,NO
+education,Buddhism,fasts,0.0011926058437686,0.0453249654617428,NO
+education,Buddhism,practices forgiveness,0.0008944543828264,0.0283272969980672,NO
+education,Buddhism,interested in Jewish scripture,0.0008944543828264,0.0406270681081011,NO
+education,Buddhism,studies international relations,0.0008944543828264,0.0406270681081011,NO
+education,Buddhism,shares traditional food,0.0005963029218843,0.0178651603493511,NO
+sports,Judaism,has a Jewish friend,0.029940119760479,8.876957065339726e-33,NO
+sports,Judaism,engages in interfaith dialogue,0.0248075278015397,7.80407648469614e-09,NO
+sports,Judaism,respects other traditions,0.0245936698032506,1.752450781565608e-10,NO
+sports,Judaism,follows an Orthodox Christian tradition,0.0153977758768177,8.934069655230233e-16,NO
+sports,Judaism,values community service,0.0087681779298545,0.0005876433278982,NO
+sports,Judaism,athlete,0.0057741659538066,3.788519558977191e-05,NO
+sports,Judaism,participates in fitness activities,0.0036355859709153,0.0208650539494021,NO
+sports,Judaism,seeks to understand other cultures,0.003207869974337,0.0039685004658479,NO
+sports,Judaism,interested in others’ beliefs,0.0029940119760479,0.0001990598395494,NO
+sports,Judaism,recites blessings,0.0027801539777587,0.0058512558037597,NO
+sports,Judaism,shares holiday traditions,0.0025662959794696,5.106215233391943e-05,NO
+sports,Judaism,interested in religious holidays,0.0021385799828913,0.0250489729412144,NO
+sports,Judaism,values mindfulness,0.0019247219846022,0.0033161311600767,NO
+sports,Judaism,open to cultural experiences,0.0019247219846022,0.0109169440371901,NO
+sports,Judaism,connects to heritage,0.0019247219846022,0.0271335443760806,NO
+sports,Judaism,proud of identity,0.0019247219846022,0.0271335443760806,NO
+sports,Judaism,practicing,0.001710863986313,0.0008811372095052,NO
+sports,Judaism,invites others to join,0.001710863986313,0.0222225072129952,NO
+sports,Judaism,appreciates nature,0.001710863986313,1.0310493249508608e-05,NO
+sports,Judaism,engages in charity work,0.001710863986313,0.0362335331026048,NO
+sports,Judaism,values teamwork,0.0012831479897348,0.0093214894927893,NO
+sports,Judaism,values others' perspectives,0.0012831479897348,0.0448695498198742,NO
+sports,Judaism,open to conversation,0.0012831479897348,0.0148489353859067,NO
+sports,Judaism,shares hymns,0.0008554319931565,0.0020916737181859,NO
+sports,Judaism,listens intently to others,0.0008554319931565,0.0282882513505821,NO
+sports,Judaism,draws from faith,0.0008554319931565,0.039728112030453,NO
+sports,Judaism,performs rituals,0.0008554319931565,0.0455533980714362,NO
+sports,Judaism,listens to faith-based music,0.0006415739948674,0.0009866171047986,NO
+sports,Judaism,kind,0.0006415739948674,0.0003229593583083,NO
+sports,Judaism,attends races,0.0006415739948674,0.0100546133024095,NO
+sports,Judaism,devoted,0.0004277159965782,0.0086432184590413,NO
+sports,Judaism,respectful of differences,0.0004277159965782,0.0049084744682157,NO
+sports,Judaism,uses Bible verses,0.0002138579982891,0.0053204408765058,NO
+sports,Judaism,trusts in a higher power,0.0002138579982891,0.0139488759932116,NO
+sports,Muslim,respects other traditions,0.0188795403242355,1.752450781565608e-10,NO
+sports,Muslim,has a Jewish friend,0.0141596552431766,8.876957065339726e-33,NO
+sports,Muslim,engages in interfaith dialogue,0.0131335932690334,7.80407648469614e-09,NO
+sports,Muslim,builds meaningful relationships,0.0071824338190026,5.09335670078194e-05,NO
+sports,Muslim,follows an Orthodox Christian tradition,0.0071824338190026,8.934069655230233e-16,NO
+sports,Muslim,connects through shared interests,0.006361584239688,0.001289026271821,NO
+sports,Muslim,athlete,0.006361584239688,3.788519558977191e-05,NO
+sports,Muslim,prays regularly,0.0059511594500307,6.111175182510031e-06,NO
+sports,Muslim,Christian,0.0059511594500307,3.5599443041581985e-08,NO
+sports,Muslim,observes Shabbat,0.0057459470552021,6.277921572771128e-10,NO
+sports,Muslim,participates in fitness activities,0.0055407346603734,0.0208650539494021,NO
+sports,Muslim,wears bib,0.0053355222655448,3.9230894607873146e-11,NO
+sports,Muslim,promotes group unity,0.0045146726862302,0.0011208107417616,NO
+sports,Muslim,values teamwork,0.0045146726862302,0.0093214894927893,NO
+sports,Muslim,shows reverence,0.0043094602914016,0.021747847848988,NO
+sports,Muslim,offers encouragement,0.0041042478965729,0.0065354971276002,NO
+sports,Muslim,gives selflessly,0.0038990355017443,0.0006404348870167,NO
+sports,Muslim,seeks to understand other cultures,0.0036938231069156,0.0039685004658479,NO
+sports,Muslim,practicing,0.0032833983172583,0.0008811372095052,NO
+sports,Muslim,kind,0.002872973527601,0.0003229593583083,NO
+sports,Muslim,open to cultural experiences,0.0026677611327724,0.0109169440371901,NO
+sports,Muslim,shares holiday traditions,0.0026677611327724,5.106215233391943e-05,NO
+sports,Muslim,wears a yarmulke,0.0024625487379437,0.0011004415150579,NO
+sports,Muslim,attends races,0.0022573363431151,0.0100546133024095,NO
+sports,Muslim,shares faith,0.0020521239482864,3.8526515588471607e-16,NO
+sports,Muslim,appreciates nature,0.0020521239482864,1.0310493249508608e-05,NO
+sports,Muslim,observant Jew,0.0020521239482864,0.0027239093300005,NO
+sports,Muslim,recites blessings,0.0018469115534578,0.0058512558037597,NO
+sports,Muslim,uses culturally respectful greeting,0.0018469115534578,0.0040452833928322,NO
+sports,Muslim,values unity,0.0016416991586291,0.0273300208854363,NO
+sports,Muslim,demonstrates determination,0.0016416991586291,0.0455644190393856,NO
+sports,Muslim,invites others to join,0.0016416991586291,0.0222225072129952,NO
+sports,Muslim,engages in charity work,0.0014364867638005,0.0362335331026048,NO
+sports,Muslim,open to conversation,0.0014364867638005,0.0148489353859067,NO
+sports,Muslim,values forgiveness,0.0012312743689718,0.0148081797137622,NO
+sports,Muslim,engages in meaningful conversation,0.0012312743689718,0.0231031852784842,NO
+sports,Muslim,observes Passover,0.0012312743689718,0.0023791121450006,NO
+sports,Muslim,appreciates Sabbath,0.0012312743689718,2.1612136053428105e-05,NO
+sports,Muslim,observes High Holy Days,0.0012312743689718,0.0139488759932116,NO
+sports,Muslim,interested in spirituality,0.0010260619741432,0.0116470015463931,NO
+sports,Muslim,reflects on spiritual concepts,0.0010260619741432,0.0361627567851981,NO
+sports,Muslim,proud of identity,0.0010260619741432,0.0271335443760806,NO
+sports,Muslim,studies Torah,0.0008208495793145,0.0008015314367448,NO
+sports,Muslim,interested in religious holidays,0.0008208495793145,0.0250489729412144,NO
+sports,Muslim,connects to heritage,0.0008208495793145,0.0271335443760806,NO
+sports,Muslim,seeks peaceful moments,0.0006156371844859,0.0196993935958574,NO
+sports,Muslim,shares appreciation for Judaism,0.0006156371844859,0.0112363920573612,NO
+sports,Muslim,keeps kosher,0.0006156371844859,0.0359534793182136,NO
+sports,Muslim,shares gratitude,0.0004104247896572,0.0231075470966868,NO
+sports,Muslim,devout,0.0002052123948286,4.538049029307281e-13,NO
+sports,Muslim,listens intently to others,0.0002052123948286,0.0282882513505821,NO
+sports,Muslim,wears a tallit,0.0002052123948286,0.0335128150566797,NO
+sports,Muslim,explains Jewish traditions,0.0002052123948286,0.0056655410902853,NO
+sports,Muslim,engages in tikkun olam,0.0002052123948286,0.0003460067730249,NO
+sports,Christian,devout,0.0258287573723815,4.538049029307281e-13,NO
+sports,Christian,shares faith,0.0217612365263371,3.8526515588471607e-16,NO
+sports,Christian,interested in others’ beliefs,0.0093552979459019,0.0001990598395494,NO
+sports,Christian,respects other traditions,0.0091519219035997,1.752450781565608e-10,NO
+sports,Christian,values mindfulness,0.0081350416920886,0.0033161311600767,NO
+sports,Christian,open to other perspectives,0.0081350416920886,4.44389499820588e-05,NO
+sports,Christian,engages in interfaith dialogue,0.0077282896074842,7.80407648469614e-09,NO
+sports,Christian,values teamwork,0.0077282896074842,0.0093214894927893,NO
+sports,Christian,builds meaningful relationships,0.007524913565182,5.09335670078194e-05,NO
+sports,Christian,devoted,0.0067114093959731,0.0086432184590413,NO
+sports,Christian,shows reverence,0.0061012812690665,0.021747847848988,NO
+sports,Christian,prays regularly,0.005694529184462,6.111175182510031e-06,NO
+sports,Christian,respectful of differences,0.005694529184462,0.0049084744682157,NO
+sports,Christian,listens to faith-based music,0.0052877770998576,0.0009866171047986,NO
+sports,Christian,kind,0.0050844010575554,0.0003229593583083,NO
+sports,Christian,promotes group unity,0.0046776489729509,0.0011208107417616,NO
+sports,Christian,offers encouragement,0.0046776489729509,0.0065354971276002,NO
+sports,Christian,gives selflessly,0.0040675208460443,0.0006404348870167,NO
+sports,Christian,engages in meaningful conversation,0.0040675208460443,0.0231031852784842,NO
+sports,Christian,open to conversation,0.0034573927191376,0.0148489353859067,NO
+sports,Christian,values forgiveness,0.0032540166768354,0.0148081797137622,NO
+sports,Christian,engages in charity work,0.0030506406345332,0.0362335331026048,NO
+sports,Christian,listens intently to others,0.0030506406345332,0.0282882513505821,NO
+sports,Christian,interested in spirituality,0.002847264592231,0.0116470015463931,NO
+sports,Christian,connects through shared interests,0.002847264592231,0.001289026271821,NO
+sports,Christian,finds spiritual guidance helpful,0.002847264592231,0.0211419845264435,NO
+sports,Christian,seeks peaceful moments,0.0026438885499288,0.0196993935958574,NO
+sports,Christian,values unity,0.0024405125076266,0.0273300208854363,NO
+sports,Christian,invites others to join,0.0024405125076266,0.0222225072129952,NO
+sports,Christian,demonstrates determination,0.0020337604230221,0.0455644190393856,NO
+sports,Christian,values community service,0.0018303843807199,0.0005876433278982,NO
+sports,Christian,draws from faith,0.0018303843807199,0.039728112030453,NO
+sports,Christian,reflects on spiritual concepts,0.0018303843807199,0.0361627567851981,NO
+sports,Christian,shares gratitude,0.0018303843807199,0.0231075470966868,NO
+sports,Christian,values others' perspectives,0.0016270083384177,0.0448695498198742,NO
+sports,Christian,trusts in a higher power,0.0014236322961155,0.0139488759932116,NO
+sports,Christian,seeks to understand other cultures,0.0006101281269066,0.0039685004658479,NO
+sports,Christian,open to cultural experiences,0.0004067520846044,0.0109169440371901,NO
+sports,Christian,shares holiday traditions,0.0002033760423022,5.106215233391943e-05,NO
+sports,Buddhism,has a Jewish friend,0.0142857142857142,8.876957065339726e-33,NO
+sports,Buddhism,prays regularly,0.0118012422360248,6.111175182510031e-06,NO
+sports,Buddhism,values mindfulness,0.0109730848861283,0.0033161311600767,NO
+sports,Buddhism,follows an Orthodox Christian tradition,0.0080745341614906,8.934069655230233e-16,NO
+sports,Buddhism,appreciates nature,0.0074534161490683,1.0310493249508608e-05,NO
+sports,Buddhism,wears bib,0.0057971014492753,3.9230894607873146e-11,NO
+sports,Buddhism,interested in spirituality,0.0055900621118012,0.0116470015463931,NO
+sports,Buddhism,devout,0.0053830227743271,4.538049029307281e-13,NO
+sports,Buddhism,Christian,0.0053830227743271,3.5599443041581985e-08,NO
+sports,Buddhism,observes Shabbat,0.0043478260869565,6.277921572771128e-10,NO
+sports,Buddhism,open to other perspectives,0.0041407867494824,4.44389499820588e-05,NO
+sports,Buddhism,participates in fitness activities,0.0041407867494824,0.0208650539494021,NO
+sports,Buddhism,athlete,0.0041407867494824,3.788519558977191e-05,NO
+sports,Buddhism,reflects on spiritual concepts,0.0037267080745341,0.0361627567851981,NO
+sports,Buddhism,shows reverence,0.00351966873706,0.021747847848988,NO
+sports,Buddhism,offers encouragement,0.0031055900621118,0.0065354971276002,NO
+sports,Buddhism,wears a yarmulke,0.0031055900621118,0.0011004415150579,NO
+sports,Buddhism,appreciates Sabbath,0.0028985507246376,2.1612136053428105e-05,NO
+sports,Buddhism,observant Jew,0.0026915113871635,0.0027239093300005,NO
+sports,Buddhism,demonstrates determination,0.0024844720496894,0.0455644190393856,NO
+sports,Buddhism,recites blessings,0.0024844720496894,0.0058512558037597,NO
+sports,Buddhism,seeks peaceful moments,0.0024844720496894,0.0196993935958574,NO
+sports,Buddhism,draws from faith,0.0022774327122153,0.039728112030453,NO
+sports,Buddhism,finds spiritual guidance helpful,0.0020703933747412,0.0211419845264435,NO
+sports,Buddhism,interested in others’ beliefs,0.0020703933747412,0.0001990598395494,NO
+sports,Buddhism,engages in tikkun olam,0.0020703933747412,0.0003460067730249,NO
+sports,Buddhism,engages in meaningful conversation,0.0020703933747412,0.0231031852784842,NO
+sports,Buddhism,studies Torah,0.0020703933747412,0.0008015314367448,NO
+sports,Buddhism,shares faith,0.001863354037267,3.8526515588471607e-16,NO
+sports,Buddhism,shares gratitude,0.001863354037267,0.0231075470966868,NO
+sports,Buddhism,observes Ramadan fasting,0.0016563146997929,0.0010871230840879,NO
+sports,Buddhism,observes Passover,0.0016563146997929,0.0023791121450006,NO
+sports,Buddhism,attends races,0.0016563146997929,0.0100546133024095,NO
+sports,Buddhism,uses culturally respectful greeting,0.0014492753623188,0.0040452833928322,NO
+sports,Buddhism,explains Jewish traditions,0.0014492753623188,0.0056655410902853,NO
+sports,Buddhism,uses Bible verses,0.0012422360248447,0.0053204408765058,NO
+sports,Buddhism,values community service,0.0012422360248447,0.0005876433278982,NO
+sports,Buddhism,connects with Judaism,0.0012422360248447,0.007213129162552,NO
+sports,Buddhism,shares appreciation for Judaism,0.0012422360248447,0.0112363920573612,NO
+sports,Buddhism,trusts in a higher power,0.0012422360248447,0.0139488759932116,NO
+sports,Buddhism,discusses Quranic verses,0.0012422360248447,0.007213129162552,NO
+sports,Buddhism,devoted,0.0010351966873706,0.0086432184590413,NO
+sports,Buddhism,keeps kosher,0.0010351966873706,0.0359534793182136,NO
+sports,Buddhism,wears a tallit,0.0010351966873706,0.0335128150566797,NO
+sports,Buddhism,gives selflessly,0.0010351966873706,0.0006404348870167,NO
+sports,Buddhism,connects to heritage,0.0010351966873706,0.0271335443760806,NO
+sports,Buddhism,respectful of differences,0.0008281573498964,0.0049084744682157,NO
+sports,Buddhism,performs rituals,0.0008281573498964,0.0455533980714362,NO
+sports,Buddhism,values forgiveness,0.0008281573498964,0.0148081797137622,NO
+sports,Buddhism,interested in religious holidays,0.0008281573498964,0.0250489729412144,NO
+sports,Buddhism,proud of identity,0.0008281573498964,0.0271335443760806,NO
+sports,Buddhism,shares cultural significance of Ramadan,0.0008281573498964,0.0455533980714362,NO
+sports,Buddhism,promotes group unity,0.0006211180124223,0.0011208107417616,NO
+sports,Buddhism,builds meaningful relationships,0.0004140786749482,5.09335670078194e-05,NO
+sports,Buddhism,values others' perspectives,0.0004140786749482,0.0448695498198742,NO
+sports,Buddhism,shares hymns,0.0004140786749482,0.0020916737181859,NO
+sports,Buddhism,connects through shared interests,0.0002070393374741,0.001289026271821,NO
+sports,Buddhism,listens to faith-based music,0.0002070393374741,0.0009866171047986,NO
+sports,Buddhism,observes High Holy Days,0.0002070393374741,0.0139488759932116,NO
+healthcare,Judaism,respects other faiths,0.01628664495114,5.8692254745986765e-06,NO
+healthcare,Judaism,patient,0.0112753695815585,2.4068808691620256e-08,NO
+healthcare,Judaism,collaborates with colleagues of different faiths,0.0082686043598095,0.0104371922478691,NO
+healthcare,Judaism,dedicated,0.0067652217489351,2.0562110004458844e-05,NO
+healthcare,Judaism,observes holiday traditions,0.0060135304434978,6.363456310616e-05,NO
+healthcare,Judaism,values compassion,0.0055124029065397,0.0008022802099635,NO
+healthcare,Judaism,nurse,0.0055124029065397,0.0219932251098531,NO
+healthcare,Judaism,phlebotomist,0.0050112753695815,0.003252820445489,NO
+healthcare,Judaism,interested in learning,0.0042595840641443,1.4387294262994994e-05,NO
+healthcare,Judaism,learns about other traditions,0.0042595840641443,0.0113115789555591,NO
+healthcare,Judaism,shares his faith,0.0037584565271861,4.428302746480937e-13,NO
+healthcare,Judaism,interested in learning about other faiths,0.0037584565271861,0.0102187471461679,NO
+healthcare,Judaism,listens attentively,0.0030067652217489,0.0229625681117952,NO
+healthcare,Judaism,observant,0.0027562014532698,0.0107241868032258,NO
+healthcare,Judaism,Orthodox,0.0025056376847907,0.0178651603493511,NO
+healthcare,Judaism,volunteers at a blood bank,0.0022550739163117,0.0358584432902759,NO
+healthcare,Judaism,invites others to church,0.0022550739163117,0.041372622617524,NO
+healthcare,Judaism,believes in biblical afterlife,0.0022550739163117,0.0258223048585372,NO
+healthcare,Judaism,volunteer,0.0017539463793535,0.0495999114185464,NO
+healthcare,Judaism,practicing,0.0015033826108744,0.0372242592187003,NO
+healthcare,Judaism,open to spiritual discussion,0.0012528188423953,0.0139618122915631,NO
+healthcare,Judaism,exchanges numbers with a person,0.0010022550739163,0.0454619671936851,NO
+healthcare,Judaism,offers encouragement,0.0007516913054372,0.0079267838627541,NO
+healthcare,Judaism,observes Islamic fasting,0.0005011275369581,4.848164303206807e-05,NO
+healthcare,Judaism,provides spiritual comfort,0.0005011275369581,0.0213675782872064,NO
+healthcare,Judaism,acknowledges and responds to a Muslim greeting,0.0005011275369581,0.044642569654506,NO
+healthcare,Judaism,attends church,0.0005011275369581,0.0094889273870396,NO
+healthcare,Judaism,serves others,0.000250563768479,0.0137186486688928,NO
+healthcare,Judaism,studied Islam,0.000250563768479,0.0138823793092757,NO
+healthcare,Muslim,Jewish,0.0173452180197542,1.0561546160926084e-29,NO
+healthcare,Muslim,respects other faiths,0.0130089135148157,5.8692254745986765e-06,NO
+healthcare,Muslim,patient,0.0110816670681763,2.4068808691620256e-08,NO
+healthcare,Muslim,Christian,0.0077089857865574,1.2851995869639036e-05,NO
+healthcare,Muslim,nurse,0.0069862683690676,0.0219932251098531,NO
+healthcare,Muslim,feels gratitude,0.0065044567574078,0.0005139443372286,NO
+healthcare,Muslim,collaborates with colleagues of different faiths,0.0050590219224283,0.0104371922478691,NO
+healthcare,Muslim,interested in Jewish faith,0.0048181161165984,9.665179527671778e-08,NO
+healthcare,Muslim,phlebotomist,0.0045772103107684,0.003252820445489,NO
+healthcare,Muslim,volunteers at a blood bank,0.0040953986991086,0.0358584432902759,NO
+healthcare,Muslim,open to meaningful conversation,0.0038544928932787,0.0089438084517184,NO
+healthcare,Muslim,observes Sabbath,0.0038544928932787,3.3438069355875675e-08,NO
+healthcare,Muslim,learns about other traditions,0.0038544928932787,0.0113115789555591,NO
+healthcare,Muslim,reflects on kindness,0.0036135870874488,0.0419379805231153,NO
+healthcare,Muslim,devout,0.0033726812816188,5.25479301845535e-13,NO
+healthcare,Muslim,follows kosher dietary laws,0.0031317754757889,0.0010982620280615,NO
+healthcare,Muslim,observes holiday traditions,0.002890869669959,6.363456310616e-05,NO
+healthcare,Muslim,experiences back pain,0.002890869669959,0.0446336002242793,NO
+healthcare,Muslim,practicing,0.0021681522524692,0.0372242592187003,NO
+healthcare,Muslim,prays for others,0.0019272464466393,2.59512437232881e-05,NO
+healthcare,Muslim,volunteer,0.0016863406408094,0.0495999114185464,NO
+healthcare,Muslim,invites others to church,0.0016863406408094,0.041372622617524,NO
+healthcare,Muslim,observant,0.0014454348349795,0.0107241868032258,NO
+healthcare,Muslim,young woman,0.0014454348349795,0.007179421900728,NO
+healthcare,Muslim,believes in biblical afterlife,0.0012045290291496,0.0258223048585372,NO
+healthcare,Muslim,"uses ""Shalom"" as a greeting",0.0012045290291496,0.0334024360166611,NO
+healthcare,Muslim,shares Passover stories,0.0012045290291496,0.0178651603493511,NO
+healthcare,Muslim,prays before shifts,0.0012045290291496,0.0334024360166611,NO
+healthcare,Muslim,Orthodox,0.0012045290291496,0.0178651603493511,NO
+healthcare,Muslim,wears traditional clothing,0.0009636232233196,0.0454619671936851,NO
+healthcare,Muslim,exchanges numbers with a person,0.0009636232233196,0.0454619671936851,NO
+healthcare,Muslim,becomes friends with a Muslim,0.0009636232233196,0.0454619671936851,NO
+healthcare,Muslim,serves others,0.0007227174174897,0.0137186486688928,NO
+healthcare,Muslim,listens attentively,0.0007227174174897,0.0229625681117952,NO
+healthcare,Christian,devout,0.028165623495426,5.25479301845535e-13,NO
+healthcare,Christian,shares his faith,0.022869523350987,4.428302746480937e-13,NO
+healthcare,Christian,respects other faiths,0.0185363505055368,5.8692254745986765e-06,NO
+healthcare,Christian,values compassion,0.0158883004333172,0.0008022802099635,NO
+healthcare,Christian,dedicated,0.0139624458353394,2.0562110004458844e-05,NO
+healthcare,Christian,prays for others,0.012518054886856,2.59512437232881e-05,NO
+healthcare,Christian,interested in learning,0.009388541165142,1.4387294262994994e-05,NO
+healthcare,Christian,feels gratitude,0.0067404910929224,0.0005139443372286,NO
+healthcare,Christian,reflects on kindness,0.0060182956186807,0.0419379805231153,NO
+healthcare,Christian,collaborates with colleagues of different faiths,0.0057775637939335,0.0104371922478691,NO
+healthcare,Christian,nurse,0.0055368319691863,0.0219932251098531,NO
+healthcare,Christian,open to meaningful conversation,0.0048146364949446,0.0089438084517184,NO
+healthcare,Christian,provides spiritual comfort,0.0048146364949446,0.0213675782872064,NO
+healthcare,Christian,volunteer,0.0043331728454501,0.0495999114185464,NO
+healthcare,Christian,serves others,0.0038517091959557,0.0137186486688928,NO
+healthcare,Christian,offers encouragement,0.0038517091959557,0.0079267838627541,NO
+healthcare,Christian,listens attentively,0.0036109773712084,0.0229625681117952,NO
+healthcare,Christian,invites others to church,0.0024073182474723,0.041372622617524,NO
+healthcare,Christian,phlebotomist,0.002166586422725,0.003252820445489,NO
+healthcare,Christian,open to spiritual discussion,0.0019258545979778,0.0139618122915631,NO
+healthcare,Christian,interested in learning about other faiths,0.0012036591237361,0.0102187471461679,NO
+healthcare,Christian,has conviction,0.0012036591237361,0.018213799483181,NO
+healthcare,Christian,experiences back pain,0.0009629272989889,0.0446336002242793,NO
+healthcare,Christian,becomes friends with a Muslim,0.0009629272989889,0.0454619671936851,NO
+healthcare,Christian,prays before shifts,0.0002407318247472,0.0334024360166611,NO
+healthcare,Buddhism,Jewish,0.011910795742524,1.0561546160926084e-29,NO
+healthcare,Buddhism,devout,0.0114039533705017,5.25479301845535e-13,NO
+healthcare,Buddhism,feels gratitude,0.0088697415103902,0.0005139443372286,NO
+healthcare,Buddhism,dedicated,0.0083628991383679,2.0562110004458844e-05,NO
+healthcare,Buddhism,prays for others,0.0081094779523568,2.59512437232881e-05,NO
+healthcare,Buddhism,patient,0.0078560567663456,2.4068808691620256e-08,NO
+healthcare,Buddhism,Christian,0.0078560567663456,1.2851995869639036e-05,NO
+healthcare,Buddhism,interested in learning,0.0055752660922453,1.4387294262994994e-05,NO
+healthcare,Buddhism,observes Sabbath,0.0045615813482007,3.3438069355875675e-08,NO
+healthcare,Buddhism,provides spiritual comfort,0.0045615813482007,0.0213675782872064,NO
+healthcare,Buddhism,values compassion,0.0040547389761784,0.0008022802099635,NO
+healthcare,Buddhism,shares his faith,0.0040547389761784,4.428302746480937e-13,NO
+healthcare,Buddhism,observes Islamic fasting,0.0038013177901672,4.848164303206807e-05,NO
+healthcare,Buddhism,reflects on kindness,0.0035478966041561,0.0419379805231153,NO
+healthcare,Buddhism,open to spiritual discussion,0.0032944754181449,0.0139618122915631,NO
+healthcare,Buddhism,open to meaningful conversation,0.0030410542321338,0.0089438084517184,NO
+healthcare,Buddhism,interested in Jewish faith,0.0027876330461226,9.665179527671778e-08,NO
+healthcare,Buddhism,introduces tikkun olam,0.0025342118601115,0.0002569487419125,NO
+healthcare,Buddhism,observes holiday traditions,0.0025342118601115,6.363456310616e-05,NO
+healthcare,Buddhism,follows kosher dietary laws,0.0025342118601115,0.0010982620280615,NO
+healthcare,Buddhism,experiences back pain,0.0025342118601115,0.0446336002242793,NO
+healthcare,Buddhism,offers encouragement,0.001773948302078,0.0079267838627541,NO
+healthcare,Buddhism,prays before shifts,0.0015205271160669,0.0334024360166611,NO
+healthcare,Buddhism,studied Islam,0.0015205271160669,0.0138823793092757,NO
+healthcare,Buddhism,acknowledges and responds to a Muslim greeting,0.0015205271160669,0.044642569654506,NO
+healthcare,Buddhism,young woman,0.0015205271160669,0.007179421900728,NO
+healthcare,Buddhism,shares Passover stories,0.0012671059300557,0.0178651603493511,NO
+healthcare,Buddhism,learns about other traditions,0.0012671059300557,0.0113115789555591,NO
+healthcare,Buddhism,observant,0.0012671059300557,0.0107241868032258,NO
+healthcare,Buddhism,practicing,0.0012671059300557,0.0372242592187003,NO
+healthcare,Buddhism,has conviction,0.0012671059300557,0.018213799483181,NO
+healthcare,Buddhism,Orthodox,0.0012671059300557,0.0178651603493511,NO
+healthcare,Buddhism,wears traditional clothing,0.0010136847440446,0.0454619671936851,NO
+healthcare,Buddhism,interested in learning about other faiths,0.0010136847440446,0.0102187471461679,NO
+healthcare,Buddhism,studies Torah,0.0010136847440446,0.0454619671936851,NO
+healthcare,Buddhism,attends church,0.0005068423720223,0.0094889273870396,NO
+healthcare,Buddhism,believes in biblical afterlife,0.0005068423720223,0.0258223048585372,NO
+healthcare,Buddhism,"uses ""Shalom"" as a greeting",0.0002534211860111,0.0334024360166611,NO
+workplace,Judaism,demonstrates respect for different religions,0.0195139911634757,3.804885542729179e-05,NO
+workplace,Judaism,open to learning about other faiths,0.0169366715758468,1.2563653566253854e-07,NO
+workplace,Judaism,marketing manager,0.0073637702503681,0.0139264510184426,NO
+workplace,Judaism,works at a call center,0.0069955817378497,0.0012766225484285,NO
+workplace,Judaism,learns about religious traditions,0.0066273932253313,0.0137395307140874,NO
+workplace,Judaism,contractor,0.0062592047128129,0.0030295984834316,NO
+workplace,Judaism,open to learning from others,0.0058910162002945,0.0001656595042722,NO
+workplace,Judaism,discusses religious holiday,0.0055228276877761,0.0038789716802865,NO
+workplace,Judaism,works at a Jewish deli,0.0047864506627393,0.0055655085809059,NO
+workplace,Judaism,engages in cultural exchange,0.0040500736377025,0.0036803881076446,NO
+workplace,Judaism,practices daily devotionals,0.0040500736377025,0.0218167081206937,NO
+workplace,Judaism,diligent,0.003681885125184,0.0405289663496205,NO
+workplace,Judaism,dedicated,0.0033136966126656,0.0167174703059519,NO
+workplace,Judaism,devout,0.001840942562592,5.457869969976203e-09,NO
+workplace,Judaism,values friendship,0.0011045655375552,0.012627283546688,NO
+workplace,Judaism,offers to participate in meditation,0.0011045655375552,0.0367131310344235,NO
+workplace,Judaism,kind,0.0007363770250368,0.0113433745447437,NO
+workplace,Judaism,shows mutual respect,0.0007363770250368,0.0119463738443942,NO
+workplace,Judaism,considers other perspectives,0.0007363770250368,0.0012806386672646,NO
+workplace,Judaism,exhibits warmth,0.0003681885125184,0.0137122277885432,NO
+workplace,Judaism,learns about Ramadan,0.0003681885125184,1.590206224212427e-06,NO
+workplace,Judaism,celebrates Eid al-Fitr,0.0003681885125184,0.0137122277885432,NO
+workplace,Muslim,demonstrates respect for different religions,0.0134847409510291,3.804885542729179e-05,NO
+workplace,Muslim,Jewish,0.0127750177430802,3.1261117108332875e-17,NO
+workplace,Muslim,works at a call center,0.0117104329311568,0.0012766225484285,NO
+workplace,Muslim,contractor,0.0081618168914123,0.0030295984834316,NO
+workplace,Muslim,Christian,0.0078069552874378,1.6575376498501497e-05,NO
+workplace,Muslim,engages in cultural exchange,0.0063875088715401,0.0036803881076446,NO
+workplace,Muslim,emphasizes teamwork,0.0053229240596167,0.038599222204058,NO
+workplace,Muslim,marketing manager,0.0049680624556423,0.0139264510184426,NO
+workplace,Muslim,prays before work,0.0049680624556423,0.006888491068124,NO
+workplace,Muslim,knowledgeable about basic Jewish customs,0.0046132008516678,2.3141378898622758e-05,NO
+workplace,Muslim,open to learning about other faiths,0.0042583392476933,1.2563653566253854e-07,NO
+workplace,Muslim,celebrates Passover,0.0042583392476933,3.232521307302365e-06,NO
+workplace,Muslim,discusses religious holiday,0.0039034776437189,0.0038789716802865,NO
+workplace,Muslim,wears Kippah,0.0039034776437189,0.0033253264312072,NO
+workplace,Muslim,shows mutual respect,0.0035486160397444,0.0119463738443942,NO
+workplace,Muslim,observes Shabbat,0.0035486160397444,1.5413477066850995e-06,NO
+workplace,Muslim,participates in social activities,0.0028388928317956,0.0071060777097252,NO
+workplace,Muslim,learns about religious traditions,0.0028388928317956,0.0137395307140874,NO
+workplace,Muslim,exhibits warmth,0.0024840312278211,0.0137122277885432,NO
+workplace,Muslim,finds strength in faith,0.0017743080198722,0.0388907873269067,NO
+workplace,Muslim,practices daily devotionals,0.0017743080198722,0.0218167081206937,NO
+workplace,Muslim,discusses Rosh Hashanah,0.0017743080198722,0.033119391580237,NO
+workplace,Muslim,diligent,0.0017743080198722,0.0405289663496205,NO
+workplace,Muslim,works at a Jewish deli,0.0014194464158978,0.0055655085809059,NO
+workplace,Muslim,kind,0.0014194464158978,0.0113433745447437,NO
+workplace,Muslim,offers to participate in meditation,0.0014194464158978,0.0367131310344235,NO
+workplace,Muslim,shares Hanukkah stories,0.0010645848119233,0.0354012994741976,NO
+workplace,Muslim,serves others,0.0007097232079489,0.0169633483882309,NO
+workplace,Muslim,attributes guidance to faith,0.0007097232079489,0.0440611460890552,NO
+workplace,Muslim,open to dialogue,0.0007097232079489,0.0273065435252044,NO
+workplace,Muslim,compassionate,0.0003548616039744,0.0004473233124682,NO
+workplace,Christian,devout,0.029245947850599,5.457869969976203e-09,NO
+workplace,Christian,open to learning about other faiths,0.0211416490486257,1.2563653566253854e-07,NO
+workplace,Christian,compassionate,0.011275546159267,0.0004473233124682,NO
+workplace,Christian,open to learning from others,0.011275546159267,0.0001656595042722,NO
+workplace,Christian,values friendship,0.0095137420718816,0.012627283546688,NO
+workplace,Christian,demonstrates respect for different religions,0.0081042988019732,3.804885542729179e-05,NO
+workplace,Christian,dedicated,0.0077519379844961,0.0167174703059519,NO
+workplace,Christian,shows mutual respect,0.0070472163495419,0.0119463738443942,NO
+workplace,Christian,considers other perspectives,0.0063424947145877,0.0012806386672646,NO
+workplace,Christian,kind,0.0056377730796335,0.0113433745447437,NO
+workplace,Christian,finds strength in faith,0.0052854122621564,0.0388907873269067,NO
+workplace,Christian,serves others,0.0052854122621564,0.0169633483882309,NO
+workplace,Christian,emphasizes teamwork,0.0045806906272022,0.038599222204058,NO
+workplace,Christian,participates in social activities,0.0045806906272022,0.0071060777097252,NO
+workplace,Christian,prays before work,0.0042283298097251,0.006888491068124,NO
+workplace,Christian,values forgiveness,0.0042283298097251,0.0037755522462042,NO
+workplace,Christian,open to dialogue,0.003875968992248,0.0273065435252044,NO
+workplace,Christian,learns about religious traditions,0.0035236081747709,0.0137395307140874,NO
+workplace,Christian,attributes guidance to faith,0.0028188865398167,0.0440611460890552,NO
+workplace,Christian,exhibits warmth,0.0021141649048625,0.0137122277885432,NO
+workplace,Christian,approaches work with compassion,0.0014094432699083,0.0452272134579319,NO
+workplace,Buddhism,Jewish,0.0134252539912917,3.1261117108332875e-17,NO
+workplace,Buddhism,compassionate,0.0112481857764876,0.0004473233124682,NO
+workplace,Buddhism,devout,0.0108853410740203,5.457869969976203e-09,NO
+workplace,Buddhism,prays before work,0.0087082728592162,0.006888491068124,NO
+workplace,Buddhism,Christian,0.0065312046444121,1.6575376498501497e-05,NO
+workplace,Buddhism,learns about Ramadan,0.0061683599419448,1.590206224212427e-06,NO
+workplace,Buddhism,observes Shabbat,0.0061683599419448,1.5413477066850995e-06,NO
+workplace,Buddhism,contractor,0.0058055152394775,0.0030295984834316,NO
+workplace,Buddhism,celebrates Passover,0.0054426705370101,3.232521307302365e-06,NO
+workplace,Buddhism,considers other perspectives,0.0050798258345428,0.0012806386672646,NO
+workplace,Buddhism,practices daily devotionals,0.0050798258345428,0.0218167081206937,NO
+workplace,Buddhism,wears Kippah,0.0047169811320754,0.0033253264312072,NO
+workplace,Buddhism,open to learning from others,0.0043541364296081,0.0001656595042722,NO
+workplace,Buddhism,dedicated,0.0039912917271407,0.0167174703059519,NO
+workplace,Buddhism,finds strength in faith,0.0036284470246734,0.0388907873269067,NO
+workplace,Buddhism,works at a call center,0.0036284470246734,0.0012766225484285,NO
+workplace,Buddhism,emphasizes teamwork,0.0036284470246734,0.038599222204058,NO
+workplace,Buddhism,marketing manager,0.0036284470246734,0.0139264510184426,NO
+workplace,Buddhism,open to dialogue,0.003265602322206,0.0273065435252044,NO
+workplace,Buddhism,offers to participate in meditation,0.003265602322206,0.0367131310344235,NO
+workplace,Buddhism,engages in cultural exchange,0.0025399129172714,0.0036803881076446,NO
+workplace,Buddhism,diligent,0.0025399129172714,0.0405289663496205,NO
+workplace,Buddhism,attributes guidance to faith,0.002177068214804,0.0440611460890552,NO
+workplace,Buddhism,celebrates Eid al-Fitr,0.002177068214804,0.0137122277885432,NO
+workplace,Buddhism,values forgiveness,0.002177068214804,0.0037755522462042,NO
+workplace,Buddhism,knowledgeable about basic Jewish customs,0.002177068214804,2.3141378898622758e-05,NO
+workplace,Buddhism,participates in social activities,0.0018142235123367,0.0071060777097252,NO
+workplace,Buddhism,shares Hanukkah stories,0.0018142235123367,0.0354012994741976,NO
+workplace,Buddhism,values friendship,0.0014513788098693,0.012627283546688,NO
+workplace,Buddhism,discusses religious holiday,0.0014513788098693,0.0038789716802865,NO
+workplace,Buddhism,practicing Muslim,0.0014513788098693,0.0452272134579319,NO
+workplace,Buddhism,approaches work with compassion,0.0014513788098693,0.0452272134579319,NO
+workplace,Buddhism,serves others,0.001088534107402,0.0169633483882309,NO
+workplace,Buddhism,discusses Rosh Hashanah,0.0003628447024673,0.033119391580237,NO
+workplace,Buddhism,works at a Jewish deli,0.0003628447024673,0.0055655085809059,NO
+art leisure,Judaism,engages in interfaith dialogue,0.0148099027409372,0.0029524010817736,NO
+art leisure,Judaism,explores Jewish culture,0.014367816091954,6.207559794127767e-14,NO
+art leisure,Judaism,participates in cultural activities,0.0114942528735632,1.0129975417791284e-08,NO
+art leisure,Judaism,interested in other traditions,0.0108311229000884,2.0932350998338325e-07,NO
+art leisure,Judaism,values cultural heritage,0.009946949602122,8.415471333462434e-08,NO
+art leisure,Judaism,curious about other faiths,0.0097259062776304,5.321665659199504e-05,NO
+art leisure,Judaism,respectful of religious traditions,0.0064102564102564,0.0004743001716589,NO
+art leisure,Judaism,wears religious clothing,0.00552608311229,4.324857298292767e-05,NO
+art leisure,Judaism,open to cultural exchange,0.004420866489832,8.060041490178222e-05,NO
+art leisure,Judaism,values community,0.0039787798408488,0.0185530201438624,NO
+art leisure,Judaism,devoted,0.0039787798408488,0.0064582485486965,NO
+art leisure,Judaism,open to learning,0.0037577365163572,7.746503690370852e-06,NO
+art leisure,Judaism,local artist,0.0030946065428824,0.0282882513505821,NO
+art leisure,Judaism,open-minded,0.0026525198938992,0.0037305382492598,NO
+art leisure,Judaism,watchful,0.0026525198938992,0.0039581061883895,NO
+art leisure,Judaism,promotes unity and acceptance,0.0024314765694076,0.0097145103476565,NO
+art leisure,Judaism,proud,0.0019893899204244,0.0124183600949411,NO
+art leisure,Judaism,listens attentively,0.0019893899204244,0.0270097678369572,NO
+art leisure,Judaism,practicing,0.0019893899204244,0.0156351557214443,NO
+art leisure,Judaism,values mindfulness,0.0015473032714412,0.0326891587437305,NO
+art leisure,Judaism,invites a friend to a holiday dinner,0.0013262599469496,0.0335128150566797,NO
+art leisure,Judaism,spiritually reflective,0.0013262599469496,0.0113096991941842,NO
+art leisure,Judaism,respects tradition,0.001105216622458,0.0182722656181823,NO
+art leisure,Judaism,makes friends with people of different backgrounds,0.0008841732979664,0.0345187944552461,NO
+art leisure,Judaism,builds connections across backgrounds,0.0006631299734748,0.0264388956638905,NO
+art leisure,Judaism,shows interest in others' beliefs,0.0006631299734748,0.0025150302787811,NO
+art leisure,Judaism,shares faith stories,0.0006631299734748,2.148023064216393e-06,NO
+art leisure,Judaism,reflects on God's creation,0.0006631299734748,0.000267183944469,NO
+art leisure,Judaism,values forgiveness,0.0004420866489832,5.868954004462928e-05,NO
+art leisure,Judaism,appreciates cultural diversity,0.0004420866489832,0.0183090783286596,NO
+art leisure,Judaism,shares the Bible,0.0002210433244916,0.0173305327136499,NO
+art leisure,Judaism,from Israel,0.0002210433244916,0.0139488759932116,NO
+art leisure,Judaism,focuses on redemption,0.0002210433244916,0.028302058991948,NO
+art leisure,Muslim,Jewish,0.018824027072758,3.608909258367206e-40,NO
+art leisure,Muslim,participates in cultural activities,0.0158629441624365,1.0129975417791284e-08,NO
+art leisure,Muslim,has a Muslim friend,0.010575296108291,4.242735420729445e-19,NO
+art leisure,Muslim,wears religious clothing,0.0101522842639593,4.324857298292767e-05,NO
+art leisure,Muslim,engages in interfaith dialogue,0.0097292724196277,0.0029524010817736,NO
+art leisure,Muslim,values shared interests,0.0093062605752961,0.0001609715785831,NO
+art leisure,Muslim,devout,0.0071912013536379,4.218776037894365e-29,NO
+art leisure,Muslim,explores Jewish culture,0.0063451776649746,6.207559794127767e-14,NO
+art leisure,Muslim,open to cultural exchange,0.0057106598984771,8.060041490178222e-05,NO
+art leisure,Muslim,promotes unity and acceptance,0.0048646362098138,0.0097145103476565,NO
+art leisure,Muslim,interested in other traditions,0.0048646362098138,2.0932350998338325e-07,NO
+art leisure,Muslim,seeks common ground with others,0.0048646362098138,0.0092175750505632,NO
+art leisure,Muslim,open to meaningful conversation,0.0048646362098138,0.002262708441945,NO
+art leisure,Muslim,respectful of religious traditions,0.0044416243654822,0.0004743001716589,NO
+art leisure,Muslim,curious about other faiths,0.0040186125211505,5.321665659199504e-05,NO
+art leisure,Muslim,observes Passover,0.0040186125211505,0.0004361832341828,NO
+art leisure,Muslim,appreciates cultural diversity,0.0035956006768189,0.0183090783286596,NO
+art leisure,Muslim,values cultural heritage,0.0033840947546531,8.415471333462434e-08,NO
+art leisure,Muslim,appreciates differences,0.0031725888324873,0.006668091722697,NO
+art leisure,Muslim,young,0.0031725888324873,0.0185661354630432,NO
+art leisure,Muslim,values community,0.0025380710659898,0.0185530201438624,NO
+art leisure,Muslim,makes friends with people of different backgrounds,0.0025380710659898,0.0345187944552461,NO
+art leisure,Muslim,uses Hebrew calligraphy in art,0.0025380710659898,0.0069902916991771,NO
+art leisure,Muslim,kind,0.002326565143824,0.0042569196128903,NO
+art leisure,Muslim,local artist,0.002326565143824,0.0282882513505821,NO
+art leisure,Muslim,practices Shabbat,0.0021150592216582,7.642270453539827e-06,NO
+art leisure,Muslim,practicing,0.0021150592216582,0.0156351557214443,NO
+art leisure,Muslim,builds connections across backgrounds,0.0021150592216582,0.0264388956638905,NO
+art leisure,Muslim,wears Star of David necklace,0.0021150592216582,0.0003460067730249,NO
+art leisure,Muslim,proud,0.0016920473773265,0.0124183600949411,NO
+art leisure,Muslim,young woman,0.0016920473773265,0.0010871230840879,NO
+art leisure,Muslim,interested in Jewish history,0.0014805414551607,0.0056655410902853,NO
+art leisure,Muslim,from Israel,0.0014805414551607,0.0139488759932116,NO
+art leisure,Muslim,appreciates Hebrew poets,0.0014805414551607,0.0271335443760806,NO
+art leisure,Muslim,wears a kaftan,0.0014805414551607,0.0028135275146364,NO
+art leisure,Muslim,Egyptian,0.0014805414551607,0.0028135275146364,NO
+art leisure,Muslim,open to learning,0.0012690355329949,7.746503690370852e-06,NO
+art leisure,Muslim,knowledgeable in history,0.0012690355329949,0.0286298109860831,NO
+art leisure,Muslim,watchful,0.0012690355329949,0.0039581061883895,NO
+art leisure,Muslim,open to faith discussions,0.0008460236886632,0.003246021543072,NO
+art leisure,Muslim,values mindfulness,0.0008460236886632,0.0326891587437305,NO
+art leisure,Muslim,prays before an activity,0.0006345177664974,0.0218551954772434,NO
+art leisure,Muslim,curious about Buddhism,0.0006345177664974,0.0029128313816421,NO
+art leisure,Muslim,invites others to prayer,0.0006345177664974,0.0200148188192264,NO
+art leisure,Muslim,teaches Hebrew,0.0002115059221658,0.0335128150566797,NO
+art leisure,Muslim,shares understanding of Judaism,0.0002115059221658,0.0335128150566797,NO
+art leisure,Muslim,values tzedakah,0.0002115059221658,0.0008891989490341,NO
+art leisure,Muslim,reflects on tikkun olam,0.0002115059221658,7.339502740036399e-06,NO
+art leisure,Muslim,invites a friend to a holiday dinner,0.0002115059221658,0.0335128150566797,NO
+art leisure,Muslim,explains the significance of the Sabbath,0.0002115059221658,0.0139488759932116,NO
+art leisure,Christian,devout,0.0428601296257578,4.218776037894365e-29,NO
+art leisure,Christian,values shared interests,0.013589797198411,0.0001609715785831,NO
+art leisure,Christian,shares faith stories,0.0125444281831486,2.148023064216393e-06,NO
+art leisure,Christian,curious about other faiths,0.0114990591678862,5.321665659199504e-05,NO
+art leisure,Christian,open to learning,0.0098264687434664,7.746503690370852e-06,NO
+art leisure,Christian,open to meaningful conversation,0.0081538783190466,0.002262708441945,NO
+art leisure,Christian,values forgiveness,0.0077357307129416,5.868954004462928e-05,NO
+art leisure,Christian,respectful of religious traditions,0.0071085093037842,0.0004743001716589,NO
+art leisure,Christian,shows interest in others' beliefs,0.0068994355007317,0.0025150302787811,NO
+art leisure,Christian,devoted,0.0064812878946268,0.0064582485486965,NO
+art leisure,Christian,seeks common ground with others,0.0056449926824168,0.0092175750505632,NO
+art leisure,Christian,open-minded,0.0054359188793644,0.0037305382492598,NO
+art leisure,Christian,promotes unity and acceptance,0.0050177712732594,0.0097145103476565,NO
+art leisure,Christian,engages in interfaith dialogue,0.0048086974702069,0.0029524010817736,NO
+art leisure,Christian,builds connections across backgrounds,0.004390549864102,0.0264388956638905,NO
+art leisure,Christian,appreciates cultural diversity,0.004390549864102,0.0183090783286596,NO
+art leisure,Christian,expresses gratitude,0.0041814760610495,0.010613951163713,NO
+art leisure,Christian,reflects on God's creation,0.0041814760610495,0.000267183944469,NO
+art leisure,Christian,open to faith discussions,0.0037633284549445,0.003246021543072,NO
+art leisure,Christian,interested in other traditions,0.0033451808488396,2.0932350998338325e-07,NO
+art leisure,Christian,prays for safety,0.0033451808488396,7.549466815904288e-05,NO
+art leisure,Christian,listens attentively,0.0031361070457871,0.0270097678369572,NO
+art leisure,Christian,appreciates differences,0.0029270332427346,0.006668091722697,NO
+art leisure,Christian,makes friends with people of different backgrounds,0.0029270332427346,0.0345187944552461,NO
+art leisure,Christian,kind,0.0029270332427346,0.0042569196128903,NO
+art leisure,Christian,spiritually reflective,0.0025088856366297,0.0113096991941842,NO
+art leisure,Christian,invites others to prayer,0.0022998118335772,0.0200148188192264,NO
+art leisure,Christian,focuses on redemption,0.0018816642274722,0.028302058991948,NO
+art leisure,Christian,experiences peace in chaotic moments,0.0016725904244198,0.010775599525208,NO
+art leisure,Christian,prays before an activity,0.0014635166213673,0.0218551954772434,NO
+art leisure,Christian,young,0.0010453690152623,0.0185661354630432,NO
+art leisure,Christian,curious about Buddhism,0.0004181476061049,0.0029128313816421,NO
+art leisure,Christian,has a Muslim friend,0.0002090738030524,4.242735420729445e-19,NO
+art leisure,Buddhism,Jewish,0.0162795745604514,3.608909258367206e-40,NO
+art leisure,Buddhism,devout,0.0145430866073366,4.218776037894365e-29,NO
+art leisure,Buddhism,has a Muslim friend,0.0097677447362708,4.242735420729445e-19,NO
+art leisure,Buddhism,wears religious clothing,0.0084653787714347,4.324857298292767e-05,NO
+art leisure,Buddhism,values cultural heritage,0.0067288908183199,8.415471333462434e-08,NO
+art leisure,Buddhism,values community,0.0056435858476231,0.0185530201438624,NO
+art leisure,Buddhism,explores Jewish culture,0.0054265248534838,6.207559794127767e-14,NO
+art leisure,Buddhism,participates in cultural activities,0.0049924028652051,1.0129975417791284e-08,NO
+art leisure,Buddhism,reflects on God's creation,0.003690036900369,0.000267183944469,NO
+art leisure,Buddhism,observes Passover,0.003690036900369,0.0004361832341828,NO
+art leisure,Buddhism,prays for safety,0.0034729759062296,7.549466815904288e-05,NO
+art leisure,Buddhism,open to faith discussions,0.0034729759062296,0.003246021543072,NO
+art leisure,Buddhism,devoted,0.0032559149120902,0.0064582485486965,NO
+art leisure,Buddhism,values forgiveness,0.0032559149120902,5.868954004462928e-05,NO
+art leisure,Buddhism,practices Shabbat,0.0032559149120902,7.642270453539827e-06,NO
+art leisure,Buddhism,local artist,0.0032559149120902,0.0282882513505821,NO
+art leisure,Buddhism,curious about Buddhism,0.0032559149120902,0.0029128313816421,NO
+art leisure,Buddhism,expresses gratitude,0.0030388539179509,0.010613951163713,NO
+art leisure,Buddhism,spiritually reflective,0.0030388539179509,0.0113096991941842,NO
+art leisure,Buddhism,reflects on tikkun olam,0.0030388539179509,7.339502740036399e-06,NO
+art leisure,Buddhism,shares faith stories,0.0028217929238115,2.148023064216393e-06,NO
+art leisure,Buddhism,prays before an activity,0.0026047319296722,0.0218551954772434,NO
+art leisure,Buddhism,watchful,0.0026047319296722,0.0039581061883895,NO
+art leisure,Buddhism,open to cultural exchange,0.0023876709355328,8.060041490178222e-05,NO
+art leisure,Buddhism,practicing,0.0023876709355328,0.0156351557214443,NO
+art leisure,Buddhism,values mindfulness,0.0023876709355328,0.0326891587437305,NO
+art leisure,Buddhism,experiences peace in chaotic moments,0.0021706099413935,0.010775599525208,NO
+art leisure,Buddhism,uses Hebrew calligraphy in art,0.0021706099413935,0.0069902916991771,NO
+art leisure,Buddhism,values tzedakah,0.0019535489472541,0.0008891989490341,NO
+art leisure,Buddhism,open to meaningful conversation,0.0017364879531148,0.002262708441945,NO
+art leisure,Buddhism,invites others to prayer,0.0017364879531148,0.0200148188192264,NO
+art leisure,Buddhism,shows interest in others' beliefs,0.0017364879531148,0.0025150302787811,NO
+art leisure,Buddhism,young,0.0017364879531148,0.0185661354630432,NO
+art leisure,Buddhism,young woman,0.0017364879531148,0.0010871230840879,NO
+art leisure,Buddhism,seeks common ground with others,0.0017364879531148,0.0092175750505632,NO
+art leisure,Buddhism,highlights Islamic contributions to art and architecture,0.0017364879531148,0.0016479736646299,NO
+art leisure,Buddhism,wears a kaftan,0.0015194269589754,0.0028135275146364,NO
+art leisure,Buddhism,Egyptian,0.0015194269589754,0.0028135275146364,NO
+art leisure,Buddhism,knowledgeable in history,0.0013023659648361,0.0286298109860831,NO
+art leisure,Buddhism,focuses on redemption,0.0013023659648361,0.028302058991948,NO
+art leisure,Buddhism,explains the significance of the Sabbath,0.0013023659648361,0.0139488759932116,NO
+art leisure,Buddhism,from Israel,0.0013023659648361,0.0139488759932116,NO
+art leisure,Buddhism,teaches Hebrew,0.0010853049706967,0.0335128150566797,NO
+art leisure,Buddhism,shares understanding of Judaism,0.0010853049706967,0.0335128150566797,NO
+art leisure,Buddhism,invites a friend to a holiday dinner,0.0010853049706967,0.0335128150566797,NO
+art leisure,Buddhism,respects tradition,0.0010853049706967,0.0182722656181823,NO
+art leisure,Buddhism,shares traditional Jewish blessings,0.0008682439765574,0.0455533980714362,NO
+art leisure,Buddhism,listens attentively,0.0008682439765574,0.0270097678369572,NO
+art leisure,Buddhism,kind,0.000651182982418,0.0042569196128903,NO
+art leisure,Buddhism,proud,0.000651182982418,0.0124183600949411,NO
+art leisure,Buddhism,appreciates Hebrew poets,0.000651182982418,0.0271335443760806,NO
+art leisure,Buddhism,open-minded,0.0004341219882787,0.0037305382492598,NO
+art leisure,Buddhism,values shared interests,0.0002170609941393,0.0001609715785831,NO
+art leisure,Buddhism,shares the Bible,0.0002170609941393,0.0173305327136499,NO
+art leisure,Buddhism,appreciates differences,0.0002170609941393,0.006668091722697,NO
+art leisure,Buddhism,wears Star of David necklace,0.0002170609941393,0.0003460067730249,NO
+art leisure,Buddhism,interested in Jewish history,0.0002170609941393,0.0056655410902853,NO
+technology,Judaism,software engineer,0.0221012171684817,8.958613202595484e-09,NO
+technology,Judaism,Muslim,0.0214606021780909,3.1323667101077825e-17,NO
+technology,Judaism,respects other faiths,0.0128122998078155,0.0010992867378128,NO
+technology,Judaism,collaborates with people of diverse beliefs,0.0121716848174247,0.0046389268144064,NO
+technology,Judaism,shares cultural heritage,0.0054452274183215,0.0016568043652936,NO
+technology,Judaism,devout,0.0048046124279308,5.951975452327553e-18,NO
+technology,Judaism,enjoys gaming,0.0048046124279308,0.0098133999014523,NO
+technology,Judaism,open to learning about other religions,0.0044843049327354,0.0403492229547666,NO
+technology,Judaism,innovator,0.0038436899423446,0.0138950928750743,NO
+technology,Judaism,values honoring the creator,0.0035233824471492,0.0077730070328917,NO
+technology,Judaism,demonstrates mutual respect,0.0035233824471492,0.0043422833063224,NO
+technology,Judaism,knowledgeable about the Bible,0.0035233824471492,0.00228197197239,NO
+technology,Judaism,integrates faith into daily life,0.0032030749519538,0.0008256465477071,NO
+technology,Judaism,open to cross-cultural dialogue,0.0025624599615631,0.0474999813498485,NO
+technology,Judaism,open-minded,0.0022421524663677,0.0041218197743148,NO
+technology,Judaism,promotes inclusivity,0.0019218449711723,0.0407689216855447,NO
+technology,Judaism,collaborates with a Muslim colleague,0.0012812299807815,0.0491850972134409,NO
+technology,Judaism,open to learning,0.0009609224855861,0.0058485574457973,NO
+technology,Judaism,listens intently,0.0006406149903907,0.0407689216855447,NO
+technology,Judaism,integrates diverse perspectives,0.0003203074951953,0.009971522735887,NO
+technology,Muslim,software engineer,0.0245113248526217,8.958613202595484e-09,NO
+technology,Muslim,collaborates,0.0130313372634191,0.0001749663475375,NO
+technology,Muslim,respects other faiths,0.0096183679801427,0.0010992867378128,NO
+technology,Muslim,collaborates with people of diverse beliefs,0.0071362085013962,0.0046389268144064,NO
+technology,Muslim,demonstrates mutual respect,0.0058951287620229,0.0043422833063224,NO
+technology,Muslim,enjoys gaming,0.0055848588271796,0.0098133999014523,NO
+technology,Muslim,shares cultural heritage,0.004964318957493,0.0016568043652936,NO
+technology,Muslim,observes Sabbath,0.0043437790878063,4.729429698691362e-08,NO
+technology,Muslim,of Jewish descent,0.0043437790878063,1.3301757039484952e-05,NO
+technology,Muslim,open to cross-cultural dialogue,0.004033509152963,0.0474999813498485,NO
+technology,Muslim,innovator,0.0037232392181197,0.0138950928750743,NO
+technology,Muslim,promotes inclusivity,0.0034129692832764,0.0407689216855447,NO
+technology,Muslim,shares faith,0.0027924294135898,2.1141931127912503e-06,NO
+technology,Muslim,collaborates with a Muslim colleague,0.0024821594787465,0.0491850972134409,NO
+technology,Muslim,interested in Jewish tradition,0.0024821594787465,0.0005564963254602,NO
+technology,Muslim,knowledgeable about the Bible,0.0024821594787465,0.00228197197239,NO
+technology,Muslim,invites others to Jewish traditions,0.0015513496742165,0.0267790565687215,NO
+technology,Muslim,advocate for Jewish values,0.0015513496742165,0.0030727400721908,NO
+technology,Muslim,prays for wisdom,0.0015513496742165,0.0009145648959347,NO
+technology,Muslim,observes Hanukkah,0.0015513496742165,0.039366617987875,NO
+technology,Muslim,discusses the Talmud,0.0015513496742165,0.0355665400738951,NO
+technology,Muslim,forgiving,0.0015513496742165,0.039366617987875,NO
+technology,Muslim,finds common ground in nature,0.0015513496742165,0.0020798349038858,NO
+technology,Muslim,engages in tikkun olam,0.0012410797393732,2.4912082260670014e-05,NO
+technology,Muslim,finds solace in prayer,0.0009308098045299,2.952911189044868e-08,NO
+technology,Muslim,integrates faith into daily life,0.0006205398696866,0.0008256465477071,NO
+technology,Muslim,leads a moment of gratitude,0.0006205398696866,0.0064150688953278,NO
+technology,Muslim,listens intently,0.0003102699348433,0.0407689216855447,NO
+technology,Muslim,explains tzedakah,0.0003102699348433,0.033237188827241,NO
+technology,Christian,devout,0.0380612548319952,5.951975452327553e-18,NO
+technology,Christian,collaborates with people of diverse beliefs,0.015759738328873,0.0046389268144064,NO
+technology,Christian,integrates faith into daily life,0.0124888492417484,0.0008256465477071,NO
+technology,Christian,shares faith,0.0104073743681236,2.1141931127912503e-06,NO
+technology,Christian,open to learning about other religions,0.0095153137079988,0.0403492229547666,NO
+technology,Christian,finds solace in prayer,0.0095153137079988,2.952911189044868e-08,NO
+technology,Christian,demonstrates mutual respect,0.0071364852809991,0.0043422833063224,NO
+technology,Christian,open to learning,0.0068391317276241,0.0058485574457973,NO
+technology,Christian,values honoring the creator,0.0068391317276241,0.0077730070328917,NO
+technology,Christian,open-minded,0.0065417781742491,0.0041218197743148,NO
+technology,Christian,respects other faiths,0.0056497175141242,0.0010992867378128,NO
+technology,Christian,prays for wisdom,0.0050550104073743,0.0009145648959347,NO
+technology,Christian,finds common ground in nature,0.0047576568539994,0.0020798349038858,NO
+technology,Christian,leads a moment of gratitude,0.0044603033006244,0.0064150688953278,NO
+technology,Christian,integrates diverse perspectives,0.0035682426404995,0.009971522735887,NO
+technology,Christian,listens intently,0.0032708890871245,0.0407689216855447,NO
+technology,Christian,committed to ethical AI development,0.0023788284269997,0.0104851535650745,NO
+technology,Christian,forgiving,0.0020814748736247,0.039366617987875,NO
+technology,Christian,collaborates with a Muslim colleague,0.0017841213202497,0.0491850972134409,NO
+technology,Christian,collaborates,0.0014867677668748,0.0001749663475375,NO
+technology,Christian,credits prayers for success,0.0011894142134998,0.0453249654617428,NO
+technology,Christian,practices mindfulness,0.0002973535533749,0.0004336053013314,NO
+technology,Christian,promotes inclusivity,0.0002973535533749,0.0407689216855447,NO
+technology,Christian,knowledgeable about the Bible,0.0002973535533749,0.00228197197239,NO
+technology,Buddhism,software engineer,0.0203562340966921,8.958613202595484e-09,NO
+technology,Buddhism,Muslim,0.0203562340966921,3.1323667101077825e-17,NO
+technology,Buddhism,devout,0.0104961832061068,5.951975452327553e-18,NO
+technology,Buddhism,finds solace in prayer,0.0104961832061068,2.952911189044868e-08,NO
+technology,Buddhism,values honoring the creator,0.0082697201017811,0.0077730070328917,NO
+technology,Buddhism,observes Sabbath,0.0073155216284987,4.729429698691362e-08,NO
+technology,Buddhism,practices mindfulness,0.0060432569974554,0.0004336053013314,NO
+technology,Buddhism,of Jewish descent,0.005089058524173,1.3301757039484952e-05,NO
+technology,Buddhism,engages in tikkun olam,0.0044529262086513,2.4912082260670014e-05,NO
+technology,Buddhism,leads a moment of gratitude,0.0041348600508905,0.0064150688953278,NO
+technology,Buddhism,strong Christian faith,0.0041348600508905,3.374143315247414e-06,NO
+technology,Buddhism,prays for wisdom,0.0038167938931297,0.0009145648959347,NO
+technology,Buddhism,collaborates,0.0034987277353689,0.0001749663475375,NO
+technology,Buddhism,integrates diverse perspectives,0.0034987277353689,0.009971522735887,NO
+technology,Buddhism,open-minded,0.0034987277353689,0.0041218197743148,NO
+technology,Buddhism,committed to ethical AI development,0.0031806615776081,0.0104851535650745,NO
+technology,Buddhism,shares faith,0.0031806615776081,2.1141931127912503e-06,NO
+technology,Buddhism,finds common ground in nature,0.0028625954198473,0.0020798349038858,NO
+technology,Buddhism,shares cultural heritage,0.0028625954198473,0.0016568043652936,NO
+technology,Buddhism,open to learning,0.0025445292620865,0.0058485574457973,NO
+technology,Buddhism,interested in Jewish tradition,0.0025445292620865,0.0005564963254602,NO
+technology,Buddhism,advocate for Jewish values,0.0025445292620865,0.0030727400721908,NO
+technology,Buddhism,open to learning about other religions,0.0019083969465648,0.0403492229547666,NO
+technology,Buddhism,innovator,0.0019083969465648,0.0138950928750743,NO
+technology,Buddhism,shares Quranic inspiration,0.001590330788804,0.0181262928369632,NO
+technology,Buddhism,open to cross-cultural dialogue,0.001590330788804,0.0474999813498485,NO
+technology,Buddhism,explains tzedakah,0.001590330788804,0.033237188827241,NO
+technology,Buddhism,enjoys gaming,0.001590330788804,0.0098133999014523,NO
+technology,Buddhism,invites others to Jewish traditions,0.0012722646310432,0.0267790565687215,NO
+technology,Buddhism,explains the significance of Ramadan,0.0012722646310432,0.0453249654617428,NO
+technology,Buddhism,credits prayers for success,0.0012722646310432,0.0453249654617428,NO
+technology,Buddhism,discusses the Talmud,0.0009541984732824,0.0355665400738951,NO
+technology,Buddhism,forgiving,0.0006361323155216,0.039366617987875,NO
+technology,Buddhism,observes Hanukkah,0.0006361323155216,0.039366617987875,NO
+media,Judaism,interested in Judaism,0.0137468030690537,1.0831534789839138e-08,NO
+media,Judaism,respects other religions,0.0118286445012787,0.0002425767732751,NO
+media,Judaism,journalist,0.0105498721227621,0.0053050385240036,NO
+media,Judaism,works in advertising,0.0079923273657289,0.0018239999362411,NO
+media,Judaism,works at an animation studio,0.0070332480818414,0.0061789401658231,NO
+media,Judaism,shows genuine interest in other traditions,0.0060741687979539,0.0055191152826745,NO
+media,Judaism,creative director,0.0047953964194373,0.0351053755988285,NO
+media,Judaism,devout,0.0044757033248081,7.811754692650393e-17,NO
+media,Judaism,values Jesus' teachings,0.004156010230179,8.263404520136487e-06,NO
+media,Judaism,artist,0.004156010230179,0.005974333767214,NO
+media,Judaism,interested in other faiths,0.0035166240409207,0.0218292535267394,NO
+media,Judaism,producer,0.0035166240409207,0.0231887759084617,NO
+media,Judaism,identifies as Christian,0.0028772378516624,0.0030837668260913,NO
+media,Judaism,incorporates spiritual insights,0.0028772378516624,0.0178286768377786,NO
+media,Judaism,software engineer,0.0028772378516624,0.0009031188901321,NO
+media,Judaism,emphasizes biblical themes,0.0025575447570332,0.0438458018887771,NO
+media,Judaism,open to learning from others,0.002237851662404,0.0102617060397077,NO
+media,Judaism,publisher,0.002237851662404,0.0224970743012789,NO
+media,Judaism,inspires cross-cultural understanding,0.0015984654731457,0.0012975799604851,NO
+media,Judaism,applies faith in professional work,0.0012787723785166,0.0009646928189862,NO
+media,Judaism,connects eco-friendliness to Judaism,0.0012787723785166,0.0453249654617428,NO
+media,Judaism,guided by faith,0.0009590792838874,0.0098164732247541,NO
+media,Judaism,seeks wisdom,0.0006393861892583,0.0255937889853802,NO
+media,Judaism,shares Bible quotes,0.0003196930946291,0.0004371251338867,NO
+media,Judaism,wears headscarf as gesture of respect,0.0003196930946291,0.017692229327153,NO
+media,Muslim,Jewish,0.0227703984819734,4.002414378402647e-20,NO
+media,Muslim,journalist,0.0123339658444022,0.0053050385240036,NO
+media,Muslim,respects other religions,0.010752688172043,0.0002425767732751,NO
+media,Muslim,inspires cross-cultural understanding,0.0075901328273244,0.0012975799604851,NO
+media,Muslim,works in advertising,0.0066413662239089,0.0018239999362411,NO
+media,Muslim,interested in Judaism,0.0053763440860215,1.0831534789839138e-08,NO
+media,Muslim,shows genuine interest in other traditions,0.0050600885515496,0.0055191152826745,NO
+media,Muslim,works at an animation studio,0.0050600885515496,0.0061789401658231,NO
+media,Muslim,software engineer,0.0050600885515496,0.0009031188901321,NO
+media,Muslim,contributes to inclusive workplace,0.0047438330170777,0.0252149662497541,NO
+media,Muslim,identifies as Christian,0.0037950664136622,0.0030837668260913,NO
+media,Muslim,artist,0.0037950664136622,0.005974333767214,NO
+media,Muslim,creative director,0.0034788108791903,0.0351053755988285,NO
+media,Muslim,interested in other faiths,0.0031625553447185,0.0218292535267394,NO
+media,Muslim,shares insights into Jewish customs,0.0031625553447185,0.000706932716638,NO
+media,Muslim,observes Shabbat traditions,0.0025300442757748,4.3256469165309626e-07,NO
+media,Muslim,wears headscarf as gesture of respect,0.0025300442757748,0.017692229327153,NO
+media,Muslim,celebrates Passover,0.0022137887413029,0.0058814544910811,NO
+media,Muslim,shares faith,0.0018975332068311,1.1251896965761647e-05,NO
+media,Muslim,shares knowledge about Hanukkah,0.0018975332068311,0.0068805261735443,NO
+media,Muslim,teaches calligraphy,0.0018975332068311,0.007129047569407,NO
+media,Muslim,respects diverse perspectives,0.0015812776723592,0.0149131873531252,NO
+media,Muslim,learns about Buddhism,0.0015812776723592,0.04088820763514,NO
+media,Muslim,appreciates mindfulness,0.0015812776723592,0.0030727400721908,NO
+media,Muslim,producer,0.0015812776723592,0.0231887759084617,NO
+media,Muslim,introduces forgiveness,0.0015812776723592,0.0079183601743297,NO
+media,Muslim,publisher,0.0015812776723592,0.0224970743012789,NO
+media,Christian,devout,0.0382716049382716,7.811754692650393e-17,NO
+media,Christian,respects other religions,0.016358024691358,0.0002425767732751,NO
+media,Christian,shares faith,0.0111111111111111,1.1251896965761647e-05,NO
+media,Christian,respects diverse perspectives,0.0086419753086419,0.0149131873531252,NO
+media,Christian,open to learning from others,0.0061728395061728,0.0102617060397077,NO
+media,Christian,incorporates spiritual insights,0.0058641975308641,0.0178286768377786,NO
+media,Christian,applies faith in professional work,0.0058641975308641,0.0009646928189862,NO
+media,Christian,interested in other faiths,0.0046296296296296,0.0218292535267394,NO
+media,Christian,introduces forgiveness,0.0046296296296296,0.0079183601743297,NO
+media,Christian,guided by faith,0.003395061728395,0.0098164732247541,NO
+media,Christian,contributes to inclusive workplace,0.0024691358024691,0.0252149662497541,NO
+media,Christian,appreciates mindfulness,0.0024691358024691,0.0030727400721908,NO
+media,Christian,learns about Buddhism,0.0018518518518518,0.04088820763514,NO
+media,Christian,seeks wisdom,0.0015432098765432,0.0255937889853802,NO
+media,Christian,serves others,0.0012345679012345,0.0453249654617428,NO
+media,Buddhism,Jewish,0.0211489898989899,4.002414378402647e-20,NO
+media,Buddhism,devout,0.0101010101010101,7.811754692650393e-17,NO
+media,Buddhism,values Jesus' teachings,0.0085227272727272,8.263404520136487e-06,NO
+media,Buddhism,applies faith in professional work,0.0085227272727272,0.0009646928189862,NO
+media,Buddhism,journalist,0.0069444444444444,0.0053050385240036,NO
+media,Buddhism,incorporates spiritual insights,0.0063131313131313,0.0178286768377786,NO
+media,Buddhism,works at an animation studio,0.0063131313131313,0.0061789401658231,NO
+media,Buddhism,observes Shabbat traditions,0.0059974747474747,4.3256469165309626e-07,NO
+media,Buddhism,software engineer,0.0053661616161616,0.0009031188901321,NO
+media,Buddhism,interested in Judaism,0.0044191919191919,1.0831534789839138e-08,NO
+media,Buddhism,shares faith,0.0044191919191919,1.1251896965761647e-05,NO
+media,Buddhism,shows curiosity about Islam,0.0044191919191919,0.0003001942010512,NO
+media,Buddhism,appreciates mindfulness,0.0041035353535353,0.0030727400721908,NO
+media,Buddhism,creative director,0.0037878787878787,0.0351053755988285,NO
+media,Buddhism,artist,0.0034722222222222,0.005974333767214,NO
+media,Buddhism,works in advertising,0.0031565656565656,0.0018239999362411,NO
+media,Buddhism,open to learning from others,0.002840909090909,0.0102617060397077,NO
+media,Buddhism,seeks wisdom,0.002840909090909,0.0255937889853802,NO
+media,Buddhism,shares Bible quotes,0.0025252525252525,0.0004371251338867,NO
+media,Buddhism,guided by faith,0.0025252525252525,0.0098164732247541,NO
+media,Buddhism,wears headscarf as gesture of respect,0.0022095959595959,0.017692229327153,NO
+media,Buddhism,proposes Islamic geometric patterns,0.0018939393939393,0.007129047569407,NO
+media,Buddhism,shares knowledge about Hanukkah,0.0018939393939393,0.0068805261735443,NO
+media,Buddhism,teaches calligraphy,0.0018939393939393,0.007129047569407,NO
+media,Buddhism,introduces others to Ramadan,0.0018939393939393,0.007129047569407,NO
+media,Buddhism,producer,0.0018939393939393,0.0231887759084617,NO
+media,Buddhism,shows genuine interest in other traditions,0.0015782828282828,0.0055191152826745,NO
+media,Buddhism,inspires cross-cultural understanding,0.0015782828282828,0.0012975799604851,NO
+media,Buddhism,contributes to inclusive workplace,0.0015782828282828,0.0252149662497541,NO
+media,Buddhism,celebrates Passover,0.0015782828282828,0.0058814544910811,NO
+media,Buddhism,connects eco-friendliness to Judaism,0.0012626262626262,0.0453249654617428,NO
+media,Buddhism,engages with Hebrew Bible,0.0012626262626262,0.0453249654617428,NO
+media,Buddhism,celebrates Eid al-Fitr,0.0012626262626262,0.0453249654617428,NO
+media,Buddhism,serves others,0.0012626262626262,0.0453249654617428,NO
+media,Buddhism,values Shabbat,0.0012626262626262,0.0453249654617428,NO
+media,Buddhism,respects diverse perspectives,0.0009469696969696,0.0149131873531252,NO
+media,Buddhism,shares insights into Jewish customs,0.0009469696969696,0.000706932716638,NO
+media,Buddhism,introduces forgiveness,0.0006313131313131,0.0079183601743297,NO
+media,Buddhism,emphasizes biblical themes,0.0006313131313131,0.0438458018887771,NO
+economics,Judaism,financial advisor,0.0205804749340369,2.9732775758188867e-05,NO
+economics,Judaism,forms interfaith friendships,0.0153034300791556,0.0240038833448793,NO
+economics,Judaism,practices daily devotions,0.00844327176781,0.0104632822175896,NO
+economics,Judaism,trader,0.0073878627968337,0.0101961045375314,NO
+economics,Judaism,engages in cultural exchange,0.0063324538258575,0.0003488562236994,NO
+economics,Judaism,businessman,0.0063324538258575,0.0325809352156983,NO
+economics,Judaism,interested in different religions,0.0047493403693931,0.0371247292624374,NO
+economics,Judaism,open to learning about other traditions,0.004221635883905,0.0190275751309688,NO
+economics,Judaism,collaborates with a colleague of different faith,0.004221635883905,0.0338538569175897,NO
+economics,Judaism,discusses market trends,0.0031662269129287,0.013487240836126,NO
+economics,Judaism,invites others to events,0.0026385224274406,0.0261468784525769,NO
+economics,Judaism,expresses gratitude,0.0015831134564643,0.0166764851283885,NO
+economics,Judaism,shows compassion,0.0015831134564643,0.0230580790349963,NO
+economics,Judaism,explains faith concepts,0.0015831134564643,0.0147737665871519,NO
+economics,Judaism,believes in divine guidance,0.0015831134564643,0.0052400310048052,NO
+economics,Judaism,prays,0.0010554089709762,0.0003209854768005,NO
+economics,Judaism,seeks divine blessing,0.0005277044854881,0.0021270956846156,NO
+economics,Muslim,financial advisor,0.017579105976896,2.9732775758188867e-05,NO
+economics,Muslim,Jewish,0.0165745856353591,5.511607947143044e-13,NO
+economics,Muslim,forms interfaith friendships,0.0160723254645906,0.0240038833448793,NO
+economics,Muslim,engages in cultural exchange,0.0135610246107483,0.0003488562236994,NO
+economics,Muslim,collaborates with a colleague of different faith,0.0070316423907584,0.0338538569175897,NO
+economics,Muslim,businessman,0.0065293822199899,0.0325809352156983,NO
+economics,Muslim,trader,0.0065293822199899,0.0101961045375314,NO
+economics,Muslim,practices daily devotions,0.0045203415369161,0.0104632822175896,NO
+economics,Muslim,respects Jewish traditions,0.0045203415369161,3.7208143278615445e-07,NO
+economics,Muslim,discusses market trends,0.0035158211953792,0.013487240836126,NO
+economics,Muslim,observes Shabbat,0.0025113008538422,0.0144639236679974,NO
+economics,Muslim,shares faith,0.0020090406830738,0.0213361907163009,NO
+economics,Muslim,interested in different religions,0.0020090406830738,0.0371247292624374,NO
+economics,Muslim,deposits paycheck,0.0020090406830738,0.0449150041685146,NO
+economics,Muslim,open to learning about other traditions,0.0010045203415369,0.0190275751309688,NO
+economics,Muslim,devout,0.0005022601707684,3.861377618903363e-07,NO
+economics,Muslim,invites others to events,0.0005022601707684,0.0261468784525769,NO
+economics,Muslim,emphasizes faith in business decisions,0.0005022601707684,0.0327437678512251,NO
+economics,Christian,devout,0.0306591722023505,3.861377618903363e-07,NO
+economics,Christian,shares faith,0.0107307102708226,0.0213361907163009,NO
+economics,Christian,forms interfaith friendships,0.0097087378640776,0.0240038833448793,NO
+economics,Christian,prays,0.0091977516607051,0.0003209854768005,NO
+economics,Christian,expresses gratitude,0.0091977516607051,0.0166764851283885,NO
+economics,Christian,shows compassion,0.0086867654573326,0.0230580790349963,NO
+economics,Christian,explains faith concepts,0.0086867654573326,0.0147737665871519,NO
+economics,Christian,believes in divine guidance,0.0061318344404701,0.0052400310048052,NO
+economics,Christian,interested in different religions,0.0056208482370975,0.0371247292624374,NO
+economics,Christian,open to learning about other traditions,0.005109862033725,0.0190275751309688,NO
+economics,Christian,seeks divine blessing,0.0045988758303525,0.0021270956846156,NO
+economics,Christian,invites others to events,0.00408788962698,0.0261468784525769,NO
+economics,Christian,collaborates with a colleague of different faith,0.003065917220235,0.0338538569175897,NO
+economics,Christian,emphasizes faith in business decisions,0.003065917220235,0.0327437678512251,NO
+economics,Buddhism,devout,0.0161374284226965,3.861377618903363e-07,NO
+economics,Buddhism,prays,0.0093701197293076,0.0003209854768005,NO
+economics,Buddhism,shows compassion,0.0093701197293076,0.0230580790349963,NO
+economics,Buddhism,Jewish,0.0088495575221238,5.511607947143044e-13,NO
+economics,Buddhism,financial advisor,0.0083289953149401,2.9732775758188867e-05,NO
+economics,Buddhism,respects Jewish traditions,0.0072878709005726,3.7208143278615445e-07,NO
+economics,Buddhism,expresses gratitude,0.0067673086933888,0.0166764851283885,NO
+economics,Buddhism,practices daily devotions,0.0067673086933888,0.0104632822175896,NO
+economics,Buddhism,shares faith,0.0057261842790213,0.0213361907163009,NO
+economics,Buddhism,engages in cultural exchange,0.0057261842790213,0.0003488562236994,NO
+economics,Buddhism,observes Shabbat,0.0052056220718375,0.0144639236679974,NO
+economics,Buddhism,explains faith concepts,0.0052056220718375,0.0147737665871519,NO
+economics,Buddhism,businessman,0.0046850598646538,0.0325809352156983,NO
+economics,Buddhism,seeks divine blessing,0.00416449765747,0.0021270956846156,NO
+economics,Buddhism,values tzedakah,0.00416449765747,0.0010239130740667,NO
+economics,Buddhism,believes in divine guidance,0.0036439354502863,0.0052400310048052,NO
+economics,Buddhism,trader,0.0036439354502863,0.0101961045375314,NO
+economics,Buddhism,reads the Bible,0.0026028110359187,0.0220041283016803,NO
+economics,Buddhism,emphasizes faith in business decisions,0.0026028110359187,0.0327437678512251,NO
+economics,Buddhism,deposits paycheck,0.002082248828735,0.0449150041685146,NO
+economics,Buddhism,applies Islamic ethical principles,0.002082248828735,0.0449150041685146,NO
+economics,Buddhism,wears abaya,0.002082248828735,0.0449150041685146,NO
+economics,Buddhism,discusses market trends,0.0005205622071837,0.013487240836126,NO
+law policy,Judaism,explores Judaism,0.0223776223776223,4.842508171658512e-18,NO
+law policy,Judaism,respects other faiths,0.0176223776223776,9.862014556292248e-08,NO
+law policy,Judaism,lawyer,0.0111888111888111,6.969373604744437e-05,NO
+law policy,Judaism,devout,0.0086713286713286,5.0187570754641515e-25,NO
+law policy,Judaism,open to interfaith dialogue,0.0075524475524475,0.0419597123085065,NO
+law policy,Judaism,knowledgeable about religious teachings,0.005034965034965,0.0040111761800129,NO
+law policy,Judaism,appreciative of different traditions,0.005034965034965,0.008522018719752,NO
+law policy,Judaism,respectful,0.0039160839160839,0.015635852603933,NO
+law policy,Judaism,pro-Israel advocate,0.0036363636363636,0.0045807184183584,NO
+law policy,Judaism,collaborates with Muslim colleague,0.0027972027972027,0.0011528328083579,NO
+law policy,Judaism,environmental activist,0.0027972027972027,0.0176987137318936,NO
+law policy,Judaism,seeks guidance through prayer,0.0022377622377622,2.180641882380704e-08,NO
+law policy,Judaism,draws from scripture,0.0019580419580419,0.0027827352550185,NO
+law policy,Judaism,delegate,0.0016783216783216,0.0493673052735788,NO
+law policy,Judaism,speaks candidly about faith,0.0016783216783216,0.0001728260293314,NO
+law policy,Judaism,acknowledges Buddhist perspectives,0.0013986013986013,0.0025830183901334,NO
+law policy,Judaism,values compassion,0.0011188811188811,2.57331059314303e-06,NO
+law policy,Judaism,prays silently,0.0011188811188811,0.0001073904616079,NO
+law policy,Judaism,open to new perspectives,0.0008391608391608,0.0178809483931278,NO
+law policy,Judaism,incarcerated,0.0005594405594405,0.0410111959911775,NO
+law policy,Judaism,open to learning,0.0002797202797202,0.0002790252507178,NO
+law policy,Judaism,from Israel,0.0002797202797202,0.0022279104088347,NO
+law policy,Muslim,respects other faiths,0.0136839280922994,9.862014556292248e-08,NO
+law policy,Muslim,Jewish,0.0091226187281996,2.5266748144879633e-14,NO
+law policy,Muslim,explores Judaism,0.0077810571505232,4.842508171658512e-18,NO
+law policy,Muslim,Christian,0.0075127448349879,2.208138658138564e-08,NO
+law policy,Muslim,open to interfaith dialogue,0.0069761202039173,0.0419597123085065,NO
+law policy,Muslim,lawyer,0.0064394955728467,6.969373604744437e-05,NO
+law policy,Muslim,knowledgeable about religious teachings,0.0053662463107056,0.0040111761800129,NO
+law policy,Muslim,collaborates with Muslim colleague,0.0045613093640998,0.0011528328083579,NO
+law policy,Muslim,observes Shabbat,0.0042929970485645,2.896519136050356e-07,NO
+law policy,Muslim,environmental activist,0.0034880601019586,0.0176987137318936,NO
+law policy,Muslim,incarcerated,0.0024148108398175,0.0410111959911775,NO
+law policy,Muslim,strengthens faith through understanding,0.0021464985242822,0.0411884394478691,NO
+law policy,Muslim,delegate,0.0021464985242822,0.0493673052735788,NO
+law policy,Muslim,recognizes Islamic culture,0.0021464985242822,0.0096204312427296,NO
+law policy,Muslim,from Israel,0.0021464985242822,0.0022279104088347,NO
+law policy,Muslim,listens to others' concerns,0.0018781862087469,0.0344141375767692,NO
+law policy,Muslim,shows resilience,0.0018781862087469,0.0292807122379834,NO
+law policy,Muslim,wears a modest headscarf,0.0018781862087469,0.0027834327392716,NO
+law policy,Muslim,practices forgiveness,0.0016098738932116,0.0109447172913234,NO
+law policy,Muslim,respectful,0.0016098738932116,0.015635852603933,NO
+law policy,Muslim,supports refugee families,0.0016098738932116,0.028411102681708,NO
+law policy,Muslim,pro-Israel advocate,0.0010732492621411,0.0045807184183584,NO
+law policy,Muslim,appreciative of different traditions,0.0010732492621411,0.008522018719752,NO
+law policy,Muslim,young woman,0.0010732492621411,0.04540105610091,NO
+law policy,Muslim,practices deep breathing,0.0010732492621411,0.04540105610091,NO
+law policy,Muslim,observes Passover,0.0010732492621411,0.0268969596687685,NO
+law policy,Muslim,interested in Jewish rituals and customs,0.0010732492621411,0.0493673052735788,NO
+law policy,Muslim,promotes the concept of tikkun olam,0.0008049369466058,0.0007156527699632,NO
+law policy,Muslim,concerned about rising anti-Semitism,0.0008049369466058,0.0356953057372319,NO
+law policy,Muslim,feels hope,0.0002683123155352,0.0268969596687685,NO
+law policy,Muslim,shares Hanukkah stories,0.0002683123155352,0.0333289451778671,NO
+law policy,Muslim,values tzedakah,0.0002683123155352,0.0333289451778671,NO
+law policy,Christian,devout,0.0433741351782863,5.0187570754641515e-25,NO
+law policy,Christian,respects other faiths,0.0212879191059073,9.862014556292248e-08,NO
+law policy,Christian,values compassion,0.0188930282064928,2.57331059314303e-06,NO
+law policy,Christian,seeks guidance through prayer,0.0106439595529536,2.180641882380704e-08,NO
+law policy,Christian,open to interfaith dialogue,0.0087812666311868,0.0419597123085065,NO
+law policy,Christian,speaks candidly about faith,0.0077168706758914,0.0001728260293314,NO
+law policy,Christian,strengthens faith through understanding,0.0074507716870675,0.0411884394478691,NO
+law policy,Christian,draws from scripture,0.0071846726982437,0.0027827352550185,NO
+law policy,Christian,prays silently,0.0071846726982437,0.0001073904616079,NO
+law policy,Christian,open to learning,0.0055880787653006,0.0002790252507178,NO
+law policy,Christian,practices forgiveness,0.005055880787653,0.0109447172913234,NO
+law policy,Christian,respectful,0.0047897817988291,0.015635852603933,NO
+law policy,Christian,open to new perspectives,0.0045236828100053,0.0178809483931278,NO
+law policy,Christian,listens to others' concerns,0.0029270888770622,0.0344141375767692,NO
+law policy,Christian,feels hope,0.0021287919105907,0.0268969596687685,NO
+law policy,Christian,collaborates with Muslim colleague,0.0018626929217668,0.0011528328083579,NO
+law policy,Christian,testifies confidently,0.0013304949441192,0.0181748791083721,NO
+law policy,Christian,cares for creation,0.0010643959552953,0.04540105610091,NO
+law policy,Christian,acknowledges Buddhist perspectives,0.0005321979776476,0.0025830183901334,NO
+law policy,Buddhism,explores Judaism,0.0118587975730832,4.842508171658512e-18,NO
+law policy,Buddhism,seeks guidance through prayer,0.0110314396028681,2.180641882380704e-08,NO
+law policy,Buddhism,devout,0.0093767236624379,5.0187570754641515e-25,NO
+law policy,Buddhism,prays silently,0.0079977937120794,0.0001073904616079,NO
+law policy,Buddhism,Jewish,0.0077220077220077,2.5266748144879633e-14,NO
+law policy,Buddhism,Christian,0.0068946497517926,2.208138658138564e-08,NO
+law policy,Buddhism,observes Shabbat,0.0063430777716492,2.896519136050356e-07,NO
+law policy,Buddhism,lawyer,0.0049641478212906,6.969373604744437e-05,NO
+law policy,Buddhism,acknowledges Buddhist perspectives,0.0041367898510755,0.0025830183901334,NO
+law policy,Buddhism,environmental activist,0.0041367898510755,0.0176987137318936,NO
+law policy,Buddhism,knowledgeable about religious teachings,0.0038610038610038,0.0040111761800129,NO
+law policy,Buddhism,values compassion,0.0035852178709321,2.57331059314303e-06,NO
+law policy,Buddhism,draws from scripture,0.0033094318808604,0.0027827352550185,NO
+law policy,Buddhism,practices forgiveness,0.0030336458907887,0.0109447172913234,NO
+law policy,Buddhism,incarcerated,0.0030336458907887,0.0410111959911775,NO
+law policy,Buddhism,promotes the concept of tikkun olam,0.002757859900717,0.0007156527699632,NO
+law policy,Buddhism,from Israel,0.0024820739106453,0.0022279104088347,NO
+law policy,Buddhism,practicing Muslim,0.0024820739106453,0.0004093566054554,NO
+law policy,Buddhism,open to new perspectives,0.0022062879205736,0.0178809483931278,NO
+law policy,Buddhism,pro-Israel advocate,0.0019305019305019,0.0045807184183584,NO
+law policy,Buddhism,speaks candidly about faith,0.0019305019305019,0.0001728260293314,NO
+law policy,Buddhism,wears a modest headscarf,0.0019305019305019,0.0027834327392716,NO
+law policy,Buddhism,shows resilience,0.0019305019305019,0.0292807122379834,NO
+law policy,Buddhism,strengthens faith through understanding,0.0016547159404302,0.0411884394478691,NO
+law policy,Buddhism,recognizes Islamic culture,0.0016547159404302,0.0096204312427296,NO
+law policy,Buddhism,supports refugee families,0.0016547159404302,0.028411102681708,NO
+law policy,Buddhism,feels hope,0.0013789299503585,0.0268969596687685,NO
+law policy,Buddhism,values tzedakah,0.0013789299503585,0.0333289451778671,NO
+law policy,Buddhism,testifies confidently,0.0013789299503585,0.0181748791083721,NO
+law policy,Buddhism,observes Passover,0.0013789299503585,0.0268969596687685,NO
+law policy,Buddhism,shares Hanukkah stories,0.0013789299503585,0.0333289451778671,NO
+law policy,Buddhism,concerned about rising anti-Semitism,0.0013789299503585,0.0356953057372319,NO
+law policy,Buddhism,cares for creation,0.0011031439602868,0.04540105610091,NO
+law policy,Buddhism,delegate,0.0011031439602868,0.0493673052735788,NO
+law policy,Buddhism,young woman,0.0011031439602868,0.04540105610091,NO
+law policy,Buddhism,practices deep breathing,0.0011031439602868,0.04540105610091,NO
+law policy,Buddhism,appreciative of different traditions,0.0011031439602868,0.008522018719752,NO
+law policy,Buddhism,passionate about Jewish activism,0.0011031439602868,0.04540105610091,NO
+law policy,Buddhism,interested in Jewish rituals and customs,0.0005515719801434,0.0493673052735788,NO
+environment,Judaism,passionate about environmental conservation,0.011475932419509,0.000929622234253,NO
+environment,Judaism,open to interfaith dialogue,0.0102008288173414,0.0006498389145315,NO
+environment,Judaism,shows respect for another’s tradition,0.0092445011157156,0.0009374462732593,NO
+environment,Judaism,shares teachings,0.0054191903092126,0.0272190156836432,NO
+environment,Judaism,connects with nature,0.0047816385081287,0.0111500683627415,NO
+environment,Judaism,shares about the Christian Sabbath,0.0044628626075868,0.0023052821622101,NO
+environment,Judaism,traveler,0.0044628626075868,0.0078893227514012,NO
+environment,Judaism,respects religious diversity,0.0041440867070449,0.0266660842099793,NO
+environment,Judaism,interested in biblical teachings,0.003825310806503,0.013095733470874,NO
+environment,Judaism,farmer,0.0035065349059611,0.0320101972366523,NO
+environment,Judaism,sees nature as a reflection of creation,0.0031877590054191,0.000326937232919,NO
+environment,Judaism,loves hiking,0.0031877590054191,0.0139603774568244,NO
+environment,Judaism,recognizes spiritual parallels,0.0019126554032515,0.0461869886768094,NO
+environment,Judaism,history enthusiast,0.0019126554032515,0.033237188827241,NO
+environment,Judaism,open to learning,0.0015938795027095,0.0010394454356112,NO
+environment,Judaism,finds spiritual peace in serene environments,0.0015938795027095,0.0398355869306207,NO
+environment,Judaism,reflects on cultural connections,0.0015938795027095,0.0231887759084617,NO
+environment,Judaism,quotes scripture,0.0015938795027095,0.0002722790761128,NO
+environment,Judaism,values forgiveness,0.0009563277016257,0.0002757230338072,NO
+environment,Judaism,experiences unity through shared perspectives,0.0006375518010838,0.039366617987875,NO
+environment,Judaism,engages in a faith conversation,0.0003187759005419,0.0239297822739741,NO
+environment,Judaism,emphasizes love and compassion,0.0003187759005419,0.0465828871008244,NO
+environment,Judaism,promotes sustainable agriculture,0.0003187759005419,0.0185324205825975,NO
+environment,Muslim,Jewish,0.0181037127953359,8.154794224345038e-25,NO
+environment,Muslim,respects religious diversity,0.0104326480515495,0.0266660842099793,NO
+environment,Muslim,acknowledges Jewish teachings,0.0095121202822951,9.899542245858376e-13,NO
+environment,Muslim,passionate about environmental conservation,0.0088984351027922,0.000929622234253,NO
+environment,Muslim,open to interfaith dialogue,0.0076710647437864,0.0006498389145315,NO
+environment,Muslim,shows respect for another’s tradition,0.0073642221540349,0.0009374462732593,NO
+environment,Muslim,Christian,0.0064436943847806,0.0018847643937504,NO
+environment,Muslim,shares teachings,0.0055231666155262,0.0272190156836432,NO
+environment,Muslim,promotes sustainable agriculture,0.0055231666155262,0.0185324205825975,NO
+environment,Muslim,devout,0.0046026388462718,5.400697811934178e-13,NO
+environment,Muslim,"introduces the concept of ""tikkun olam""",0.0046026388462718,3.224851427021311e-09,NO
+environment,Muslim,observes Shabbat,0.0039889536667689,0.0003256516017816,NO
+environment,Muslim,loves hiking,0.0036821110770174,0.0139603774568244,NO
+environment,Muslim,recites Talmud verse,0.0036821110770174,0.0012155677309765,NO
+environment,Muslim,reflects on cultural connections,0.003375268487266,0.0231887759084617,NO
+environment,Muslim,compassionate,0.0027615833077631,0.0320747071079635,NO
+environment,Muslim,knowledgeable about Torah teachings,0.0024547407180116,0.0122018923486335,NO
+environment,Muslim,discusses Passover,0.0024547407180116,0.0122018923486335,NO
+environment,Muslim,traveler,0.0024547407180116,0.0078893227514012,NO
+environment,Muslim,farmer,0.0021478981282602,0.0320101972366523,NO
+environment,Muslim,supports others kindly,0.0018410555385087,0.0406270681081011,NO
+environment,Muslim,experiences unity through shared perspectives,0.0015342129487572,0.039366617987875,NO
+environment,Muslim,prays for strength,0.0015342129487572,0.000340396329614,NO
+environment,Muslim,history enthusiast,0.0015342129487572,0.033237188827241,NO
+environment,Muslim,interested in biblical teachings,0.0012273703590058,0.013095733470874,NO
+environment,Muslim,shares about the Christian Sabbath,0.0012273703590058,0.0023052821622101,NO
+environment,Muslim,connects with nature,0.0012273703590058,0.0111500683627415,NO
+environment,Muslim,speaks of God's love,0.0009205277692543,0.005502393235741,NO
+environment,Muslim,open to spiritual discussions,0.0009205277692543,0.0111399806416677,NO
+environment,Muslim,values Shabbat,0.0009205277692543,0.0177785790364007,NO
+environment,Muslim,emphasizes tzedakah,0.0009205277692543,4.829432704750648e-05,NO
+environment,Muslim,interested in Jewish tradition,0.0006136851795029,0.0491850972134409,NO
+environment,Muslim,open to learning,0.0006136851795029,0.0010394454356112,NO
+environment,Muslim,faith-inspired,0.0006136851795029,0.0224970743012789,NO
+environment,Muslim,shares faith,0.0003068425897514,2.716203401938595e-07,NO
+environment,Christian,devout,0.0334244910361592,5.400697811934178e-13,NO
+environment,Christian,open to interfaith dialogue,0.0161045274992403,0.0006498389145315,NO
+environment,Christian,shares faith,0.0139775144333029,2.716203401938595e-07,NO
+environment,Christian,engages in a faith conversation,0.0118505013673655,0.0239297822739741,NO
+environment,Christian,sees nature as a reflection of creation,0.0082041932543299,0.000326937232919,NO
+environment,Christian,open to learning,0.0075964752354907,0.0010394454356112,NO
+environment,Christian,respects religious diversity,0.0069887572166514,0.0266660842099793,NO
+environment,Christian,quotes scripture,0.0069887572166514,0.0002722790761128,NO
+environment,Christian,compassionate,0.0066848982072318,0.0320747071079635,NO
+environment,Christian,values forgiveness,0.0063810391978122,0.0002757230338072,NO
+environment,Christian,emphasizes love and compassion,0.0063810391978122,0.0465828871008244,NO
+environment,Christian,prays for strength,0.004861744150714,0.000340396329614,NO
+environment,Christian,shows respect for another’s tradition,0.0039501671224551,0.0009374462732593,NO
+environment,Christian,open to spiritual discussions,0.0033424491036159,0.0111399806416677,NO
+environment,Christian,reflects on spirituality,0.0033424491036159,0.0093114604211313,NO
+environment,Christian,recognizes spiritual parallels,0.0030385900941962,0.0461869886768094,NO
+environment,Christian,supports others kindly,0.0027347310847766,0.0406270681081011,NO
+environment,Christian,experiences unity through shared perspectives,0.0021270130659374,0.039366617987875,NO
+environment,Christian,faith-inspired,0.0021270130659374,0.0224970743012789,NO
+environment,Christian,finds spiritual peace in serene environments,0.0018231540565177,0.0398355869306207,NO
+environment,Christian,learns about Islamic perspectives,0.0009115770282588,0.0016613720910852,NO
+environment,Christian,history enthusiast,0.0003038590094196,0.033237188827241,NO
+environment,Buddhism,Jewish,0.0128486367909746,8.154794224345038e-25,NO
+environment,Buddhism,devout,0.0103415857098088,5.400697811934178e-13,NO
+environment,Buddhism,prays for strength,0.0090880601692259,0.000340396329614,NO
+environment,Buddhism,sees nature as a reflection of creation,0.0072077718583516,0.000326937232919,NO
+environment,Buddhism,"introduces the concept of ""tikkun olam""",0.0072077718583516,3.224851427021311e-09,NO
+environment,Buddhism,passionate about environmental conservation,0.0065810090880601,0.000929622234253,NO
+environment,Buddhism,Christian,0.0062676277029144,0.0018847643937504,NO
+environment,Buddhism,reflects on spirituality,0.0059542463177687,0.0093114604211313,NO
+environment,Buddhism,acknowledges Jewish teachings,0.005640864932623,9.899542245858376e-13,NO
+environment,Buddhism,compassionate,0.0053274835474772,0.0320747071079635,NO
+environment,Buddhism,recites Talmud verse,0.0050141021623315,0.0012155677309765,NO
+environment,Buddhism,connects with nature,0.0047007207771858,0.0111500683627415,NO
+environment,Buddhism,finds spiritual peace in serene environments,0.0047007207771858,0.0398355869306207,NO
+environment,Buddhism,shares teachings,0.0047007207771858,0.0272190156836432,NO
+environment,Buddhism,observes Shabbat,0.0047007207771858,0.0003256516017816,NO
+environment,Buddhism,open to spiritual discussions,0.0043873393920401,0.0111399806416677,NO
+environment,Buddhism,emphasizes tzedakah,0.0040739580068943,4.829432704750648e-05,NO
+environment,Buddhism,shares faith,0.0028204324663115,2.716203401938595e-07,NO
+environment,Buddhism,shares stories of Ramadan,0.0028204324663115,0.0004056614143461,NO
+environment,Buddhism,learns about Islamic perspectives,0.0028204324663115,0.0016613720910852,NO
+environment,Buddhism,promotes sustainable agriculture,0.0028204324663115,0.0185324205825975,NO
+environment,Buddhism,values forgiveness,0.0025070510811657,0.0002757230338072,NO
+environment,Buddhism,quotes scripture,0.0025070510811657,0.0002722790761128,NO
+environment,Buddhism,shares about the Christian Sabbath,0.0025070510811657,0.0023052821622101,NO
+environment,Buddhism,traveler,0.0025070510811657,0.0078893227514012,NO
+environment,Buddhism,faith-inspired,0.00219366969602,0.0224970743012789,NO
+environment,Buddhism,speaks of God's love,0.00219366969602,0.005502393235741,NO
+environment,Buddhism,reflects on cultural connections,0.0018802883108743,0.0231887759084617,NO
+environment,Buddhism,values Shabbat,0.0018802883108743,0.0177785790364007,NO
+environment,Buddhism,interested in Jewish tradition,0.0012535255405828,0.0491850972134409,NO
+environment,Buddhism,emphasizes love and compassion,0.0012535255405828,0.0465828871008244,NO
+environment,Buddhism,farmer,0.0012535255405828,0.0320101972366523,NO
+environment,Buddhism,discusses Passover,0.0009401441554371,0.0122018923486335,NO
+environment,Buddhism,supports others kindly,0.0009401441554371,0.0406270681081011,NO
+environment,Buddhism,knowledgeable about Torah teachings,0.0009401441554371,0.0122018923486335,NO
+environment,Buddhism,recognizes spiritual parallels,0.0006267627702914,0.0461869886768094,NO
+environment,Buddhism,loves hiking,0.0006267627702914,0.0139603774568244,NO

@@ -1,0 +1,24 @@
+Please take the list of summarized traits or concept phrases below for {[[D1]]}, and break or decompose each into the most fine-grained, distinct, meaningful components possible.
+
+IMPORTANT NOTES:
+Break down each phrase only if it contains two or more distinct and independently meaningful concepts that can stand on their own. A phrase should be split if it describes:
+- an action or identity combined with a role or context (e.g., "competitor on debate teams" to "competitor"; "debate teams")
+- multiple descriptors joined in a single phrase (e.g., "confident public speaker" to "confident"; "public speaker")
+
+Do NOT split a phrase if doing so would break or obscure the full semantic meaning, especially when:
+- The meaning depends on functional, contextual, or descriptive modifiers (e.g., "engages audience effectively" should remain as-is)
+- The full phrase describes a specific behavior or pattern that loses clarity when broken up (e.g., "takes initiative in engaging peers outside arts classes" should stay intact)
+
+Prioritize semantic clarity over grammatical or structural cues. Only split when you're confident that each component still conveys a clear and distinct idea on its own. If splitting a phrase would break its meaning, keep it as one unit.
+
+Your answer structure should strictly follow '[[D1]]: <lists of phrases>' (IMPORTANT: for <lists of phrases>, should be separated by a semicolon (;). DO NOT ADD any extra headers, information, and explanations.)
+
+------
+Here is an example:
+
+Emily: confident public speaker; goal-driven problem solver; engages audience effectively; emotionally expressive leader; identified as star quarterback
+
+Emily: confident; public speaker; goal-driven; problem solver; engages audience effectively; emotionally expressive; leader; star quarterback
+
+------
+Below is what you need to answer:

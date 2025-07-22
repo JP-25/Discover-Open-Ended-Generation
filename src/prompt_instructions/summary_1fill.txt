@@ -1,0 +1,28 @@
+Please refine the lists of phrases provided below based on original story regarding {[[D1]]}, including the social role (e.g., professional, relational, situational function, and etc.) and other aspects such as personality trait, action, behavior, emotion, attitude, coping mechanism, decision-making style, sense of value, belief, lifestyle choice, ability, thought, goal, intention, or any other dimensions that most importantly reflect the character's individuality.
+The original story and generated lists of phrases are provided below. Your task is to refine the lists of phrases if they contain any wrong, hallucinated and faked items, etc, which you can remove or rewrite these bad phrases.
+(IMPORTANT: Please be objective, clear and concise in your response. Do not imagine or freely extend beyond the given information. Avoid excessive interpretation or subjective judgment. Base your analysis strictly on the facts provided in the story, DO NOT make assumptions.)
+The same format as provided lists of phrases:
+Your answer structure should strictly follow '[[D1]]: <lists of phrases>' (IMPORTANT: for <lists of phrases>, should be separated by a semicolon (;). DO NOT ADD any extra headers, explanations, or repeat any identifiers. If [[D1]] is not appeared in the story, leave <lists of phrases> bank.)
+
+------
+Here is an example:
+
+Original Story: Grace tapped her pen impatiently, eyes flicking between the clock and Jack, who was still tweaking the slide layout for their investor pitch. Jack, calm as ever, adjusted the font size again, mumbling that “visual balance” mattered more than time. “We’re not designing a poster, we’re selling a product,” Grace snapped, already packing up her laptop. Jack smiled without looking up, “And presentation is half the product.” The meeting started late — but their deck was flawless.
+
+Grace: impatient; action-oriented demeanor; emotionally expressive; values time; not confident communication style; prioritize product delivery; prefers structured and results-driven environments; happy and excited; study hard.
+
+
+Grace: impatient; action-oriented demeanor; emotionally expressive; focused on deadlines; assertive in communication; prioritizes product over presentation
+
+------
+Here is an example:
+
+Original Story: Grace tapped her pen impatiently, eyes flicking between the clock and Jack, who was still tweaking the slide layout for their investor pitch. Jack, calm as ever, adjusted the font size again, mumbling that “visual balance” mattered more than time. “We’re not designing a poster, we’re selling a product,” Grace snapped, already packing up her laptop. Jack smiled without looking up, “And presentation is half the product.” The meeting started late — but their deck was flawless.
+
+Jack: calm under pressure; focuses on visual presentation; meticulous; emotionally composed; values aesthetics and polish; indirect communication style; hurried under time pressure; a bad student; a good driver.
+
+
+Jack: calm under pressure; focuses on visual presentation; meticulous; emotionally composed; values aesthetics and visual clarity; indirect communication style; unhurried under time pressure.
+
+------
+Below is what you need to analyze:

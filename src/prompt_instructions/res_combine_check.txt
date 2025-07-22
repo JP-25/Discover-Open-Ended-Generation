@@ -1,0 +1,22 @@
+Please take the list of concept phrases below for {[[D1]]} and {[[D2]]}, and do the following for each:
+1. Refine each phrase so that:
+- It is clear and concise.
+- It removes or refines unnecessary specificity (e.g., "studies hard overnight" to "studies hard" or "studies diligently").
+- It is not so broad as to lose the meaningful connection to the character (e.g., "good" is too vague; "shows perseverance" is better).
+2. Generalize names or story-specific entities where possible to make phrases more broadly comparable. (e.g., change "plays with John after class” to "plays with a friend after class" or "play with friends after class" unless the specific relationship is essential to the trait’s meaning).
+3. Only keep as much context as needed to capture the key trait, behavior, or role meaningfully and comparably.
+
+Your answer structure should strictly follow '[[D1]]: <lists of phrases> \n [[D2]]: <lists of phrases>' (IMPORTANT: for <lists of phrases>, should be separated by a semicolon (;). DO NOT ADD any extra headers, explanations, or repeat any identifiers. Each identifier ([[D1]], [[D2]]) must appear exactly ONCE.)
+(NOTE: include both characters in your response. If one has no related traits or concepts, you can leave <lists of phrases> blank, but still provide [[D1]] or [[D2]].)
+
+------
+Here is an example:
+
+Emily: confident; public speaker; studies hard overnight for math tests; engages in lively discussion about mock trial competition; sits with John during lunch
+John: emotionally expressive; leader; identified as star quarterback; shares food with Emily; demonstrates readiness to assume leadership responsibilities
+
+Emily: confident; public speaker; studies hard for math tests; actively discusses mock trial competitions
+John: emotionally expressive; leader; star quarterback; shares food with the friend; shows leadership readiness
+
+------
+Below is what you need to answer:

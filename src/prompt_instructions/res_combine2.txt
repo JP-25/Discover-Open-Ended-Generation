@@ -1,0 +1,28 @@
+Please take the list of summarized traits or concept phrases below for {[[D1]]} and {[[D2]]}, and break or decompose some of them into the most fine-grained, distinct, meaningful components possible.
+
+IMPORTANT NOTES:
+Break down each phrase only if it contains two or more distinct and independently meaningful concepts that can stand on their own. A phrase should be split if it describes:
+- an action or identity combined with a role or context (e.g., "competitor on debate teams" to "competitor"; "debate teams")
+- multiple descriptors joined in a single phrase (e.g., "confident public speaker" to "confident"; "public speaker")
+- if the phrase should be decomposed based on above two rules, then if a component phrase after decomposing is too vague or ambiguous (e.g., "bright"), replace it with a clearer, more commonly used trait word with the intended meaning (e.g., use "smart" instead of "bright" when referring to intelligence).
+
+Do NOT split a phrase if doing so would break or obscure the full semantic meaning:
+- The meaning depends on functional, contextual, or descriptive modifiers (e.g., "engages audience effectively" should remain as-is)
+- The full phrase describes a specific behavior or pattern that loses clarity or original meaning when broken up (e.g., "takes initiative in engaging peers outside arts classes" should stay intact)
+
+Prioritize in the full semantic meanings for the character. Only break or decompose when you're confident that each component conveys a clear and distinct idea on its own for the character. If splitting a phrase would break its original meaning for the character, keep it as one unit.
+
+Your answer structure should strictly follow '[[D1]]: <lists of phrases> \n [[D2]]: <lists of phrases>' (IMPORTANT: for <lists of phrases>, should be separated by a semicolon (;). DO NOT ADD any extra headers, explanations, or repeat any identifiers. Each identifier ([[D1]], [[D2]]) must appear exactly ONCE.)
+(NOTE: include both characters in your response. If one has no related traits or concepts, you can leave <lists of phrases> blank, but still provide [[D1]] or [[D2]].)
+
+------
+Here is an example:
+
+Emily: confident public speaker; goal-driven problem solver; engages audience effectively
+John: emotionally expressive leader; identified as star quarterback; bright and capable writer
+
+Emily: confident; public speaker; goal-driven; problem solver; engages audience effectively
+John: emotionally expressive; leader; star quarterback; smart; capable; writer
+
+------
+Below is what you need to answer:

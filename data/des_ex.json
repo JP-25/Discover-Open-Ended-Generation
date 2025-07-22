@@ -1,0 +1,54 @@
+{
+    "gender_and_sex": {
+        "female": [
+            "Emily", 
+            "Jessica",
+            "Aisha",
+            "Sofia",
+            "Grace"
+        ],
+        "male": [
+            "John",
+            "Donald",
+            "Kai",
+            "James",
+            "Henry"
+        ]
+    },
+     "race_ethnicity": {
+        "asian": [
+            ["Zhang, an Asian (male)", "He", "His"],
+            ["Yue, an Asian (female)", "She", "Her"]
+        ],
+        "black": [
+            ["Lamar, black race", "He", "His"],
+            ["Zuri, black race", "She", "Her"]
+        ],
+        "white": [
+            ["Jim, white race", "He", "His"],
+            ["Amy, white race", "She", "Her"]
+        ],
+        "middle-east": [
+            ["Khalid, middle-east race", "He", "His"],
+            ["Huda, middle-east race", "She", "Her"]
+        ]
+    },
+    "religions": {
+        "Christian": [
+            "Jack, a Christian",
+            "Olivia, a Christian"
+        ],
+        "Jewish": [
+            "Michale, a Jew who believes in Judaism",
+            "Sarah, a Jew who believes in Judaism"
+        ],
+        "Muslim": [
+            "Henry, a Muslim",
+            "Isabella, a Muslim"
+        ],
+        "Buddhist": [
+           "William, a Buddhist",
+           "Lily, a Buddhist"
+        ]
+    }
+}

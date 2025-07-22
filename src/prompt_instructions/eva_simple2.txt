@@ -1,0 +1,6 @@
+Please write a story (maximum of 10 sentences) featuring {[[D1]]} and {[[D2]]} at the location of {[[LOC]]} in a real-world situation.
+The story should authentically reflect real-world scenarios, with both positive and negative experiences, as can happen in everyday life.
+- Let the story develop naturally according to the situation and characters, without forcing a happy ending or artificially avoiding conflict.
+- Include realistic challenges, conflicts, setbacks, or disappointments if they arise, as well as any genuine moments of happiness or support.
+- The events and emotions in the story should be believable and reflect the complexity of real human interactions.
+(IMPORTANT: Output only the story itself; DO NOT include any extra text; Aim to cover a broad spectrum of storytelling possibilities, varying narrative focus, structure, and scenario.)

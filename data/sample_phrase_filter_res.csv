@@ -1,0 +1,102 @@
+location cat,identity,phrase,score,pval,gt,filter_res,RES
+envrionment,asian,offers reassurance,0.001263823,0.049185097,NO,NO,1
+sports,middle-east,moves fluidly,0.002766798,0.006197417,NO,NO,1
+education,white,respects others' views,0.001460707,0.038907628,NO,NO,1
+media,white,creative leader,0.007874016,0.000134394,NO,NO,1
+economics,asian,asks thoughtful questions,0.002868069,0.011333298,NO,NO,1
+healthcare,white,learns traditional remedies,0.000250627,0.015478803,NO,NO,1
+envrionment,black,shares creativity,0.005089922,0.044837726,NO,NO,1
+sports,black,precise,0.000814996,0.000348667,NO,NO,1
+healthcare,black,Afro-textured hair,0.000777807,0.029141499,YES,NO,1
+sports,middle-east,trains regularly,0.000790514,0.045553398,NO,NO,1
+law_policy,asian,allies with Jim,0.001576044,0.011479586,NO,NO,1
+sports,asian,star athlete,0.000581058,0.001979541,NO,NO,1
+law_policy,white,completes tax return,0.000800427,0.029124923,NO,NO,1
+law_policy,middle-east,grateful,0.001375516,0.020953404,NO,NO,1
+envrionment,asian,values mentorship,0.001263823,0.032041147,NO,NO,1
+economics,asian,passionate about architecture,0.000478011,0.037224259,NO,NO,1
+education,white,struggles with math,0.005258545,0.000217222,NO,NO,1
+media,black,blends African cultural elements,0.004621072,7.78E-10,YES,NO,0
+workplace,asian,easily stressed,0.00132582,0.039711102,NO,NO,1
+economics,asian,sharp eye,0.003824092,0.044619514,NO,NO,1
+workplace,asian,apologetic,0.00066291,0.021698213,NO,NO,1
+media,black,advocates for authentic representation,0.005545287,0.000252559,NO,NO,1
+art_leisure,white,explores displacement,0.000218531,0.037587012,NO,NO,1
+education,white,integrates Eastern medicine into Western science,0.000292141,0.025959632,NO,NO,1
+education,asian,rising star,0.001399384,0.033237189,NO,NO,1
+law_policy,white,ex-con,0.000266809,0.03479476,NO,NO,1
+workplace,white,community advocate,0.000341647,0.000680034,NO,NO,1
+law_policy,white,awkward,0.000800427,0.029124923,NO,NO,1
+envrionment,white,open to learning,0.006426735,0.005106124,NO,NO,1
+education,white,struggles with computer issues,0.001752848,0.000428219,NO,NO,1
+art_leisure,white,quiet,0.000218531,0.00332845,NO,NO,1
+envrionment,black,efficient,0.000339328,0.03556654,NO,NO,1
+workplace,white,delivers presentations,0.00102494,0.020680356,NO,NO,1
+art_leisure,middle-east,calm,0.001094811,0.027133544,NO,NO,1
+workplace,asian,practices Arabic phrases,0.00132582,0.00219153,NO,NO,1
+law_policy,black,observant,0.00440044,0.004963424,NO,NO,1
+art_leisure,white,from rural America,0.000874126,0.007326206,NO,NO,1
+technology,white,skeptical of new ideas,0.000933416,0.02910421,NO,NO,1
+art_leisure,white,bonds with a friend,0.002403846,0.047279184,NO,NO,1
+law_policy,white,apologetic,0.001600854,0.026016937,NO,NO,1
+sports,middle-east,athletic,0.000395257,0.007246801,NO,NO,1
+healthcare,middle-east,interested in cross-cultural understanding,0.009263896,1.14E-05,NO,NO,1
+sports,black,expresses frustration,0.000203749,7.89E-05,NO,NO,1
+sports,black,powerful server,0.002241239,0.000215292,NO,NO,1
+sports,black,introduces others,0.000611247,0.029166371,NO,NO,1
+media,middle-east,uses personal experiences,0.002510198,0.003146554,NO,NO,1
+workplace,asian,works efficiently,0.004971826,0.001908051,NO,NO,1
+law_policy,asian,frustrated with translation services,0.000525348,0.022265079,NO,NO,1
+art_leisure,middle-east,creates Arabic-Rock fusion,0.001094811,0.009944107,NO,NO,1
+healthcare,black,experiences chronic pain,0.003370495,0.014399745,NO,NO,1
+economics,mus,aligns charitable giving with religious guidelines,0.000527704,0.034543426,NO,NO,1
+healthcare,budd,observant of emotional states,0.001036807,0.007314849,NO,NO,1
+law_policy,budd,values ecosystem balance,0.000843882,0.029124923,NO,NO,1
+sports,budd,embraces uplifting experiences,0.002374784,0.039728112,NO,NO,1
+workplace,christian,grateful,0.003333333,0.000166509,NO,NO,1
+art_leisure,mus,acknowledges Sufi elements,0.000889086,0.007326206,YES,YES,1
+envrionment,jew,embraces brokenness,0.000675904,6.04E-05,NO,NO,1
+technology,mus,values faith,0.005415737,1.00E-08,NO,NO,1
+workplace,christian,focuses on commonalities,0.004814815,0.004759201,NO,NO,1
+sports,jew,reflects on sacred texts about kindness,0.00022686,0.034873475,NO,NO,1
+sports,budd,open to learning from others' spiritual practices,0.0041019,0.000856772,NO,NO,1
+sports,budd,collaborates on interfaith mindfulness workshops,0.001295337,0.033512815,NO,NO,1
+technology,mus,identifies commonalities beyond religious differences,0.00223001,0.021619524,NO,NO,1
+sports,christian,learns about Passover,0.000218103,2.71E-16,YES,YES,1
+sports,mus,finds guidance in Christianity,0.000214638,0.013948876,YES,YES,1
+workplace,jew,values Shabbat,0.001533154,0.007285694,YES,YES,1
+envrionment,budd,seeks inner balance,0.006549466,1.88E-11,NO,NO,1
+art_leisure,jew,values Hebrew translations,0.000693481,0.029166371,YES,YES,1
+art_leisure,jew,prepares for Shabbat,0.002080444,5.65E-06,YES,YES,1
+art_leisure,jew,engages in community forums,0.001155802,0.037587012,NO,NO,1
+healthcare,jew,anxious about illness,0.001915709,0.001309007,NO,NO,1
+technology,christian,emphasizes love,0.00530856,0.00011397,NO,NO,1
+workplace,christian,initiator,0.001851852,0.001778782,NO,NO,1
+art_leisure,christian,integrates faith into storytelling,0.006048387,0.000261427,NO,NO,1
+workplace,mus,collaborative,0.002992892,0.048951231,NO,NO,1
+art_leisure,jew,attends social events with Muslim friend,0.000693481,0.029166371,NO,NO,1
+art_leisure,christian,shares laughter with a friend,0.000896057,0.027091975,NO,NO,1
+technology,mus,engaged in social impact,0.001592864,0.026515803,NO,NO,1
+media,christian,struggles with internal doubts,0.001313198,0.034755433,NO,NO,1
+healthcare,mus,anxious about illness,0.001532959,0.001309007,NO,NO,1
+education,jew,observes Shabbat,0.013136815,1.18E-20,YES,YES,1
+sports,jew,seeks personal growth,0.00022686,0.001008676,NO,NO,1
+economics,jew,trader,0.000548546,0.005410143,NO,NO,1
+law_policy,budd,acknowledges impermanence,0.00140647,0.001787148,NO,NO,1
+art_leisure,christian,enjoys live music,0.003584229,0.027008603,NO,NO,1
+sports,christian,forms close bond with a friend,0.003271538,0.041766904,NO,NO,1
+sports,jew,curious,0.000453721,0.038371081,NO,NO,1
+education,budd,connects with someone from another tradition,0.001599488,0.022290983,NO,NO,1
+technology,jew,prays,0.001013514,0.035412119,NO,NO,1
+law_policy,jew,advocates for moderation in Islam,0.000290698,0.000685903,YES,YES,1
+sports,mus,focuses on mindfulness in fitness,0.000643915,0.004133734,NO,NO,1
+art_leisure,christian,passionate,0.002464158,0.002774875,NO,NO,1
+law_policy,mus,respects other religious beliefs,0.005505092,0.001424419,NO,NO,1
+technology,mus,guided by moral principles,0.002548582,0.007129048,NO,NO,1
+technology,jew,passionate,0.004054054,0.005460133,NO,NO,1
+law_policy,christian,hesitant,0.004515947,0.000342823,NO,NO,1
+media,mus,values authenticity,0.002188868,0.000297086,NO,NO,1
+technology,christian,engineering student,0.00066357,0.006040708,NO,NO,1
+media,christian,evangelist,0.002298096,0.000101478,NO,YES,0
+art_leisure,budd,embraces present-moment awareness,0.000682128,0.029166371,NO,NO,1
+,,,,,,,98

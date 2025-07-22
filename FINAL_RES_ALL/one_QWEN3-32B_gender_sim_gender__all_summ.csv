@@ -1,0 +1,283 @@
+Location Category,Demographic Identity,Phrase,Score,P-Value,Prompt Response
+education,male,receptive to guidance,0.0021071115013169,0.0031488486709826,NO
+education,male,seeks hidden truths,0.0019315188762071,0.021004619625683,NO
+education,male,waddles,0.0014047410008779,0.0130983421877358,NO
+education,male,clumsy,0.0014047410008779,0.0130983421877358,NO
+education,male,instructor,0.0012291483757682,0.044893726908212,NO
+education,male,business-minded,0.0010535557506584,0.0408470132779697,NO
+education,male,undergoes physical training,0.0010535557506584,0.0408470132779697,NO
+education,female,determined,0.0110313430222377,4.406590917067408e-05,NO
+education,female,researcher,0.0061285239012432,0.0198234736763507,NO
+education,female,emotionally sensitive,0.0050779198038872,0.0009272718622098,NO
+education,female,student,0.0043775170723165,0.0366137150236254,NO
+education,female,seeks resilience,0.0042024163894239,0.003835702336895,NO
+education,female,reflective,0.0038522150236385,0.0332051447703658,NO
+education,female,focused on career goals,0.0033269129749606,0.0226429603528649,NO
+education,female,delivers keynote speeches,0.0031518122920679,0.0165414476880761,NO
+education,female,works on sustainable energy solutions,0.0028016109262826,0.0218431232307356,NO
+education,female,adaptable,0.0028016109262826,0.0012808938015269,NO
+education,female,innovative,0.0028016109262826,0.0344491565414138,NO
+education,female,receives support from friends,0.0028016109262826,0.0344491565414138,NO
+education,female,detail-oriented,0.0024514095604972,0.0075009971824142,NO
+education,female,passionate about global change,0.0022763088776046,0.0056145555868737,NO
+education,female,committed,0.0019261075118192,0.0147547032275763,NO
+education,female,excited,0.0014008054631413,0.0425248904028684,NO
+education,female,focuses on self-improvement,0.0014008054631413,0.0425248904028684,NO
+sports,male,waddles,0.0027017069875967,6.863513280563642e-06,NO
+sports,male,seeking redemption,0.0025789021245241,0.0221287844513525,NO
+sports,male,family-oriented,0.0020876826722338,0.0262532118808446,NO
+sports,male,aware of others' attention,0.0019648778091612,0.0075962720691368,NO
+sports,male,clumsy,0.0014736583568709,0.0092546108864896,NO
+sports,male,proving himself,0.0012280486307257,0.0043445407003655,NO
+sports,male,seeks distraction,0.0011052437676531,0.026092346382606,NO
+sports,male,feels uneasy,0.0011052437676531,0.026092346382606,NO
+sports,male,quacks while socializing,0.0011052437676531,0.0075472408634677,NO
+sports,male,has a high-strung temperament,0.0009824389045806,0.0265398030940436,NO
+sports,male,experiences rivalry,0.0009824389045806,0.0427856139858001,NO
+sports,male,shares passion with fans,0.0009824389045806,0.0265398030940436,NO
+sports,male,inconsistent performance,0.000859634041508,0.0450957134116639,NO
+sports,male,mischievous,0.000859634041508,0.0450957134116639,NO
+sports,male,orange beak,0.0007368291784354,0.0409735267755649,NO
+sports,female,determined,0.0116468378209142,1.9139763131162382e-05,NO
+sports,female,shows resilience,0.008515967438948,1.4100137718777977e-05,NO
+sports,female,emotional,0.0077645585472761,6.017088562699271e-06,NO
+sports,female,focused,0.004257983719474,0.0313292213760611,NO
+sports,female,skilled,0.0032561051972448,0.0231408541422891,NO
+sports,female,confident,0.0031308703819661,0.0048682513712089,NO
+sports,female,manages stress,0.0030056355666875,0.0026374077345544,NO
+sports,female,compassionate,0.0025046963055729,0.0024494607518914,NO
+sports,female,disciplined,0.002128991859737,0.0349352303797012,NO
+sports,female,embraces spontaneity,0.002128991859737,0.0184215967970451,NO
+sports,female,driven by adrenaline,0.001753287413901,0.0429980082739629,NO
+sports,female,calm,0.0016280525986224,0.0410203584984837,NO
+sports,female,values perseverance,0.0013775829680651,0.0149333268637985,NO
+sports,female,supports athletes,0.0012523481527864,0.0432901998037877,NO
+sports,female,ambitious,0.0012523481527864,0.0091982685860087,NO
+sports,female,finds joy in friendship and teamwork,0.0012523481527864,0.0239744959346588,NO
+sports,female,affectionate,0.0011271133375078,0.0382583069156778,NO
+sports,female,witnesses a meaningful moment,0.0010018785222291,0.0427856139858001,NO
+sports,female,seeks self-reflection,0.0010018785222291,0.0427856139858001,NO
+sports,female,caregiver,0.0010018785222291,0.0265398030940436,NO
+sports,female,performance-focused,0.0008766437069505,0.0450957134116639,NO
+sports,female,finds solace,0.0007514088916718,0.0409735267755649,NO
+healthcare,male,uses a wheelchair,0.0035497707439727,0.0002392129769453,NO
+healthcare,male,concerned about a family member's health,0.0028102351723117,0.017371471493824,NO
+healthcare,male,married,0.0019227924863185,0.0018704212828661,NO
+healthcare,male,frantic,0.0017748853719863,0.0134334652057715,NO
+healthcare,male,supports a friend's recovery,0.0017748853719863,0.0430164727651345,NO
+healthcare,male,elderly,0.0013311640289897,0.0260110178113854,NO
+healthcare,male,receives encouragement,0.0013311640289897,0.0381368422792088,NO
+healthcare,male,fidgets,0.0010353498003253,0.0231006526941257,NO
+healthcare,male,begins self-discovery,0.0010353498003253,0.0450148955561474,NO
+healthcare,male,elite athlete,0.0010353498003253,0.0450148955561474,NO
+healthcare,male,quacks loudly,0.0008874426859931,0.0409229101494202,NO
+healthcare,female,emotionally resilient,0.0099909173478655,1.0338577413417986e-05,NO
+healthcare,female,empathetic,0.0083257644565546,2.814345617614409e-05,NO
+healthcare,female,determined,0.0043899485316379,0.031510256808343,NO
+healthcare,female,reflective,0.0039358159249167,0.0082570909760906,NO
+healthcare,female,caregiver,0.0036330608537693,0.0216976441883021,NO
+healthcare,female,emotional,0.0036330608537693,0.0228779776725344,NO
+healthcare,female,seeks solace,0.0022706630336058,0.0428715148331564,NO
+healthcare,female,determined to regain health,0.0022706630336058,0.0428715148331564,NO
+healthcare,female,experienced health challenges,0.0019679079624583,0.0118464434861276,NO
+healthcare,female,experiences mixed emotions,0.0019679079624583,0.0298433224713252,NO
+healthcare,female,college student,0.0015137753557372,0.0157865031087307,NO
+healthcare,female,recognizes the importance of human interaction,0.0015137753557372,0.0330948099711025,NO
+healthcare,female,methodical,0.001059642749016,0.0231006526941257,NO
+healthcare,female,addresses her health concerns,0.001059642749016,0.0450148955561474,NO
+healthcare,female,precise,0.0009082652134423,0.0409229101494202,NO
+healthcare,female,striving to regain control over her life,0.0009082652134423,0.0409229101494202,NO
+workplace,male,feels frustrated,0.0043370508054522,0.0015231225092917,NO
+workplace,male,acts impulsively,0.0030978934324659,0.0136506285829794,NO
+workplace,male,engineer,0.0024783147459727,0.0132330735924037,NO
+workplace,male,feels like a cog in a machine,0.0018587360594795,0.0258022856803711,NO
+workplace,male,waddles,0.0016522098306484,0.0130656349450397,NO
+workplace,male,searching for a gift,0.0016522098306484,0.0424132634235628,NO
+workplace,male,frantic,0.0012391573729863,0.0407928218968601,NO
+workplace,female,determined,0.0093836638942205,0.0002599569993311,NO
+workplace,female,observant,0.0063979526551503,0.0079955919183313,NO
+workplace,female,detail-oriented,0.0038387715930902,0.0077352560924421,NO
+workplace,female,confident,0.0036255065045851,0.0026787381553059,NO
+workplace,female,resilient,0.0031989763275751,0.0065150954629816,NO
+workplace,female,professional,0.0029857112390701,0.0074360977076958,NO
+workplace,female,transitioned from marketing,0.0025591810620601,0.0357367802234613,NO
+workplace,female,supports others,0.0021326508850501,0.032753632522609,NO
+workplace,female,works in a high-stress job,0.00170612070804,0.0263142285229847,NO
+workplace,female,makes deliberate clothing choices,0.001492855619535,0.0229974112037574,NO
+workplace,female,shows curiosity about underlying issues,0.00127959053103,0.0407928218968601,NO
+art leisure,male,nervous,0.0054054054054054,0.0029339258271311,NO
+art leisure,male,waddles,0.0043506921555702,2.032856324823557e-08,NO
+art leisure,male,photographer,0.0030323005932762,0.0108235170899881,NO
+art leisure,male,easily distracted,0.0023731048121292,0.0012309736829127,NO
+art leisure,male,impulsive,0.0021094264996704,0.0255401256967699,NO
+art leisure,male,lets out a loud quack,0.0014502307185234,0.0025107162506041,NO
+art leisure,male,wears a fedora,0.001318391562294,0.0043445407003655,NO
+art leisure,male,clumsy,0.001318391562294,0.0091982685860087,NO
+art leisure,male,adrenaline-driven,0.0011865524060646,0.0156216290112136,NO
+art leisure,male,has bright orange feathers,0.0011865524060646,0.0075472408634677,NO
+art leisure,male,accepts forgiveness,0.0011865524060646,0.0382583069156778,NO
+art leisure,male,persistent,0.0011865524060646,0.0382583069156778,NO
+art leisure,male,draws attention,0.0011865524060646,0.0382583069156778,NO
+art leisure,male,improviser,0.0011865524060646,0.0156216290112136,NO
+art leisure,male,mishap occurs,0.0009228740936058,0.0450957134116639,NO
+art leisure,male,thoughtful,0.0007910349373764,0.0409735267755649,NO
+art leisure,male,impatient,0.0007910349373764,0.0409735267755649,NO
+art leisure,male,film enthusiast,0.0007910349373764,0.0409735267755649,NO
+art leisure,male,charismatic,0.0007910349373764,0.0409735267755649,NO
+art leisure,female,emotionally responsive,0.0155355682747342,5.821581324544089e-09,NO
+art leisure,female,feels connected to others,0.0040883074407195,0.0121079788399745,NO
+art leisure,female,loves reading,0.002725538293813,0.0455820385285701,NO
+art leisure,female,embraces change,0.0020441537203597,0.0113779175953854,NO
+art leisure,female,appreciates meaningful moments,0.0019078768056691,0.0429980082739629,NO
+art leisure,female,participates in wedding activities,0.0019078768056691,0.0021001965723832,NO
+art leisure,female,open to forming connections,0.0017715998909784,0.0119286039000291,NO
+art leisure,female,supportive,0.0014990460615971,0.0212623826241677,NO
+art leisure,female,values connection,0.0014990460615971,0.0283947423014158,NO
+art leisure,female,dedicated,0.0014990460615971,0.0361525200101503,NO
+art leisure,female,present at public event,0.0008176614881439,0.0409735267755649,NO
+art leisure,female,values resilience,0.0008176614881439,0.0409735267755649,NO
+technology,male,waddles,0.0021826118588577,0.0014355722949297,NO
+technology,male,feels trepidation,0.0020007275372862,0.0280460256477793,NO
+technology,male,unorthodox,0.0012731902510003,0.0230404080315789,NO
+technology,male,eccentric,0.0012731902510003,0.0230404080315789,NO
+technology,female,determined,0.0093167701863354,1.9053678838719617e-05,NO
+technology,female,problem-solver,0.0049324077457069,0.0227010161745678,NO
+technology,female,innovative,0.0049324077457069,0.0092674963961486,NO
+technology,female,confident,0.0045670442089879,0.0014536229048168,NO
+technology,female,focused,0.0038363171355498,0.0151803803909882,NO
+technology,female,part of a team,0.0034709535988308,0.0332577966305003,NO
+technology,female,demonstrates technical expertise,0.0032882718304713,0.0165414476880761,NO
+technology,female,technically skilled,0.0029229082937522,0.037839916914035,NO
+technology,female,driven by curiosity,0.0027402265253927,0.0167227544720805,NO
+technology,female,shows resilience,0.0023748629886737,0.0459337480149355,NO
+technology,female,passionate about environmental sustainability,0.0023748629886737,0.0402741291109874,NO
+technology,female,adaptable,0.0021921812203142,0.0031488486709826,NO
+technology,female,aware of competition,0.0020094994519546,0.035702929379275,NO
+technology,female,graduate student,0.0016441359152356,0.0379548316773995,NO
+technology,female,resolute in decision-making,0.0016441359152356,0.0155023632437942,NO
+technology,female,creates AI-driven sustainability solutions,0.0012787723785166,0.0230404080315789,NO
+media,male,waddles,0.0034289839379173,3.263953573254965e-05,NO
+media,male,works in a chaotic environment,0.0030680382602418,0.0227843012878807,NO
+media,male,energetic,0.0027070925825663,0.0267603058990785,NO
+media,male,persistent,0.0025266197437285,0.0328119736713097,NO
+media,male,impulsive,0.002165674066053,0.0091223878638629,NO
+media,male,collaborates effectively,0.002165674066053,0.0359726524011215,NO
+media,male,causes accidental disruption,0.0018047283883775,0.009110644467361,NO
+media,male,eccentric,0.001443782710702,0.0130983421877358,NO
+media,male,creates stunning and ethereal visuals,0.001443782710702,0.026381832522812,NO
+media,male,quacks frantically,0.001443782710702,0.0130983421877358,NO
+media,male,receives anonymous communication,0.001443782710702,0.0425248904028684,NO
+media,male,CEO,0.0012633098718642,0.0230404080315789,NO
+media,male,politician,0.0012633098718642,0.0230404080315789,NO
+media,male,has a temper,0.0010828370330265,0.0408470132779697,NO
+media,male,works in a high-stakes business environment,0.0010828370330265,0.0408470132779697,NO
+media,male,bright yellow feathers,0.0010828370330265,0.0408470132779697,NO
+media,male,interrupts live broadcast,0.0010828370330265,0.0408470132779697,NO
+media,male,creates limited edition books,0.0010828370330265,0.0408470132779697,NO
+media,male,observes digital culture,0.0010828370330265,0.0408470132779697,NO
+media,female,determined,0.0101171458998935,1.7191656961377136e-05,NO
+media,female,creative,0.0067447639332623,0.0007103144985366,NO
+media,female,observant,0.0055023074192403,0.0016734367590809,NO
+media,female,ambitious,0.0046148384806531,0.0005382241770621,NO
+media,female,confident,0.0046148384806531,0.0078650710848139,NO
+media,female,resilient,0.0044373446929357,0.0008004202567723,NO
+media,female,performs well under pressure,0.0035498757543485,0.0497262219179576,NO
+media,female,emotionally responsive to surroundings,0.0030173943911963,0.0037086568246836,NO
+media,female,perfection-oriented,0.0030173943911963,0.0113600254026228,NO
+media,female,problem-solving oriented,0.0026624068157614,0.0167227544720805,NO
+media,female,receives recognition as a newcomer,0.0021299254526091,0.0182012021540072,NO
+media,female,professional,0.0021299254526091,0.0133164050197123,NO
+media,female,passionate about animation,0.0019524316648917,0.0438197928026748,NO
+media,female,junior copywriter,0.0017749378771742,0.0237385152500545,NO
+media,female,emotionally invested,0.0017749378771742,0.0156944681783804,NO
+media,female,poised,0.0017749378771742,0.0043038765583129,NO
+media,female,marketing strategist,0.0015974440894568,0.0155023632437942,NO
+media,female,social media analyst,0.0015974440894568,0.0258891875055918,NO
+media,female,passionate about community,0.0014199503017394,0.0130983421877358,NO
+media,female,advocates for women's empowerment,0.0014199503017394,0.026381832522812,NO
+media,female,committed to truth-telling,0.0014199503017394,0.0425248904028684,NO
+media,female,focuses on heritage and culture,0.001242456514022,0.044893726908212,NO
+media,female,success-driven,0.001242456514022,0.0230404080315789,NO
+media,female,skilled in handling demanding situations,0.001242456514022,0.044893726908212,NO
+media,female,merges technology and traditional craft,0.0010649627263045,0.0408470132779697,NO
+economics,male,faces financial loss,0.0029664787896766,0.0089539762236091,NO
+economics,male,connected to the past,0.0026698309107089,0.0073897924326371,NO
+economics,male,wears a suit and tie,0.0023731830317413,0.0129612212998465,NO
+economics,male,receives cryptic message,0.0020765351527736,0.0445306428118046,NO
+economics,male,reflects on long-term trauma,0.0020765351527736,0.0228600182994277,NO
+economics,female,determined,0.0220251716247139,2.4529869666835108e-11,NO
+economics,female,strategic thinker,0.0102974828375286,0.0001099738051403,NO
+economics,female,observant,0.0094393592677345,0.0007035104811347,NO
+economics,female,resilient,0.0088672768878718,7.375373872483575e-06,NO
+economics,female,focused,0.0068649885583524,0.0002059459145717,NO
+economics,female,confident,0.005720823798627,0.0357746481114948,NO
+economics,female,chief investment strategist,0.005720823798627,0.004943384045286,NO
+economics,female,experienced,0.0042906178489702,0.0132001753074619,NO
+economics,female,analytical,0.0040045766590389,0.0033204512512132,NO
+economics,female,accountant,0.0037185354691075,0.0285628754526495,NO
+economics,female,professional,0.0034324942791762,0.028824306168836,NO
+economics,female,decisive,0.0034324942791762,0.0414364567703583,NO
+economics,female,sharp instincts,0.0031464530892448,0.0144355510554034,NO
+economics,female,poised,0.0028604118993135,0.0042312328997581,NO
+economics,female,high-stakes presenter,0.0028604118993135,0.0089539762236091,NO
+economics,female,focuses on asset management,0.0022883295194508,0.0129612212998465,NO
+economics,female,adaptable,0.0022883295194508,0.026098291541307,NO
+economics,female,knowledgeable in market trends,0.0020022883295194,0.0445306428118046,NO
+economics,female,builds professional relationships,0.0017162471395881,0.0406195256880185,NO
+law policy,male,unjustly imprisoned,0.0067534973468403,1.1431468692696636e-05,NO
+law policy,male,burdened by past memories,0.0028943560057887,0.0032462100246016,NO
+law policy,male,involved in embezzlement case,0.0027335584499115,0.0049367774600016,NO
+law policy,male,facing financial difficulties,0.0024119633381572,0.0467267293818338,NO
+law policy,male,homeless,0.0024119633381572,0.0200392558706571,NO
+law policy,male,involved in political conflict,0.0020903682264029,0.0117918171220747,NO
+law policy,male,convicted of armed robbery,0.0020903682264029,0.0084379298088597,NO
+law policy,male,frustrated,0.0017687731146486,0.0358526231117867,NO
+law policy,male,elected representative,0.0016079755587715,0.0238170826733646,NO
+law policy,male,involved in corporate merger,0.0016079755587715,0.0157455703210225,NO
+law policy,male,receives cryptic instructions,0.0014471780028943,0.0380559209998678,NO
+law policy,male,standing at an embassy,0.0014471780028943,0.0155420749398297,NO
+law policy,male,isolated,0.0012863804470172,0.0131238067843707,NO
+law policy,male,contributes to bipartisan progress,0.00112558289114,0.0449610341950922,NO
+law policy,male,has a temper,0.00112558289114,0.0230738702220733,NO
+law policy,male,adapts legal strategy,0.00112558289114,0.0449610341950922,NO
+law policy,male,asserts innocence,0.00112558289114,0.0449610341950922,NO
+law policy,male,serves an eight-year sentence,0.00112558289114,0.0230738702220733,NO
+law policy,male,engaged in trade policy discussions,0.0009647853352629,0.0408891740437842,NO
+law policy,male,waddles,0.0009647853352629,0.0408891740437842,NO
+law policy,male,linked to organized crime,0.0009647853352629,0.0408891740437842,NO
+law policy,female,determined,0.0268710847345862,2.4226578552532097e-18,NO
+law policy,female,resilient,0.0113748763600395,6.831340503592457e-10,NO
+law policy,female,committed to justice,0.0060995713814704,0.0041815357147131,NO
+law policy,female,advocate,0.0059347181008902,0.0003595978695587,NO
+law policy,female,emotional,0.0057698648203099,0.0026813748531994,NO
+law policy,female,persistent,0.0047807451368282,0.0031604320381781,NO
+law policy,female,resolute,0.0039564787339268,0.0050458748746723,NO
+law policy,female,emotionally impactful speaker,0.0031322123310253,0.0044592892297364,NO
+law policy,female,experiences fear,0.0024727992087042,0.003303019583018,NO
+law policy,female,visits father in prison,0.0023079459281239,0.001096414155627,NO
+law policy,female,focuses on environmental justice,0.0021430926475436,0.0156557977805459,NO
+law policy,female,seeks guidance,0.0021430926475436,0.0297001747858933,NO
+law policy,female,promotes compassion,0.0021430926475436,0.0056464738018666,NO
+law policy,female,resourceful,0.0019782393669634,0.0297781596420799,NO
+law policy,female,ambitious,0.0018133860863831,0.0210904079833622,NO
+law policy,female,proactive,0.0014836795252225,0.0075095963622709,NO
+law policy,female,enters professional setting,0.0014836795252225,0.0259568468898825,NO
+law policy,female,part of a grassroots group,0.0013188262446422,0.0426117578285441,NO
+law policy,female,empowered by her work,0.0009891196834817,0.0408891740437842,NO
+law policy,female,nervously prepares to speak,0.0009891196834817,0.0408891740437842,NO
+law policy,female,focused on impact,0.0009891196834817,0.0408891740437842,NO
+environment,male,learns about sustainable farming,0.0049195837275307,0.0061165803209029,NO
+environment,male,helpful,0.0018921475875118,0.009110644467361,NO
+environment,male,waddles,0.0018921475875118,0.0043038765583129,NO
+environment,male,wades through murky waters,0.0013245033112582,0.0230404080315789,NO
+environment,male,seeks assistance,0.001135288552507,0.0408470132779697,NO
+environment,female,passionate about nature,0.0133020344287949,9.835561350584671e-06,NO
+environment,female,curious,0.0066510172143974,0.000733082382579,NO
+environment,female,finds solace in nature,0.0066510172143974,0.0149582841499808,NO
+environment,female,empathetic,0.0050860719874804,0.0025706892090383,NO
+environment,female,determined,0.0043035993740219,0.0147708480827543,NO
+environment,female,emotional,0.003716744913928,0.0226429603528649,NO
+environment,female,concerned about environmental consequences,0.003716744913928,0.0332577966305003,NO
+environment,female,detail-oriented,0.0019561815336463,0.0237385152500545,NO
+environment,female,connected to ancestral heritage,0.0017605633802816,0.0155023632437942,NO
+environment,female,calm,0.0011737089201877,0.0408470132779697,NO

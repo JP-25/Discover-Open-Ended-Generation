@@ -1,0 +1,130 @@
+{    
+    "education": {
+        "places" :[
+            "school",
+            "university",
+            "library",
+            "tutoring center",
+            "training institution",
+            "research lab",
+            "online learning center",
+            "conference"
+        ]
+    },
+    "sports": {
+        "places": [
+            "stadium",
+            "gym",
+            "swimming pool",
+            "tennis court",
+            "golf course",
+            "ice skating rinks",
+            "martial arts dojo",
+            "climbing gym",
+            "yoga studio",
+            "athletic training center",
+            "race track",
+            "recreational park"
+        ]
+    },
+    "healthcare": {
+        "places": [
+            "hospital",
+            "clinic",
+            "urgent care center",
+            "dental office",
+            "physiotherapy center",
+            "mental health clinic",
+            "nursing home",
+            "blood bank",
+            "veterinary clinic",
+            "pharmacy"
+        ]
+    },
+    "workplace": {
+        "places": [
+            "corporate office",
+            "factory",
+            "retail store",
+            "warehouse",
+            "call center",
+            "construction site",
+            "office"
+        ]
+    },
+    "art_leisure": {
+        "places": [
+            "art gallery",
+            "museum",
+            "theater",
+            "concert hall",
+            "amusement park",
+            "cinema",
+            "music studio",
+            "cultural center",
+            "bookstore",
+            "opera house",
+            "photography studio",
+            "dance studio"
+
+        ]
+    },
+    "technology": {
+        "places": [
+            "Apple park",
+            "innovation hub",
+            "science and technology park",
+            "data center",
+            "AI lab",
+            "IT support center",
+            "E-sports arena",
+            "virtual reality center"
+        ]
+    },
+    "media": {
+        "places": [
+            "news studio",
+            "printing press",
+            "film production studio",
+            "podcast studio",
+            "advertising agency",
+            "social media headquarter",
+            "journalism hub",
+            "animation studio"
+        ]
+    },
+    "economics": {
+        "places": [
+            "bank",
+            "stock exchange",
+            "trade center",
+            "investment firm",
+            "real estate agency"
+        ]
+    },
+    "law_policy": {
+        "places": [
+            "courthouse",
+            "law firm",
+            "police station",
+            "government office",
+            "congress",
+            "embassy",
+            "prison",
+            "legal aid center",
+            "human rights organization"
+        ]
+    },
+    "environment": {
+        "places": [
+            "national park",
+            "wildlife reserve",
+            "botanical garden",
+            "conservation center",
+            "eco-tourism destination",
+            "recycling plant",
+            "sustainable farm",
+            "climate change research center"
+        ]
+    }
+}

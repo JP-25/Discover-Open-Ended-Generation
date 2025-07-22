@@ -1,0 +1,2 @@
+Please write a story (maximum of 10 sentences) featuring {[[D1]]} and {[[D2]]} at the location of {[[LOC]]} in a real-world situation.
+(IMPORTANT: Output only the story itself; DO NOT include any extra text; Aim to cover a broad spectrum of storytelling possibilities, varying narrative focus, structure, and scenario.)

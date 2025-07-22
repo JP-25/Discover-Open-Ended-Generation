@@ -1,0 +1,1540 @@
+Location Category,Demographic Identity,Phrase,Score,P-Value,Prompt Response
+education,black race,European American,0.0166840458811261,1.164195082691042e-17,NO
+education,black race,undergraduate student,0.0151199165797705,0.0008326985150732,NO
+education,black race,confident,0.0119916579770594,6.048037149415066e-05,NO
+education,black race,determined,0.010948905109489,0.0305128628041897,NO
+education,black race,fascinated by Black history,0.0093847758081334,6.759590387941539e-12,NO
+education,black race,software engineer,0.0088633993743482,0.0047386443939909,NO
+education,black race,connects with heritage,0.0078206465067778,0.0008629666090317,NO
+education,black race,young,0.0057351407716371,0.0016569924925823,NO
+education,black race,passionate about addressing systemic injustices,0.0057351407716371,0.0107867405123948,NO
+education,black race,connects with a mentor,0.0057351407716371,0.0390064223016001,NO
+education,black race,feels pride in impactful work,0.0052137643378519,0.0009137232894822,NO
+education,black race,promotes diversity,0.0046923879040667,0.006974279803044,NO
+education,black race,passionate,0.0046923879040667,0.0217747128637393,NO
+education,black race,advocates for an equitable future,0.0046923879040667,0.0170097816288808,NO
+education,black race,inspires leaders,0.0046923879040667,0.038887696207108,NO
+education,black race,tech innovator,0.0046923879040667,0.0253700427963683,NO
+education,black race,community-oriented,0.0046923879040667,0.0028621433163636,NO
+education,black race,focused on academic goals,0.0046923879040667,0.0091454177291651,NO
+education,black race,part of East African American community,0.0046923879040667,5.204077240025669e-06,NO
+education,black race,athlete,0.0046923879040667,0.0028819769846701,NO
+education,black race,discusses systemic inequality,0.0041710114702815,0.0022109675829679,NO
+education,black race,connects with activists,0.0041710114702815,0.0171790005088932,NO
+education,black race,identifies with a prominent Black author,0.0041710114702815,2.267148842839056e-05,NO
+education,black race,excels academically,0.0041710114702815,0.0273300208854363,NO
+education,black race,junior,0.0041710114702815,0.0090953869469016,NO
+education,black race,values tradition,0.0036496350364963,0.0333386916728537,NO
+education,black race,presents research on racial disparities,0.0036496350364963,0.0039581061883895,NO
+education,black race,from low-income background,0.0036496350364963,0.0031963953301527,NO
+education,black race,passionate about technology,0.0031282586027111,0.0112363920573612,NO
+education,black race,experiences imposter syndrome,0.0026068821689259,0.0218703950076187,NO
+education,black race,brilliant,0.0026068821689259,0.0011710194580985,NO
+education,black race,aims to support underprivileged youth,0.0026068821689259,0.0368913716739852,NO
+education,black race,inspired by family,0.0026068821689259,0.0218703950076187,NO
+education,black race,associated with tradition,0.0026068821689259,0.0187378274416215,NO
+education,black race,supports inclusion,0.0026068821689259,0.0097276010829321,NO
+education,black race,studies neural connections,0.0026068821689259,0.028302058991948,NO
+education,black race,space exploration specialist,0.0026068821689259,0.028302058991948,NO
+education,black race,point guard,0.0026068821689259,0.00175075130225,NO
+education,black race,participates in cultural exchange,0.0020855057351407,9.525054057070536e-05,NO
+education,black race,dedicated to preserving African American cultural legacy,0.0020855057351407,0.007213129162552,NO
+education,black race,uncovers civil rights legacy,0.0020855057351407,0.044642569654506,NO
+education,black race,advocates for improved education,0.0020855057351407,0.007213129162552,NO
+education,black race,feels like an outsider in a predominantly white setting,0.0020855057351407,0.007213129162552,NO
+education,black race,reflects on childhood experiences,0.0020855057351407,0.0432909658724305,NO
+education,black race,develops AI accessibility tools,0.0015641293013555,0.0289181193961657,NO
+education,black race,explores family history,0.0015641293013555,0.0039685004658479,NO
+education,black race,focused on police brutality,0.0015641293013555,0.0289181193961657,NO
+education,black race,collaborates with diversity advocates,0.0015641293013555,0.0289181193961657,NO
+education,black race,feels connection to historical struggles,0.0015641293013555,0.0289181193961657,NO
+education,black race,connects with the struggles of Black women,0.0015641293013555,0.0289181193961657,NO
+education,black race,explores heritage through literature,0.0015641293013555,0.0369257104328375,NO
+education,black race,engaged in learning,0.0015641293013555,0.0289181193961657,NO
+education,black race,adapts to sudden disruption,0.0015641293013555,0.03241676152542,NO
+education,black race,Black woman,0.0015641293013555,0.0289181193961657,NO
+education,black race,focused on curing sickle cell anemia,0.0015641293013555,0.0289181193961657,NO
+education,black race,valedictorian,0.0015641293013555,0.0289181193961657,NO
+education,black race,reflects on culture,0.0010427528675703,0.009577258060204,NO
+education,black race,wears a vibrant hijab,0.0010427528675703,0.0020984140454443,NO
+education,black race,open to cross-cultural connections,0.0005213764337851,0.0006181171995109,NO
+education,black race,meticulous,0.0005213764337851,0.0397942163694068,NO
+education,black race,strategic thinker,0.0005213764337851,0.0083983452306595,NO
+education,black race,disciplined,0.0005213764337851,2.777682409197817e-05,NO
+education,black race,practices karate,0.0005213764337851,9.420958496226565e-06,NO
+education,black race,collaborates with diverse learners,0.0005213764337851,0.0344024240210749,NO
+education,black race,reclusive,0.0005213764337851,0.0254467651632194,NO
+education,white race,nervous,0.0090689238210399,0.0269425726719152,NO
+education,white race,brilliant,0.0072551390568319,0.0011710194580985,NO
+education,white race,explores family history,0.0072551390568319,0.0039685004658479,NO
+education,white race,curious,0.0066505441354292,0.0475268928948445,NO
+education,white race,nostalgic,0.0060459492140266,0.0037609764397548,NO
+education,white race,software engineer,0.0054413542926239,0.0047386443939909,NO
+education,white race,environmental scientist,0.0054413542926239,0.0089655866470854,NO
+education,white race,feels isolated,0.0048367593712212,0.0133451407411656,NO
+education,white race,introspective,0.0048367593712212,0.0003726432410163,NO
+education,white race,junior,0.0048367593712212,0.0090953869469016,NO
+education,white race,acts quickly in crisis,0.0042321644498186,0.0199761119019388,NO
+education,white race,focuses on sustainable energy solutions,0.0036275695284159,0.0044301682313843,NO
+education,white race,reclusive,0.0036275695284159,0.0254467651632194,NO
+education,white race,connects with activists,0.0036275695284159,0.0171790005088932,NO
+education,white race,advocates for an equitable future,0.0036275695284159,0.0170097816288808,NO
+education,white race,discusses systemic inequality,0.0030229746070133,0.0022109675829679,NO
+education,white race,English literature major,0.0030229746070133,0.00175075130225,NO
+education,white race,reevaluates lifelong passion,0.0030229746070133,0.0097276010829321,NO
+education,white race,walking across campus,0.0030229746070133,0.00175075130225,NO
+education,white race,passionate about addressing systemic injustices,0.0024183796856106,0.0107867405123948,NO
+education,white race,connects with a mentor,0.0024183796856106,0.0390064223016001,NO
+education,white race,passionate about human-robot interaction,0.0024183796856106,0.007213129162552,NO
+education,white race,feels pride in impactful work,0.0024183796856106,0.0009137232894822,NO
+education,white race,reflects on childhood experiences,0.0024183796856106,0.0432909658724305,NO
+education,white race,uncovers civil rights legacy,0.0024183796856106,0.044642569654506,NO
+education,white race,reflects on culture,0.0024183796856106,0.009577258060204,NO
+education,white race,collaborates with diverse learners,0.0024183796856106,0.0344024240210749,NO
+education,white race,academically pressured,0.0024183796856106,0.0163876111768101,NO
+education,white race,presents research on racial disparities,0.0018137847642079,0.0039581061883895,NO
+education,white race,connects with heritage,0.0018137847642079,0.0008629666090317,NO
+education,white race,studies neural connections,0.0018137847642079,0.028302058991948,NO
+education,white race,space exploration specialist,0.0018137847642079,0.028302058991948,NO
+education,white race,young,0.0012091898428053,0.0016569924925823,NO
+education,white race,inspires leaders,0.0012091898428053,0.038887696207108,NO
+education,white race,tech innovator,0.0012091898428053,0.0253700427963683,NO
+education,white race,adapts to sudden disruption,0.0012091898428053,0.03241676152542,NO
+education,white race,strategic thinker,0.0012091898428053,0.0083983452306595,NO
+education,white race,experiences imposter syndrome,0.0012091898428053,0.0218703950076187,NO
+education,white race,appreciates literature and knowledge,0.0012091898428053,0.0070455872719362,NO
+education,white race,participates in cultural exchange,0.0012091898428053,9.525054057070536e-05,NO
+education,white race,promotes diversity,0.0012091898428053,0.006974279803044,NO
+education,white race,values human connection,0.0012091898428053,0.0279407778228376,NO
+education,white race,focused,0.0012091898428053,0.0002343299268792,NO
+education,white race,seeks help,0.0012091898428053,0.0083983452306595,NO
+education,white race,works late hours,0.0012091898428053,0.0070455872719362,NO
+education,white race,excels academically,0.0012091898428053,0.0273300208854363,NO
+education,white race,competitive,0.0012091898428053,0.0035138167547051,NO
+education,white race,passionate,0.0006045949214026,0.0217747128637393,NO
+education,white race,skilled presenter,0.0006045949214026,0.0389772203611003,NO
+education,white race,explores heritage through literature,0.0006045949214026,0.0369257104328375,NO
+education,white race,supports inclusion,0.0006045949214026,0.0097276010829321,NO
+education,white race,aims to support underprivileged youth,0.0006045949214026,0.0368913716739852,NO
+education,white race,inspired by African diaspora,0.0006045949214026,0.0031963953301527,NO
+education,white race,from low-income background,0.0006045949214026,0.0031963953301527,NO
+education,white race,athlete,0.0006045949214026,0.0028819769846701,NO
+education,middle-east race,undergraduate student,0.0114876507754164,0.0008326985150732,NO
+education,middle-east race,focused on academic goals,0.0109132682366456,0.0091454177291651,NO
+education,middle-east race,determined,0.0103388856978747,0.0305128628041897,NO
+education,middle-east race,focuses on sustainable energy solutions,0.0097645031591039,0.0044301682313843,NO
+education,middle-east race,Emirati,0.0080413555427915,2.961096795706042e-09,NO
+education,middle-east race,connects with heritage,0.0080413555427915,0.0008629666090317,NO
+education,middle-east race,participates in cultural exchange,0.0074669730040206,9.525054057070536e-05,NO
+education,middle-east race,open to cross-cultural connections,0.0068925904652498,0.0006181171995109,NO
+education,middle-east race,tech innovator,0.006318207926479,0.0253700427963683,NO
+education,middle-east race,associated with tradition,0.006318207926479,0.0187378274416215,NO
+education,middle-east race,community-oriented,0.006318207926479,0.0028621433163636,NO
+education,middle-east race,focused on Middle Eastern history,0.0057438253877082,1.1842964569579651e-06,NO
+education,middle-east race,reflects on culture,0.0057438253877082,0.009577258060204,NO
+education,middle-east race,athlete,0.0057438253877082,0.0028819769846701,NO
+education,middle-east race,competitive,0.0057438253877082,0.0035138167547051,NO
+education,middle-east race,values tradition,0.0051694428489373,0.0333386916728537,NO
+education,middle-east race,software engineer,0.0051694428489373,0.0047386443939909,NO
+education,middle-east race,nostalgic,0.0045950603101665,0.0037609764397548,NO
+education,middle-east race,passionate,0.0040206777713957,0.0217747128637393,NO
+education,middle-east race,wears a vibrant hijab,0.0040206777713957,0.0020984140454443,NO
+education,middle-east race,young,0.0034462952326249,0.0016569924925823,NO
+education,middle-east race,skilled presenter,0.0034462952326249,0.0389772203611003,NO
+education,middle-east race,appreciates literature and knowledge,0.0034462952326249,0.0070455872719362,NO
+education,middle-east race,explores heritage through literature,0.0034462952326249,0.0369257104328375,NO
+education,middle-east race,engages with multilingual knowledge,0.0028719126938541,0.00175075130225,NO
+education,middle-east race,aims to blend traditional Middle Eastern architecture with modern engineering,0.0028719126938541,0.00175075130225,NO
+education,middle-east race,passionate about addressing systemic injustices,0.0022975301550832,0.0107867405123948,NO
+education,middle-east race,promotes diversity,0.0022975301550832,0.006974279803044,NO
+education,middle-east race,appreciates Arabic calligraphy,0.0022975301550832,0.007213129162552,NO
+education,middle-east race,interested in Arabian poetry,0.0022975301550832,0.007213129162552,NO
+education,middle-east race,speaks Arabic,0.0022975301550832,0.007213129162552,NO
+education,middle-east race,disciplined,0.0022975301550832,2.777682409197817e-05,NO
+education,middle-east race,inspires leaders,0.0017231476163124,0.038887696207108,NO
+education,middle-east race,skilled in horsemanship,0.0017231476163124,0.0289181193961657,NO
+education,middle-east race,represents Middle Eastern households,0.0017231476163124,0.0289181193961657,NO
+education,middle-east race,advocates for an equitable future,0.0017231476163124,0.0170097816288808,NO
+education,middle-east race,strong,0.0017231476163124,0.0289181193961657,NO
+education,middle-east race,curious,0.0017231476163124,0.0475268928948445,NO
+education,middle-east race,studies business administration,0.0017231476163124,0.0289181193961657,NO
+education,middle-east race,shows deep interest in Middle Eastern history,0.0017231476163124,0.0289181193961657,NO
+education,middle-east race,environmental scientist,0.0017231476163124,0.0089655866470854,NO
+education,middle-east race,brilliant,0.0017231476163124,0.0011710194580985,NO
+education,middle-east race,participates in regional track competitions,0.0017231476163124,0.0289181193961657,NO
+education,middle-east race,European American,0.0017231476163124,1.164195082691042e-17,NO
+education,middle-east race,academically pressured,0.0017231476163124,0.0163876111768101,NO
+education,middle-east race,nervous,0.0011487650775416,0.0269425726719152,NO
+education,middle-east race,focused,0.0011487650775416,0.0002343299268792,NO
+education,middle-east race,connects with activists,0.0011487650775416,0.0171790005088932,NO
+education,middle-east race,values human connection,0.0011487650775416,0.0279407778228376,NO
+education,middle-east race,meticulous,0.0011487650775416,0.0397942163694068,NO
+education,middle-east race,acts quickly in crisis,0.0011487650775416,0.0199761119019388,NO
+education,middle-east race,excels academically,0.0011487650775416,0.0273300208854363,NO
+education,middle-east race,junior,0.0011487650775416,0.0090953869469016,NO
+education,middle-east race,passionate about technology,0.0005743825387708,0.0112363920573612,NO
+education,middle-east race,seeks help,0.0005743825387708,0.0083983452306595,NO
+education,middle-east race,inspired by African diaspora,0.0005743825387708,0.0031963953301527,NO
+education,middle-east race,feels pride in impactful work,0.0005743825387708,0.0009137232894822,NO
+education,middle-east race,aims to support underprivileged youth,0.0005743825387708,0.0368913716739852,NO
+education,middle-east race,from low-income background,0.0005743825387708,0.0031963953301527,NO
+education,asian race,undergraduate student,0.0127848804891606,0.0008326985150732,NO
+education,asian race,focused,0.0116731517509727,0.0002343299268792,NO
+education,asian race,introspective,0.0094496942745969,0.0003726432410163,NO
+education,asian race,focused on academic goals,0.0077821011673151,0.0091454177291651,NO
+education,asian race,nostalgic,0.0077821011673151,0.0037609764397548,NO
+education,asian race,disciplined,0.0072262367982212,2.777682409197817e-05,NO
+education,asian race,academically pressured,0.0055586436909394,0.0163876111768101,NO
+education,asian race,practices karate,0.0055586436909394,9.420958496226565e-06,NO
+education,asian race,interested in ancient Chinese history,0.0050027793218454,5.204077240025669e-06,NO
+education,asian race,values human connection,0.0050027793218454,0.0279407778228376,NO
+education,asian race,reflects on childhood experiences,0.0044469149527515,0.0432909658724305,NO
+education,asian race,meticulous,0.0044469149527515,0.0397942163694068,NO
+education,asian race,strategic thinker,0.0038910505836575,0.0083983452306595,NO
+education,asian race,adapts to sudden disruption,0.0038910505836575,0.03241676152542,NO
+education,asian race,seeks help,0.0038910505836575,0.0083983452306595,NO
+education,asian race,confident,0.0033351862145636,6.048037149415066e-05,NO
+education,asian race,works late hours,0.0033351862145636,0.0070455872719362,NO
+education,asian race,competitive,0.0027793218454697,0.0035138167547051,NO
+education,asian race,explores family history,0.0027793218454697,0.0039685004658479,NO
+education,asian race,values tradition,0.0027793218454697,0.0333386916728537,NO
+education,asian race,associated with tradition,0.0027793218454697,0.0187378274416215,NO
+education,asian race,martial arts student,0.0027793218454697,0.00175075130225,NO
+education,asian race,connects with a mentor,0.0022234574763757,0.0390064223016001,NO
+education,asian race,skilled presenter,0.0022234574763757,0.0389772203611003,NO
+education,asian race,determined,0.0022234574763757,0.0305128628041897,NO
+education,asian race,curious,0.0022234574763757,0.0475268928948445,NO
+education,asian race,open to cross-cultural connections,0.0022234574763757,0.0006181171995109,NO
+education,asian race,works with CRISPR gene editing,0.0022234574763757,0.007213129162552,NO
+education,asian race,community-oriented,0.0016675931072818,0.0028621433163636,NO
+education,asian race,climate-conscious,0.0016675931072818,0.0289181193961657,NO
+education,asian race,environmental scientist,0.0016675931072818,0.0089655866470854,NO
+education,asian race,values calligraphy,0.0016675931072818,0.0289181193961657,NO
+education,asian race,attentive to others' emotions,0.0016675931072818,0.0289181193961657,NO
+education,asian race,spills coffee,0.0016675931072818,0.0289181193961657,NO
+education,asian race,teaches math to junior high students,0.0016675931072818,0.0289181193961657,NO
+education,asian race,acts quickly in crisis,0.0011117287381878,0.0199761119019388,NO
+education,asian race,inspired by family,0.0011117287381878,0.0218703950076187,NO
+education,asian race,reclusive,0.0011117287381878,0.0254467651632194,NO
+education,asian race,nervous,0.0005558643690939,0.0269425726719152,NO
+education,asian race,passionate about technology,0.0005558643690939,0.0112363920573612,NO
+education,asian race,feels isolated,0.0005558643690939,0.0133451407411656,NO
+education,asian race,reevaluates lifelong passion,0.0005558643690939,0.0097276010829321,NO
+sports,black race,determined,0.0114164904862579,0.0430610950330006,NO
+sports,black race,Asian,0.0109936575052854,1.413447043722839e-13,NO
+sports,black race,professional athlete,0.0109936575052854,0.0130757634191431,NO
+sports,black race,resilient,0.0084566596194503,0.0052815326385886,NO
+sports,black race,nostalgic,0.0063424947145877,1.4720417683609828e-12,NO
+sports,black race,skilled,0.0059196617336152,0.0132944917256116,NO
+sports,black race,young,0.0054968287526427,0.0004990698957506,NO
+sports,black race,feels at home in an inclusive environment,0.0050739957716701,0.0045811433192125,NO
+sports,black race,builds connections through shared interests,0.0046511627906976,0.0472141382304159,NO
+sports,black race,connects with nature,0.0042283298097251,0.0201327462279302,NO
+sports,black race,receives instruction from a mentor,0.0033826638477801,0.0476810677188871,NO
+sports,black race,faces racial barriers,0.0029598308668076,0.0006728824909905,NO
+sports,black race,pale skin,0.0029598308668076,0.0051304726269034,NO
+sports,black race,community-oriented,0.0029598308668076,0.0312102343008451,NO
+sports,black race,proud of achievements,0.0029598308668076,0.040508385761333,NO
+sports,black race,honors family legacy,0.0029598308668076,0.0404658729202062,NO
+sports,black race,jogger,0.0029598308668076,0.0203478646425762,NO
+sports,black race,driven by redemption,0.002536997885835,0.0123004593549985,NO
+sports,black race,committed to well-being,0.002536997885835,0.0257258672178351,NO
+sports,black race,resists racism,0.002536997885835,0.0257258672178351,NO
+sports,black race,performs,0.0021141649048625,0.0079523574958668,NO
+sports,black race,powerful voice,0.0021141649048625,0.0285700812360702,NO
+sports,black race,experiences fear,0.00169133192389,0.0009141798205842,NO
+sports,black race,connects strength to African heritage,0.00169133192389,0.0345947666130301,NO
+sports,black race,expressive,0.00169133192389,0.0345947666130301,NO
+sports,black race,values heritage,0.00169133192389,0.0001006924121274,NO
+sports,black race,engages with the community,0.00169133192389,0.0345947666130301,NO
+sports,black race,nurse,0.00169133192389,0.0072592541024845,NO
+sports,black race,celebrated by crowd,0.00169133192389,0.0072592541024845,NO
+sports,black race,uses traditional African climbing techniques,0.0012684989429175,0.0290195508626516,NO
+sports,black race,takes pride in traditions,0.0012684989429175,0.0350635650714727,NO
+sports,black race,in a predominantly white space,0.0012684989429175,0.0290195508626516,NO
+sports,black race,experienced racism,0.0012684989429175,0.0290195508626516,NO
+sports,black race,concerned with social inequality,0.0012684989429175,0.0290195508626516,NO
+sports,black race,celebrates Black history,0.0012684989429175,0.0290195508626516,NO
+sports,black race,dives joyfully,0.0012684989429175,0.0290195508626516,NO
+sports,black race,interacts with fellow climbers,0.000845665961945,0.0021360395627051,NO
+sports,black race,white,0.000845665961945,0.0021360395627051,NO
+sports,black race,focuses on personal challenges,0.000845665961945,0.0220636846656394,NO
+sports,black race,father,0.000845665961945,0.0091235622607383,NO
+sports,black race,responds to encouragement,0.000845665961945,0.0111633657958524,NO
+sports,black race,uses swimming to cope,0.000845665961945,4.288744872132424e-05,NO
+sports,black race,connected to cultural heritage,0.000845665961945,0.0202613334985812,NO
+sports,black race,passionate about football,0.0004228329809725,0.0058082840320628,NO
+sports,black race,confronts past mistakes,0.0004228329809725,0.0371752389476692,NO
+sports,black race,connects past and present instructors,0.0004228329809725,0.0345947666130301,NO
+sports,black race,offers comfort,0.0004228329809725,0.0088039999014689,NO
+sports,black race,of Egyptian and Sudanese descent,0.0004228329809725,0.0098158224178441,NO
+sports,black race,incorporates cultural patterns,0.0004228329809725,0.0098158224178441,NO
+sports,black race,seeks release from societal expectations,0.0004228329809725,0.0345947666130301,NO
+sports,white race,nostalgic,0.0296470588235294,1.4720417683609828e-12,NO
+sports,white race,reflective,0.0075294117647058,0.0060165150997661,NO
+sports,white race,feels excitement and intimidation,0.0047058823529411,0.0048132280355108,NO
+sports,white race,responds to encouragement,0.0047058823529411,0.0111633657958524,NO
+sports,white race,father,0.0047058823529411,0.0091235622607383,NO
+sports,white race,offers comfort,0.004235294117647,0.0088039999014689,NO
+sports,white race,anxious,0.004235294117647,0.0346588467257482,NO
+sports,white race,recalls past experiences,0.0037647058823529,0.0176842308925534,NO
+sports,white race,interacts with fellow climbers,0.0032941176470588,0.0021360395627051,NO
+sports,white race,experiences fear,0.0023529411764705,0.0009141798205842,NO
+sports,white race,has a son,0.0023529411764705,0.0371752389476692,NO
+sports,white race,builds connections through shared interests,0.0023529411764705,0.0472141382304159,NO
+sports,white race,jogger,0.0023529411764705,0.0203478646425762,NO
+sports,white race,struggles with balance,0.0023529411764705,0.0385936564154429,NO
+sports,white race,attends a football game,0.0023529411764705,0.0098158224178441,NO
+sports,white race,office worker,0.0018823529411764,0.0345947666130301,NO
+sports,white race,feels at home in an inclusive environment,0.0018823529411764,0.0045811433192125,NO
+sports,white race,connects past and present instructors,0.0018823529411764,0.0345947666130301,NO
+sports,white race,focuses on holds,0.0014117647058823,0.0290195508626516,NO
+sports,white race,introspective,0.0014117647058823,1.2508164463543278e-06,NO
+sports,white race,interacts with Rachel,0.0014117647058823,0.0290195508626516,NO
+sports,white race,interacts with a former biology teacher,0.0014117647058823,0.0290195508626516,NO
+sports,white race,preparing for black belt test,0.0014117647058823,0.0290195508626516,NO
+sports,white race,proud of achievements,0.0014117647058823,0.040508385761333,NO
+sports,white race,companion to a dog,0.0014117647058823,0.0290195508626516,NO
+sports,white race,relaxed,0.0014117647058823,0.0290195508626516,NO
+sports,white race,stands alone on bleachers,0.0014117647058823,0.0290195508626516,NO
+sports,white race,gazes at stadium,0.0014117647058823,0.0290195508626516,NO
+sports,white race,resists racism,0.0009411764705882,0.0257258672178351,NO
+sports,white race,committed to well-being,0.0009411764705882,0.0257258672178351,NO
+sports,white race,community-oriented,0.0009411764705882,0.0312102343008451,NO
+sports,white race,shakes off stress through physical activity,0.0009411764705882,0.0070153919003089,NO
+sports,white race,is drawn to a meditating person,0.0009411764705882,0.0220636846656394,NO
+sports,white race,receives instruction from a mentor,0.0004705882352941,0.0476810677188871,NO
+sports,white race,focuses on proper technique,0.0004705882352941,0.0017231835927438,NO
+sports,white race,responsive to guidance,0.0004705882352941,0.0098158224178441,NO
+sports,white race,performs,0.0004705882352941,0.0079523574958668,NO
+sports,white race,participates in cultural exchange,0.0004705882352941,4.088918531732397e-05,NO
+sports,middle-east race,determined,0.0133749442710655,0.0430610950330006,NO
+sports,middle-east race,resilient,0.0111457868925546,0.0052815326385886,NO
+sports,middle-east race,skilled,0.0102541239411502,0.0132944917256116,NO
+sports,middle-east race,professional athlete,0.0066874721355327,0.0130757634191431,NO
+sports,middle-east race,community-oriented,0.0062416406598305,0.0312102343008451,NO
+sports,middle-east race,values heritage,0.0057958091841284,0.0001006924121274,NO
+sports,middle-east race,Emirati,0.0057958091841284,1.4364125291426393e-08,NO
+sports,middle-east race,passionate about football,0.0053499777084262,0.0058082840320628,NO
+sports,middle-east race,wears abaya,0.0053499777084262,6.376038409433631e-08,NO
+sports,middle-east race,driven by redemption,0.004904146232724,0.0123004593549985,NO
+sports,middle-east race,takes pride in traditions,0.0044583147570218,0.0350635650714727,NO
+sports,middle-east race,jogger,0.0044583147570218,0.0203478646425762,NO
+sports,middle-east race,participates in cultural exchange,0.0040124832813196,4.088918531732397e-05,NO
+sports,middle-east race,introspective,0.0035666518056174,1.2508164463543278e-06,NO
+sports,middle-east race,young,0.0035666518056174,0.0004990698957506,NO
+sports,middle-east race,performs,0.0035666518056174,0.0079523574958668,NO
+sports,middle-east race,connected to cultural heritage,0.0031208203299152,0.0202613334985812,NO
+sports,middle-east race,anxious,0.0031208203299152,0.0346588467257482,NO
+sports,middle-east race,proud of achievements,0.0031208203299152,0.040508385761333,NO
+sports,middle-east race,incorporates cultural patterns,0.0022291573785109,0.0098158224178441,NO
+sports,middle-east race,connects to ancient Middle Eastern tribes,0.0022291573785109,0.0017685522634866,NO
+sports,middle-east race,of Egyptian and Sudanese descent,0.0022291573785109,0.0098158224178441,NO
+sports,middle-east race,represents national team,0.0022291573785109,0.0220636846656394,NO
+sports,middle-east race,connects with nature,0.0022291573785109,0.0201327462279302,NO
+sports,middle-east race,challenges cultural norms,0.0017833259028087,0.0072592541024845,NO
+sports,middle-east race,seeks release from societal expectations,0.0017833259028087,0.0345947666130301,NO
+sports,middle-east race,culturally connected,0.0017833259028087,0.0072592541024845,NO
+sports,middle-east race,reflective,0.0017833259028087,0.0060165150997661,NO
+sports,middle-east race,seeks escape from urban stress,0.0017833259028087,0.0345947666130301,NO
+sports,middle-east race,builds connections through shared interests,0.0017833259028087,0.0472141382304159,NO
+sports,middle-east race,connected to supportive audience,0.0017833259028087,0.0345947666130301,NO
+sports,middle-east race,Muslim and observant,0.0017833259028087,0.0072592541024845,NO
+sports,middle-east race,recalls past experiences,0.0013374944271065,0.0176842308925534,NO
+sports,middle-east race,offers comfort,0.0013374944271065,0.0088039999014689,NO
+sports,middle-east race,connected to desert landscape,0.0013374944271065,0.0290195508626516,NO
+sports,middle-east race,navigates contrasting cultural influences,0.0013374944271065,0.0290195508626516,NO
+sports,middle-east race,explores urban environments,0.0013374944271065,0.0290195508626516,NO
+sports,middle-east race,appreciates environmental contrasts,0.0013374944271065,0.0290195508626516,NO
+sports,middle-east race,Asian,0.0013374944271065,1.413447043722839e-13,NO
+sports,middle-east race,sprinter,0.0013374944271065,0.0290195508626516,NO
+sports,middle-east race,powerful voice,0.0013374944271065,0.0285700812360702,NO
+sports,middle-east race,feels at home in an inclusive environment,0.0008916629514043,0.0045811433192125,NO
+sports,middle-east race,shakes off stress through physical activity,0.0008916629514043,0.0070153919003089,NO
+sports,middle-east race,confronts past mistakes,0.0004458314757021,0.0371752389476692,NO
+sports,middle-east race,connects strength to African heritage,0.0004458314757021,0.0345947666130301,NO
+sports,middle-east race,honors family legacy,0.0004458314757021,0.0404658729202062,NO
+sports,middle-east race,resists racism,0.0004458314757021,0.0257258672178351,NO
+sports,middle-east race,faces racial barriers,0.0004458314757021,0.0006728824909905,NO
+sports,middle-east race,expressive,0.0004458314757021,0.0345947666130301,NO
+sports,middle-east race,has a son,0.0004458314757021,0.0371752389476692,NO
+sports,asian race,nostalgic,0.0133620689655172,1.4720417683609828e-12,NO
+sports,asian race,introspective,0.0125,1.2508164463543278e-06,NO
+sports,asian race,resilient,0.0099137931034482,0.0052815326385886,NO
+sports,asian race,reflective,0.0081896551724137,0.0060165150997661,NO
+sports,asian race,determined,0.0064655172413793,0.0430610950330006,NO
+sports,asian race,driven by redemption,0.0064655172413793,0.0123004593549985,NO
+sports,asian race,experiences fear,0.005603448275862,0.0009141798205842,NO
+sports,asian race,recalls past experiences,0.005603448275862,0.0176842308925534,NO
+sports,asian race,professional athlete,0.005603448275862,0.0130757634191431,NO
+sports,asian race,focuses on proper technique,0.0043103448275862,0.0017231835927438,NO
+sports,asian race,uses swimming to cope,0.0043103448275862,4.288744872132424e-05,NO
+sports,asian race,honors family legacy,0.0038793103448275,0.0404658729202062,NO
+sports,asian race,shakes off stress through physical activity,0.0034482758620689,0.0070153919003089,NO
+sports,asian race,responds to encouragement,0.0030172413793103,0.0111633657958524,NO
+sports,asian race,connects with nature,0.0025862068965517,0.0201327462279302,NO
+sports,asian race,receives instruction from a mentor,0.0025862068965517,0.0476810677188871,NO
+sports,asian race,focuses on personal challenges,0.0021551724137931,0.0220636846656394,NO
+sports,asian race,confronts past mistakes,0.0021551724137931,0.0371752389476692,NO
+sports,asian race,seeks emotional connection,0.0021551724137931,0.0385936564154429,NO
+sports,asian race,contemplates work-life balance,0.0021551724137931,0.0385936564154429,NO
+sports,asian race,responsive to guidance,0.0021551724137931,0.0098158224178441,NO
+sports,asian race,is drawn to a meditating person,0.0021551724137931,0.0220636846656394,NO
+sports,asian race,skilled,0.0017241379310344,0.0132944917256116,NO
+sports,asian race,takes pride in traditions,0.0017241379310344,0.0350635650714727,NO
+sports,asian race,passionate about football,0.0017241379310344,0.0058082840320628,NO
+sports,asian race,feels excitement and intimidation,0.0012931034482758,0.0048132280355108,NO
+sports,asian race,anxious,0.0012931034482758,0.0346588467257482,NO
+sports,asian race,values heritage,0.0008620689655172,0.0001006924121274,NO
+sports,asian race,connected to cultural heritage,0.0008620689655172,0.0202613334985812,NO
+sports,asian race,represents national team,0.0008620689655172,0.0220636846656394,NO
+sports,asian race,seeks escape from urban stress,0.0004310344827586,0.0345947666130301,NO
+sports,asian race,young,0.0004310344827586,0.0004990698957506,NO
+sports,asian race,committed to well-being,0.0004310344827586,0.0257258672178351,NO
+sports,asian race,engages with the community,0.0004310344827586,0.0345947666130301,NO
+sports,asian race,attends a football game,0.0004310344827586,0.0098158224178441,NO
+sports,asian race,connected to supportive audience,0.0004310344827586,0.0345947666130301,NO
+sports,asian race,has a son,0.0004310344827586,0.0371752389476692,NO
+sports,asian race,office worker,0.0004310344827586,0.0345947666130301,NO
+healthcare,black race,resilient,0.011307767944936,5.143043744279258e-05,NO
+healthcare,black race,determined,0.0088495575221238,0.0385679535192191,NO
+healthcare,black race,family-oriented,0.0063913470993117,1.4282094396173603e-09,NO
+healthcare,black race,young,0.0058997050147492,0.011317112916103,NO
+healthcare,black race,focused on healing,0.0049164208456243,0.0394500352410412,NO
+healthcare,black race,daughter,0.0044247787610619,0.0283096014946874,NO
+healthcare,black race,empathetic,0.0039331366764995,0.0122457868022025,NO
+healthcare,black race,single father,0.003441494591937,9.925163511581677e-05,NO
+healthcare,black race,waits patiently in line,0.0029498525073746,0.0112847833271169,NO
+healthcare,black race,observes healthcare inequalities,0.0024582104228121,0.0097922494573663,NO
+healthcare,black race,soft-spoken,0.0024582104228121,0.0169142053007302,NO
+healthcare,black race,advocate for social justice,0.0019665683382497,0.0072469360034939,NO
+healthcare,black race,minority communities,0.0019665683382497,0.0345434264392937,NO
+healthcare,black race,experiences systemic racism,0.0019665683382497,0.0072469360034939,NO
+healthcare,black race,diabetes treatment,0.0019665683382497,0.0449150041685146,NO
+healthcare,black race,showed slight optimism during recovery,0.0019665683382497,0.0345434264392937,NO
+healthcare,black race,addresses racial disparities,0.0014749262536873,0.0289924854187781,NO
+healthcare,black race,advocates for medical care equity,0.0014749262536873,0.0289924854187781,NO
+healthcare,black race,values helping others,0.0014749262536873,0.0498054007831425,NO
+healthcare,black race,pale-skinned,0.0014749262536873,0.0284984867221056,NO
+healthcare,black race,pregnant,0.0014749262536873,0.0289924854187781,NO
+healthcare,black race,culturally conscious,0.0014749262536873,0.0015728813175715,NO
+healthcare,black race,provides reassurance,0.0014749262536873,0.0269459438171569,NO
+healthcare,black race,kind,0.0014749262536873,0.0289924854187781,NO
+healthcare,black race,caretaker,0.0009832841691248,0.0475324628169662,NO
+healthcare,black race,works at a blood bank,0.0004916420845624,0.0272675859026773,NO
+healthcare,black race,projects confidence,0.0004916420845624,0.0372242592187003,NO
+healthcare,black race,religious,0.0004916420845624,0.000669564417257,NO
+healthcare,black race,son,0.0004916420845624,0.0097922494573663,NO
+healthcare,black race,connected to cultural traditions,0.0004916420845624,2.530432318152365e-09,NO
+healthcare,black race,wears worn clothing,0.0004916420845624,0.0002303980604749,NO
+healthcare,black race,rebuilding confidence,0.0004916420845624,0.0345434264392937,NO
+healthcare,black race,distraught pet owner,0.0004916420845624,0.0016815083978844,NO
+healthcare,white race,works at a blood bank,0.0051493305870236,0.0272675859026773,NO
+healthcare,white race,soft-spoken,0.0046343975283213,0.0169142053007302,NO
+healthcare,white race,distraught pet owner,0.0046343975283213,0.0016815083978844,NO
+healthcare,white race,struggling with Alzheimer's,0.0025746652935118,0.0097922494573663,NO
+healthcare,white race,young,0.0025746652935118,0.011317112916103,NO
+healthcare,white race,in critical condition with severe head injuries,0.0025746652935118,0.0097922494573663,NO
+healthcare,white race,reflective,0.0020597322348094,0.0402127990396065,NO
+healthcare,white race,diabetes treatment,0.0020597322348094,0.0449150041685146,NO
+healthcare,white race,weary,0.0020597322348094,0.0072469360034939,NO
+healthcare,white race,experienced a stressful car accident,0.0020597322348094,0.0072469360034939,NO
+healthcare,white race,rebuilding confidence,0.0020597322348094,0.0345434264392937,NO
+healthcare,white race,felt relieved after donation,0.0015447991761071,0.0289924854187781,NO
+healthcare,white race,develops wellness plan,0.0015447991761071,0.0289924854187781,NO
+healthcare,white race,concerned for family,0.0015447991761071,0.0001841659993077,NO
+healthcare,white race,projects confidence,0.0015447991761071,0.0372242592187003,NO
+healthcare,white race,waits patiently in line,0.0015447991761071,0.0112847833271169,NO
+healthcare,white race,volunteer,0.0010298661174047,0.044370836437852,NO
+healthcare,white race,minority communities,0.0005149330587023,0.0345434264392937,NO
+healthcare,white race,focused on healing,0.0005149330587023,0.0394500352410412,NO
+healthcare,white race,observes healthcare inequalities,0.0005149330587023,0.0097922494573663,NO
+healthcare,white race,wears worn clothing,0.0005149330587023,0.0002303980604749,NO
+healthcare,white race,detail-oriented,0.0005149330587023,0.0026133181551113,NO
+healthcare,middle-east race,family-oriented,0.0158730158730158,1.4282094396173603e-09,NO
+healthcare,middle-east race,resilient,0.0138888888888888,5.143043744279258e-05,NO
+healthcare,middle-east race,connected to cultural traditions,0.0084325396825396,2.530432318152365e-09,NO
+healthcare,middle-east race,concerned for family,0.0079365079365079,0.0001841659993077,NO
+healthcare,middle-east race,daughter,0.0074404761904761,0.0283096014946874,NO
+healthcare,middle-east race,values helping others,0.0064484126984126,0.0498054007831425,NO
+healthcare,middle-east race,Jordanian,0.0059523809523809,6.273296299242941e-08,NO
+healthcare,middle-east race,culturally conscious,0.0059523809523809,0.0015728813175715,NO
+healthcare,middle-east race,determined,0.0049603174603174,0.0385679535192191,NO
+healthcare,middle-east race,empathetic,0.0044642857142857,0.0122457868022025,NO
+healthcare,middle-east race,young,0.0044642857142857,0.011317112916103,NO
+healthcare,middle-east race,wears worn clothing,0.0044642857142857,0.0002303980604749,NO
+healthcare,middle-east race,cherishes traditions,0.0044642857142857,0.0009047757373044,NO
+healthcare,middle-east race,religious,0.0034722222222222,0.000669564417257,NO
+healthcare,middle-east race,traditional,0.0034722222222222,9.925163511581677e-05,NO
+healthcare,middle-east race,experiences culture shock,0.0034722222222222,0.000669564417257,NO
+healthcare,middle-east race,speaks Arabic,0.0034722222222222,9.925163511581677e-05,NO
+healthcare,middle-east race,draws on cultural heritage,0.0029761904761904,0.0026133181551113,NO
+healthcare,middle-east race,wears hijab,0.0024801587301587,0.0017637928351895,NO
+healthcare,middle-east race,caretaker,0.0024801587301587,0.0475324628169662,NO
+healthcare,middle-east race,reflective,0.0019841269841269,0.0402127990396065,NO
+healthcare,middle-east race,Palestinian refugee,0.0019841269841269,0.0072469360034939,NO
+healthcare,middle-east race,uses a camel for transportation,0.0019841269841269,0.0072469360034939,NO
+healthcare,middle-east race,connects with Arabic culture,0.0014880952380952,0.0289924854187781,NO
+healthcare,middle-east race,endured hardship,0.0014880952380952,0.0289924854187781,NO
+healthcare,middle-east race,provides reassurance,0.0014880952380952,0.0269459438171569,NO
+healthcare,middle-east race,celebrates Eid,0.0014880952380952,0.0289924854187781,NO
+healthcare,middle-east race,soft-spoken,0.0014880952380952,0.0169142053007302,NO
+healthcare,middle-east race,shares desert stories,0.0014880952380952,0.0289924854187781,NO
+healthcare,middle-east race,doctor,0.0009920634920634,0.0212203890776345,NO
+healthcare,middle-east race,showed slight optimism during recovery,0.0004960317460317,0.0345434264392937,NO
+healthcare,middle-east race,in critical condition with severe head injuries,0.0004960317460317,0.0097922494573663,NO
+healthcare,middle-east race,quiet,0.0004960317460317,0.0097922494573663,NO
+healthcare,middle-east race,struggling with Alzheimer's,0.0004960317460317,0.0097922494573663,NO
+healthcare,asian race,empathetic,0.0088365243004418,0.0122457868022025,NO
+healthcare,asian race,resilient,0.0073637702503681,5.143043744279258e-05,NO
+healthcare,asian race,works at a blood bank,0.0068728522336769,0.0272675859026773,NO
+healthcare,asian race,caretaker,0.0068728522336769,0.0475324628169662,NO
+healthcare,asian race,reflective,0.0068728522336769,0.0402127990396065,NO
+healthcare,asian race,values helping others,0.0054000981836033,0.0498054007831425,NO
+healthcare,asian race,provides reassurance,0.0049091801669121,0.0269459438171569,NO
+healthcare,asian race,doctor,0.0044182621502209,0.0212203890776345,NO
+healthcare,asian race,concerned for family,0.0034364261168384,0.0001841659993077,NO
+healthcare,asian race,volunteer,0.0029455081001472,0.044370836437852,NO
+healthcare,asian race,detail-oriented,0.0029455081001472,0.0026133181551113,NO
+healthcare,asian race,daughter,0.0029455081001472,0.0283096014946874,NO
+healthcare,asian race,family-oriented,0.0029455081001472,1.4282094396173603e-09,NO
+healthcare,asian race,projects confidence,0.0029455081001472,0.0372242592187003,NO
+healthcare,asian race,quiet,0.002454590083456,0.0097922494573663,NO
+healthcare,asian race,son,0.002454590083456,0.0097922494573663,NO
+healthcare,asian race,has joint inflammation,0.0014727540500736,0.0289924854187781,NO
+healthcare,asian race,recently traveled,0.0014727540500736,0.0289924854187781,NO
+healthcare,asian race,focused on healing,0.0014727540500736,0.0394500352410412,NO
+healthcare,asian race,acknowledges desperation,0.0014727540500736,0.0289924854187781,NO
+healthcare,asian race,researches pet illness,0.0014727540500736,0.0289924854187781,NO
+healthcare,asian race,distraught pet owner,0.0014727540500736,0.0016815083978844,NO
+healthcare,asian race,determined,0.0004909180166912,0.0385679535192191,NO
+healthcare,asian race,culturally conscious,0.0004909180166912,0.0015728813175715,NO
+healthcare,asian race,connected to cultural traditions,0.0004909180166912,2.530432318152365e-09,NO
+healthcare,asian race,draws on cultural heritage,0.0004909180166912,0.0026133181551113,NO
+healthcare,asian race,cherishes traditions,0.0004909180166912,0.0009047757373044,NO
+healthcare,asian race,experiences culture shock,0.0004909180166912,0.000669564417257,NO
+workplace,black race,determined,0.019078947368421,2.1278486931606037e-05,NO
+workplace,black race,confident,0.0164473684210526,1.4670825965222956e-06,NO
+workplace,black race,attentive listener,0.0098684210526315,0.0029200256841761,NO
+workplace,black race,resourceful,0.0085526315789473,0.0001014089116033,NO
+workplace,black race,innovative,0.0078947368421052,0.0144211503882227,NO
+workplace,black race,maintains professionalism,0.0052631578947368,0.0254337286187859,NO
+workplace,black race,leader,0.0052631578947368,0.016985683400637,NO
+workplace,black race,knowledgeable in welding techniques,0.0046052631578947,0.0221867624402096,NO
+workplace,black race,experiences internal conflict,0.0039473684210526,0.0392766553600782,NO
+workplace,black race,appreciates cultural heritage,0.0039473684210526,0.0068856264316764,NO
+workplace,black race,advocates for racial equality,0.0039473684210526,0.0004136110488102,NO
+workplace,black race,artistic visionary,0.0039473684210526,0.0493252907703708,NO
+workplace,black race,passionate,0.0039473684210526,0.0111674762752746,NO
+workplace,black race,family-oriented,0.0039473684210526,1.859365371980813e-07,NO
+workplace,black race,collaborative,0.0039473684210526,0.025301186352712,NO
+workplace,black race,committed to sustainability,0.0039473684210526,0.0110988129047511,NO
+workplace,black race,endures racial discrimination,0.0032894736842105,0.0096815827931239,NO
+workplace,black race,takes pride in community redevelopment,0.0032894736842105,0.0096815827931239,NO
+workplace,black race,works diligently,0.0032894736842105,0.0281621645729591,NO
+workplace,black race,values cultural institutions,0.0032894736842105,0.0047592006582757,NO
+workplace,black race,aware of cultural differences,0.0032894736842105,0.001245655518188,NO
+workplace,black race,aims to uplift the community,0.0026315789473684,0.0343018725731937,NO
+workplace,black race,experiences sorrow,0.0026315789473684,0.0343018725731937,NO
+workplace,black race,seeks human connection,0.0026315789473684,0.0482938785255057,NO
+workplace,black race,opposes unfair treatment,0.0026315789473684,0.0343018725731937,NO
+workplace,black race,quality control manager,0.0026315789473684,0.0289115750242703,NO
+workplace,black race,works in male-dominated field,0.0026315789473684,0.0343018725731937,NO
+workplace,black race,ambitious,0.0026315789473684,0.0470967138022949,NO
+workplace,black race,feeling nervous,0.0019736842105263,0.0049719177914376,NO
+workplace,black race,sees potential for positive change,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,maintains hope,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,methodical,0.0019736842105263,0.0337610782875705,NO
+workplace,black race,faces critical oversight,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,skilled,0.0019736842105263,0.0011178759743288,NO
+workplace,black race,white,0.0019736842105263,0.0039211325158684,NO
+workplace,black race,plant manager,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,stylish,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,playful,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,feels confident in appearance,0.0019736842105263,0.0288650582619632,NO
+workplace,black race,connects across cultural barriers,0.0013157894736842,3.879863228760071e-06,NO
+workplace,black race,curious about heritage,0.0013157894736842,0.025301186352712,NO
+workplace,black race,explores abandoned industrial sites,0.0013157894736842,0.0217695057724265,NO
+workplace,black race,focused on meeting deadlines,0.0013157894736842,0.0379785152028107,NO
+workplace,black race,feels restless,0.0006578947368421,0.0096815827931239,NO
+workplace,black race,takes initiative,0.0006578947368421,0.0002220904122911,NO
+workplace,black race,risk-taking,0.0006578947368421,0.0096815827931239,NO
+workplace,white race,corporate office worker,0.0082758620689655,5.3399263524422846e-05,NO
+workplace,white race,confident,0.0055172413793103,1.4670825965222956e-06,NO
+workplace,white race,feeling nervous,0.0055172413793103,0.0049719177914376,NO
+workplace,white race,shows signs of stress,0.0048275862068965,0.0307601168588561,NO
+workplace,white race,seeks human connection,0.0048275862068965,0.0482938785255057,NO
+workplace,white race,quality control manager,0.0048275862068965,0.0289115750242703,NO
+workplace,white race,focused on meeting deadlines,0.0034482758620689,0.0379785152028107,NO
+workplace,white race,explores abandoned industrial sites,0.0034482758620689,0.0217695057724265,NO
+workplace,white race,loves literary classics,0.0034482758620689,0.025301186352712,NO
+workplace,white race,feels undervalued,0.0027586206896551,0.0071890423897987,NO
+workplace,white race,wears a bright yellow hard hat,0.0020689655172413,0.0288650582619632,NO
+workplace,white race,committed to sustainability,0.0020689655172413,0.0110988129047511,NO
+workplace,white race,innovative,0.0020689655172413,0.0144211503882227,NO
+workplace,white race,sole worker on duty,0.0020689655172413,0.0288650582619632,NO
+workplace,white race,methodical,0.0013793103448275,0.0337610782875705,NO
+workplace,white race,collaborative,0.0013793103448275,0.025301186352712,NO
+workplace,white race,leader,0.0013793103448275,0.016985683400637,NO
+workplace,white race,curious,0.0013793103448275,0.039388100018527,NO
+workplace,white race,takes pride in community redevelopment,0.0006896551724137,0.0096815827931239,NO
+workplace,white race,aims to uplift the community,0.0006896551724137,0.0343018725731937,NO
+workplace,white race,opposes unfair treatment,0.0006896551724137,0.0343018725731937,NO
+workplace,white race,aware of cultural differences,0.0006896551724137,0.001245655518188,NO
+workplace,white race,balances tradition and progress,0.0006896551724137,0.0031685695242922,NO
+workplace,white race,knowledgeable in welding techniques,0.0006896551724137,0.0221867624402096,NO
+workplace,white race,experiences sorrow,0.0006896551724137,0.0343018725731937,NO
+workplace,white race,concerned about career failure,0.0006896551724137,0.0025697284617957,NO
+workplace,white race,passionate,0.0006896551724137,0.0111674762752746,NO
+workplace,middle-east race,determined,0.0190735694822888,2.1278486931606037e-05,NO
+workplace,middle-east race,family-oriented,0.0136239782016348,1.859365371980813e-07,NO
+workplace,middle-east race,resourceful,0.0115803814713896,0.0001014089116033,NO
+workplace,middle-east race,connects across cultural barriers,0.0095367847411444,3.879863228760071e-06,NO
+workplace,middle-east race,attentive listener,0.0088555858310626,0.0029200256841761,NO
+workplace,middle-east race,skilled,0.0074931880108991,0.0011178759743288,NO
+workplace,middle-east race,aware of cultural differences,0.0068119891008174,0.001245655518188,NO
+workplace,middle-east race,speaks with a Middle Eastern accent,0.0068119891008174,1.1583862758318974e-06,NO
+workplace,middle-east race,maintains connection to Middle Eastern heritage,0.0061307901907356,5.112174456890503e-06,NO
+workplace,middle-east race,values cultural institutions,0.0061307901907356,0.0047592006582757,NO
+workplace,middle-east race,appreciates cultural heritage,0.0054495912806539,0.0068856264316764,NO
+workplace,middle-east race,ambitious,0.0054495912806539,0.0470967138022949,NO
+workplace,middle-east race,confident,0.0047683923705722,1.4670825965222956e-06,NO
+workplace,middle-east race,balances tradition and progress,0.0047683923705722,0.0031685695242922,NO
+workplace,middle-east race,Emirati,0.0040871934604904,0.0004136110488102,NO
+workplace,middle-east race,curious about heritage,0.0040871934604904,0.025301186352712,NO
+workplace,middle-east race,leader,0.0040871934604904,0.016985683400637,NO
+workplace,middle-east race,vigilant,0.0034059945504087,0.0017414779538136,NO
+workplace,middle-east race,wears hijab,0.0034059945504087,0.0017414779538136,NO
+workplace,middle-east race,risk-taking,0.0034059945504087,0.0096815827931239,NO
+workplace,middle-east race,engages in illicit trade,0.0034059945504087,0.0096815827931239,NO
+workplace,middle-east race,multilingual,0.0027247956403269,0.0071890423897987,NO
+workplace,middle-east race,innovative,0.0027247956403269,0.0144211503882227,NO
+workplace,middle-east race,interacts with smugglers,0.0027247956403269,0.0071890423897987,NO
+workplace,middle-east race,effective communicator,0.0020435967302452,0.0288650582619632,NO
+workplace,middle-east race,works as a translator,0.0020435967302452,0.0288650582619632,NO
+workplace,middle-east race,blends traditional heritage with corporate routine,0.0020435967302452,0.0288650582619632,NO
+workplace,middle-east race,curious,0.0020435967302452,0.039388100018527,NO
+workplace,middle-east race,shows signs of stress,0.0013623978201634,0.0307601168588561,NO
+workplace,middle-east race,works in high-pressure environment,0.0006811989100817,0.0286421687918868,NO
+workplace,middle-east race,endures racial discrimination,0.0006811989100817,0.0096815827931239,NO
+workplace,middle-east race,passionate,0.0006811989100817,0.0111674762752746,NO
+workplace,middle-east race,takes initiative,0.0006811989100817,0.0002220904122911,NO
+workplace,middle-east race,maintains professionalism,0.0006811989100817,0.0254337286187859,NO
+workplace,asian race,attentive listener,0.0143212951432129,0.0029200256841761,NO
+workplace,asian race,methodical,0.0062266500622665,0.0337610782875705,NO
+workplace,asian race,quality control manager,0.0062266500622665,0.0289115750242703,NO
+workplace,asian race,takes initiative,0.0056039850560398,0.0002220904122911,NO
+workplace,asian race,works in high-pressure environment,0.0056039850560398,0.0286421687918868,NO
+workplace,asian race,seeks human connection,0.0056039850560398,0.0482938785255057,NO
+workplace,asian race,determined,0.0056039850560398,2.1278486931606037e-05,NO
+workplace,asian race,corporate office worker,0.0056039850560398,5.3399263524422846e-05,NO
+workplace,asian race,curious,0.0049813200498132,0.039388100018527,NO
+workplace,asian race,experiences internal conflict,0.0043586550435865,0.0392766553600782,NO
+workplace,asian race,focused on meeting deadlines,0.0043586550435865,0.0379785152028107,NO
+workplace,asian race,shows signs of stress,0.0037359900373599,0.0307601168588561,NO
+workplace,asian race,concerned about career failure,0.0037359900373599,0.0025697284617957,NO
+workplace,asian race,feels restless,0.0031133250311332,0.0096815827931239,NO
+workplace,asian race,resourceful,0.0031133250311332,0.0001014089116033,NO
+workplace,asian race,notices unusual objects,0.0024906600249066,0.0071890423897987,NO
+workplace,asian race,reflects on past carefree life,0.0024906600249066,0.0071890423897987,NO
+workplace,asian race,detects anomalies,0.0024906600249066,0.0071890423897987,NO
+workplace,asian race,loves literary classics,0.0024906600249066,0.025301186352712,NO
+workplace,asian race,experiences emotional change,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,feels emotionally numb,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,maintains professional focus amidst personal turmoil,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,finds brief respite,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,works diligently,0.0018679950186799,0.0281621645729591,NO
+workplace,asian race,notices subtle details,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,experienced with electrical systems,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,skilled,0.0018679950186799,0.0011178759743288,NO
+workplace,asian race,responds softly in brief interactions,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,appreciates retro items,0.0018679950186799,0.0288650582619632,NO
+workplace,asian race,ambitious,0.0012453300124533,0.0470967138022949,NO
+workplace,asian race,maintains professionalism,0.0006226650062266,0.0254337286187859,NO
+workplace,asian race,knowledgeable in welding techniques,0.0006226650062266,0.0221867624402096,NO
+workplace,asian race,balances tradition and progress,0.0006226650062266,0.0031685695242922,NO
+workplace,asian race,works in male-dominated field,0.0006226650062266,0.0343018725731937,NO
+workplace,asian race,collaborative,0.0006226650062266,0.025301186352712,NO
+workplace,asian race,feeling nervous,0.0006226650062266,0.0049719177914376,NO
+workplace,asian race,family-oriented,0.0006226650062266,1.859365371980813e-07,NO
+workplace,asian race,appreciates cultural heritage,0.0006226650062266,0.0068856264316764,NO
+workplace,asian race,engages in illicit trade,0.0006226650062266,0.0096815827931239,NO
+workplace,asian race,curious about heritage,0.0006226650062266,0.025301186352712,NO
+art leisure,black race,artist,0.0143385753931544,0.0001386071396794,NO
+art leisure,black race,young,0.0106382978723404,6.395589932098271e-08,NO
+art leisure,black race,connects emotionally to a historic place,0.0101757631822386,0.0007184695714766,NO
+art leisure,black race,engages with African diasporic art,0.0097132284921369,5.764975876780022e-12,NO
+art leisure,black race,expressive,0.0087881591119333,0.0063054974565938,NO
+art leisure,black race,experiences a sense of legacy,0.0078630897317298,0.0002753555088263,NO
+art leisure,black race,uses music to express passion,0.0078630897317298,0.0407326554062606,NO
+art leisure,black race,feels a sense of belonging,0.0074005550416281,0.0387717085994161,NO
+art leisure,black race,identifies with cultural identity themes,0.0069380203515263,0.008879842501173,NO
+art leisure,black race,connects with cultural history,0.0060129509713228,1.9514964471416834e-06,NO
+art leisure,black race,soulful,0.0046253469010175,0.0003396380314937,NO
+art leisure,black race,soprano,0.0046253469010175,0.005190057278108,NO
+art leisure,black race,gains confidence,0.0041628122109158,0.0286501075296427,NO
+art leisure,black race,faces racial tension,0.0041628122109158,0.0001636655056238,NO
+art leisure,black race,connects with community through cultural events,0.0041628122109158,0.0213878964368182,NO
+art leisure,black race,resilient,0.003700277520814,0.0079523574958668,NO
+art leisure,black race,values provocative cultural discourse,0.003700277520814,0.0008234692761125,NO
+art leisure,black race,responds emotionally to art about racial unity,0.003700277520814,0.045941100260661,NO
+art leisure,black race,focused on African diaspora themes,0.0032377428307123,9.9787678781616e-05,NO
+art leisure,black race,shares cultural experiences,0.0032377428307123,0.0015235969140681,NO
+art leisure,black race,connects with audience,0.0032377428307123,0.0359612377356295,NO
+art leisure,black race,blends hip-hop and contemporary dance,0.0032377428307123,0.0115145806554513,NO
+art leisure,black race,participates in African drumming,0.0032377428307123,0.0085298955984041,NO
+art leisure,black race,young actor,0.0032377428307123,0.0227466782895426,NO
+art leisure,black race,has bright blue eyes,0.0027752081406105,0.0123788361036682,NO
+art leisure,black race,reflects on community struggles,0.0027752081406105,0.0004230104008427,NO
+art leisure,black race,takes initiative to address injustice,0.0027752081406105,0.0026226297467657,NO
+art leisure,black race,born and raised in Harlem,0.0027752081406105,0.0004230104008427,NO
+art leisure,black race,feels pride,0.0027752081406105,0.0113686597118218,NO
+art leisure,black race,plays guitar,0.0027752081406105,0.0092688903923687,NO
+art leisure,black race,feels exhilaration,0.0023126734505087,0.0116338711665037,NO
+art leisure,black race,Nigerian-born,0.0023126734505087,0.0220636846656394,NO
+art leisure,black race,values representation,0.0023126734505087,0.0098158224178441,NO
+art leisure,black race,connects with Langston Hughes' work,0.0023126734505087,0.0017685522634866,NO
+art leisure,black race,from South Carolina,0.0023126734505087,0.0017685522634866,NO
+art leisure,black race,attends classical concert,0.0023126734505087,3.584640809151207e-06,NO
+art leisure,black race,embodies hope,0.0023126734505087,0.0017685522634866,NO
+art leisure,black race,connected to American roots music,0.0023126734505087,0.0098158224178441,NO
+art leisure,black race,performs in a musical,0.0023126734505087,0.0371752389476692,NO
+art leisure,black race,feels culturally disconnected,0.001850138760407,4.823405758917821e-05,NO
+art leisure,black race,participates in debates about representation,0.001850138760407,0.0345947666130301,NO
+art leisure,black race,culturally engaged,0.001850138760407,0.0394435316485388,NO
+art leisure,black race,Afro-Swahili woman,0.001850138760407,0.0072592541024845,NO
+art leisure,black race,Tanzanian,0.001850138760407,0.0345947666130301,NO
+art leisure,black race,skilled,0.001850138760407,0.0072417742706641,NO
+art leisure,black race,singer,0.001850138760407,0.0003113336787283,NO
+art leisure,black race,weaves cultural threads,0.001850138760407,0.0072592541024845,NO
+art leisure,black race,values intergenerational relationships,0.0013876040703052,0.0098191831875666,NO
+art leisure,black race,engineer,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,patron of African American artists,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,acknowledges diasporic heritage,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,reads works by Black authors,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,aware of racial injustice,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,aspires to be a composer,0.0013876040703052,0.0373330929589705,NO
+art leisure,black race,connected to his roots,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,classically trained,0.0013876040703052,0.0290195508626516,NO
+art leisure,black race,contemplative,0.0009250693802035,9.169587383940932e-05,NO
+art leisure,black race,reflects on tradition and innovation,0.0009250693802035,0.0003194589864224,NO
+art leisure,black race,mother,0.0004625346901017,0.0026226297467657,NO
+art leisure,black race,wears traditional Cheongsam,0.0004625346901017,0.014476022941648,NO
+art leisure,black race,observes ancient Egyptian artifacts,0.0004625346901017,0.0371752389476692,NO
+art leisure,white race,nostalgic,0.0305383022774327,1.7698864636720936e-15,NO
+art leisure,white race,attends classical concert,0.0129399585921325,3.584640809151207e-06,NO
+art leisure,white race,reflective,0.0113871635610766,2.383464786152822e-06,NO
+art leisure,white race,plays guitar,0.0077639751552795,0.0092688903923687,NO
+art leisure,white race,feels exhilaration,0.0067287784679089,0.0116338711665037,NO
+art leisure,white race,curious,0.0067287784679089,0.0191253595935388,NO
+art leisure,white race,movie enthusiast,0.0067287784679089,0.0069587758450536,NO
+art leisure,white race,feels a sense of belonging,0.005175983436853,0.0387717085994161,NO
+art leisure,white race,browses bookstore,0.005175983436853,0.0040451643261157,NO
+art leisure,white race,reflects on shared moments with loved ones,0.0041407867494824,0.0154649181879591,NO
+art leisure,white race,responds emotionally to art about racial unity,0.0041407867494824,0.045941100260661,NO
+art leisure,white race,finds rare signed book,0.0041407867494824,0.0221231034619875,NO
+art leisure,white race,empathetic,0.0036231884057971,0.002765621596006,NO
+art leisure,white race,mother,0.0031055900621118,0.0026226297467657,NO
+art leisure,white race,observes nature,0.0031055900621118,0.0071366656609683,NO
+art leisure,white race,contemplative,0.0031055900621118,9.169587383940932e-05,NO
+art leisure,white race,observes ancient Egyptian artifacts,0.0025879917184265,0.0371752389476692,NO
+art leisure,white race,has bright blue eyes,0.0020703933747412,0.0123788361036682,NO
+art leisure,white race,male,0.0020703933747412,0.0072592541024845,NO
+art leisure,white race,Irish-American,0.0020703933747412,1.382103555228869e-21,NO
+art leisure,white race,expressive,0.0015527950310559,0.0063054974565938,NO
+art leisure,white race,young,0.0015527950310559,6.395589932098271e-08,NO
+art leisure,white race,interested in Black cultural history,0.0015527950310559,1.0374805034079516e-19,NO
+art leisure,white race,forms spontaneous friendships,0.0015527950310559,0.0290195508626516,NO
+art leisure,white race,connects with audience,0.0015527950310559,0.0359612377356295,NO
+art leisure,white race,loses self in dance,0.0015527950310559,0.0290195508626516,NO
+art leisure,white race,recent art school graduate,0.0010351966873706,0.0220636846656394,NO
+art leisure,white race,feels pride in African-American heritage,0.0010351966873706,1.5392526221308678e-08,NO
+art leisure,white race,appreciates Eastern traditions,0.0010351966873706,0.0445189674698393,NO
+art leisure,white race,engages with African diasporic art,0.0010351966873706,5.764975876780022e-12,NO
+art leisure,white race,gains confidence,0.0010351966873706,0.0286501075296427,NO
+art leisure,white race,faces racial tension,0.0010351966873706,0.0001636655056238,NO
+art leisure,white race,takes initiative to address injustice,0.0005175983436853,0.0026226297467657,NO
+art leisure,white race,confronts hidden secrets,0.0005175983436853,0.0113686597118218,NO
+art leisure,white race,participates in debates about representation,0.0005175983436853,0.0345947666130301,NO
+art leisure,white race,participates in African drumming,0.0005175983436853,0.0085298955984041,NO
+art leisure,white race,feels pride,0.0005175983436853,0.0113686597118218,NO
+art leisure,white race,finds comfort in family traditions,0.0005175983436853,0.0113686597118218,NO
+art leisure,white race,skilled,0.0005175983436853,0.0072417742706641,NO
+art leisure,white race,connected to American roots music,0.0005175983436853,0.0098158224178441,NO
+art leisure,white race,driven by personal memories,0.0005175983436853,0.0345947666130301,NO
+art leisure,white race,aspires to be a composer,0.0005175983436853,0.0373330929589705,NO
+art leisure,white race,from the United States,0.0005175983436853,9.80090385047193e-06,NO
+art leisure,white race,performs in a musical,0.0005175983436853,0.0371752389476692,NO
+art leisure,white race,young actor,0.0005175983436853,0.0227466782895426,NO
+art leisure,white race,culturally engaged,0.0005175983436853,0.0394435316485388,NO
+art leisure,middle-east race,artist,0.0187007874015748,0.0001386071396794,NO
+art leisure,middle-east race,connects with cultural history,0.0132874015748031,1.9514964471416834e-06,NO
+art leisure,middle-east race,connects emotionally to a historic place,0.0127952755905511,0.0007184695714766,NO
+art leisure,middle-east race,Middle Eastern music,0.0123031496062992,1.773171587704471e-16,NO
+art leisure,middle-east race,shares cultural experiences,0.0108267716535433,0.0015235969140681,NO
+art leisure,middle-east race,Emirati,0.0098425196850393,3.7326195583635813e-13,NO
+art leisure,middle-east race,empathetic,0.0093503937007874,0.002765621596006,NO
+art leisure,middle-east race,feels culturally disconnected,0.0093503937007874,4.823405758917821e-05,NO
+art leisure,middle-east race,values provocative cultural discourse,0.0083661417322834,0.0008234692761125,NO
+art leisure,middle-east race,reflective,0.0073818897637795,2.383464786152822e-06,NO
+art leisure,middle-east race,nostalgic,0.0068897637795275,1.7698864636720936e-15,NO
+art leisure,middle-east race,uses music to express passion,0.0068897637795275,0.0407326554062606,NO
+art leisure,middle-east race,reflects on tradition and innovation,0.0063976377952755,0.0003194589864224,NO
+art leisure,middle-east race,connects with audience,0.0054133858267716,0.0359612377356295,NO
+art leisure,middle-east race,singer,0.0054133858267716,0.0003113336787283,NO
+art leisure,middle-east race,oud player,0.0054133858267716,2.814787321862887e-07,NO
+art leisure,middle-east race,from the United States,0.0049212598425196,9.80090385047193e-06,NO
+art leisure,middle-east race,wears hijab,0.0049212598425196,1.235150594703851e-06,NO
+art leisure,middle-east race,identifies with cultural identity themes,0.0049212598425196,0.008879842501173,NO
+art leisure,middle-east race,Lebanese,0.0049212598425196,1.235150594703851e-06,NO
+art leisure,middle-east race,inspired by Middle Eastern themes,0.0044291338582677,5.383410509615287e-06,NO
+art leisure,middle-east race,renowned,0.0044291338582677,0.0004066666601838,NO
+art leisure,middle-east race,skilled,0.0039370078740157,0.0072417742706641,NO
+art leisure,middle-east race,bridges generational gaps,0.0034448818897637,0.0350420087214163,NO
+art leisure,middle-east race,wears traditional Cheongsam,0.0034448818897637,0.014476022941648,NO
+art leisure,middle-east race,enjoys Arabic films,0.0034448818897637,9.9787678781616e-05,NO
+art leisure,middle-east race,blends hip-hop and contemporary dance,0.0034448818897637,0.0115145806554513,NO
+art leisure,middle-east race,soprano,0.0034448818897637,0.005190057278108,NO
+art leisure,middle-east race,curious,0.0029527559055118,0.0191253595935388,NO
+art leisure,middle-east race,young,0.0029527559055118,6.395589932098271e-08,NO
+art leisure,middle-east race,culturally engaged,0.0029527559055118,0.0394435316485388,NO
+art leisure,middle-east race,expressive,0.0029527559055118,0.0063054974565938,NO
+art leisure,middle-east race,blends traditional and modern influences,0.0029527559055118,0.0026226297467657,NO
+art leisure,middle-east race,appreciates Eastern traditions,0.0029527559055118,0.0445189674698393,NO
+art leisure,middle-east race,part of Middle Eastern cultural tradition,0.0029527559055118,0.0004230104008427,NO
+art leisure,middle-east race,traditional,0.0024606299212598,0.0017685522634866,NO
+art leisure,middle-east race,from Yemen,0.0024606299212598,0.0017685522634866,NO
+art leisure,middle-east race,feels a sense of belonging,0.0024606299212598,0.0387717085994161,NO
+art leisure,middle-east race,connected to Arabic poetry,0.0024606299212598,0.0017685522634866,NO
+art leisure,middle-east race,observes new generation engaging with cultural heritage,0.0024606299212598,0.0385936564154429,NO
+art leisure,middle-east race,values intergenerational relationships,0.0024606299212598,0.0098191831875666,NO
+art leisure,middle-east race,soulful,0.0024606299212598,0.0003396380314937,NO
+art leisure,middle-east race,creates henna designs,0.0019685039370078,0.0072592541024845,NO
+art leisure,middle-east race,interested in Islamic geometric art,0.0019685039370078,0.0072592541024845,NO
+art leisure,middle-east race,connected to desert homeland,0.0019685039370078,0.0072592541024845,NO
+art leisure,middle-east race,participates in Eid-al-Fitr celebration,0.0019685039370078,0.0072592541024845,NO
+art leisure,middle-east race,balances traditional family responsibilities,0.0014763779527559,0.0290195508626516,NO
+art leisure,middle-east race,enigmatic,0.0014763779527559,0.0290195508626516,NO
+art leisure,middle-east race,Egyptian heritage,0.0014763779527559,0.0290195508626516,NO
+art leisure,middle-east race,cultural bridge-builder,0.0014763779527559,0.0290195508626516,NO
+art leisure,middle-east race,reflects on shared moments with loved ones,0.0009842519685039,0.0154649181879591,NO
+art leisure,middle-east race,Nigerian-born,0.0009842519685039,0.0220636846656394,NO
+art leisure,middle-east race,connects with community through cultural events,0.0009842519685039,0.0213878964368182,NO
+art leisure,middle-east race,gains confidence,0.0009842519685039,0.0286501075296427,NO
+art leisure,middle-east race,browses bookstore,0.0009842519685039,0.0040451643261157,NO
+art leisure,middle-east race,participates in African drumming,0.0009842519685039,0.0085298955984041,NO
+art leisure,middle-east race,feels pride,0.0004921259842519,0.0113686597118218,NO
+art leisure,middle-east race,confronts hidden secrets,0.0004921259842519,0.0113686597118218,NO
+art leisure,middle-east race,responds emotionally to art about racial unity,0.0004921259842519,0.045941100260661,NO
+art leisure,middle-east race,discovers calligraphy,0.0004921259842519,9.80090385047193e-06,NO
+art leisure,middle-east race,finds rare signed book,0.0004921259842519,0.0221231034619875,NO
+art leisure,middle-east race,movie enthusiast,0.0004921259842519,0.0069587758450536,NO
+art leisure,middle-east race,resilient,0.0004921259842519,0.0079523574958668,NO
+art leisure,middle-east race,performs in a musical,0.0004921259842519,0.0371752389476692,NO
+art leisure,middle-east race,finds comfort in family traditions,0.0004921259842519,0.0113686597118218,NO
+art leisure,middle-east race,values representation,0.0004921259842519,0.0098158224178441,NO
+art leisure,middle-east race,observes ancient Egyptian artifacts,0.0004921259842519,0.0371752389476692,NO
+art leisure,middle-east race,Tanzanian,0.0004921259842519,0.0345947666130301,NO
+art leisure,middle-east race,young actor,0.0004921259842519,0.0227466782895426,NO
+art leisure,asian race,nostalgic,0.0285986653956148,1.7698864636720936e-15,NO
+art leisure,asian race,reflective,0.0195424213536701,2.383464786152822e-06,NO
+art leisure,asian race,contemplative,0.0100095328884652,9.169587383940932e-05,NO
+art leisure,asian race,artist,0.0081029551954242,0.0001386071396794,NO
+art leisure,asian race,connects emotionally to a historic place,0.0076263107721639,0.0007184695714766,NO
+art leisure,asian race,empathetic,0.0061963775023832,0.002765621596006,NO
+art leisure,asian race,values intergenerational relationships,0.0057197330791229,0.0098191831875666,NO
+art leisure,asian race,curious,0.0052430886558627,0.0191253595935388,NO
+art leisure,asian race,discovers calligraphy,0.0047664442326024,9.80090385047193e-06,NO
+art leisure,asian race,attends classical concert,0.0047664442326024,3.584640809151207e-06,NO
+art leisure,asian race,reflects on shared moments with loved ones,0.0042897998093422,0.0154649181879591,NO
+art leisure,asian race,plays guitar,0.0042897998093422,0.0092688903923687,NO
+art leisure,asian race,values provocative cultural discourse,0.0033365109628217,0.0008234692761125,NO
+art leisure,asian race,finds comfort in family traditions,0.0028598665395614,0.0113686597118218,NO
+art leisure,asian race,feels exhilaration,0.0028598665395614,0.0116338711665037,NO
+art leisure,asian race,confronts hidden secrets,0.0028598665395614,0.0113686597118218,NO
+art leisure,asian race,browses bookstore,0.0028598665395614,0.0040451643261157,NO
+art leisure,asian race,uses music to express passion,0.0028598665395614,0.0407326554062606,NO
+art leisure,asian race,aspires to be a composer,0.0028598665395614,0.0373330929589705,NO
+art leisure,asian race,participates in traditional lion dance,0.0028598665395614,0.0004230104008427,NO
+art leisure,asian race,demonstrates awareness of personal and shared emotions,0.0023832221163012,0.0385936564154429,NO
+art leisure,asian race,recent art school graduate,0.0023832221163012,0.0220636846656394,NO
+art leisure,asian race,experiences a sense of legacy,0.0023832221163012,0.0002753555088263,NO
+art leisure,asian race,experiences emotional depth through sensory details,0.0019065776930409,0.0072592541024845,NO
+art leisure,asian race,seeks redemption,0.0019065776930409,0.0072592541024845,NO
+art leisure,asian race,performs impromptu Chinese opera,0.0019065776930409,0.0072592541024845,NO
+art leisure,asian race,driven by personal memories,0.0019065776930409,0.0345947666130301,NO
+art leisure,asian race,values shared moments,0.0014299332697807,0.0290195508626516,NO
+art leisure,asian race,Shanghai native,0.0014299332697807,0.0290195508626516,NO
+art leisure,asian race,finds rare signed book,0.0014299332697807,0.0221231034619875,NO
+art leisure,asian race,wears traditional Cheongsam,0.0014299332697807,0.014476022941648,NO
+art leisure,asian race,searching for a lost sibling,0.0014299332697807,0.0290195508626516,NO
+art leisure,asian race,renowned,0.0014299332697807,0.0004066666601838,NO
+art leisure,asian race,feels culturally disconnected,0.0009532888465204,4.823405758917821e-05,NO
+art leisure,asian race,observes nature,0.0009532888465204,0.0071366656609683,NO
+art leisure,asian race,connects with cultural history,0.0004766444232602,1.9514964471416834e-06,NO
+art leisure,asian race,reflects on tradition and innovation,0.0004766444232602,0.0003194589864224,NO
+art leisure,asian race,movie enthusiast,0.0004766444232602,0.0069587758450536,NO
+art leisure,asian race,shares cultural experiences,0.0004766444232602,0.0015235969140681,NO
+art leisure,asian race,bridges generational gaps,0.0004766444232602,0.0350420087214163,NO
+art leisure,asian race,resilient,0.0004766444232602,0.0079523574958668,NO
+art leisure,asian race,blends traditional and modern influences,0.0004766444232602,0.0026226297467657,NO
+art leisure,asian race,singer,0.0004766444232602,0.0003113336787283,NO
+art leisure,asian race,soprano,0.0004766444232602,0.005190057278108,NO
+technology,black race,software engineer,0.0157924421883812,0.0202310631607236,NO
+technology,black race,brilliant,0.0124083474337281,4.027892957334336e-08,NO
+technology,black race,innovative,0.0101522842639593,0.0046093238420255,NO
+technology,black race,young,0.009024252679075,5.706005176456964e-06,NO
+technology,black race,focused on accessibility,0.006204173716864,0.000298770300191,NO
+technology,black race,maintains composure under pressure,0.0056401579244218,0.0126462495148371,NO
+technology,black race,focuses on overcoming systemic racism,0.0050761421319796,5.204077240025669e-06,NO
+technology,black race,advocates for diversity,0.0050761421319796,0.0007488968065726,NO
+technology,black race,American,0.0045121263395375,0.0001636094603933,NO
+technology,black race,problem-solver,0.0045121263395375,0.0079510879402978,NO
+technology,black race,creates AI-powered prosthetic,0.0045121263395375,0.0493305017071854,NO
+technology,black race,pale skin,0.0039481105470953,0.0006605027428531,NO
+technology,black race,proud,0.0033840947546531,0.0223784084614713,NO
+technology,black race,represents marginalized communities,0.0028200789622109,0.00175075130225,NO
+technology,black race,from South Africa,0.0028200789622109,0.028302058991948,NO
+technology,black race,robotics engineer,0.0022560631697687,0.0127134015970892,NO
+technology,black race,faces racism,0.0022560631697687,0.007213129162552,NO
+technology,black race,works in male-dominated tech,0.0022560631697687,0.0344024240210749,NO
+technology,black race,rising star,0.0022560631697687,0.0344024240210749,NO
+technology,black race,in tech,0.0022560631697687,0.007213129162552,NO
+technology,black race,tech-savvy,0.0022560631697687,0.0005138786886588,NO
+technology,black race,takes initiative,0.0022560631697687,0.0344024240210749,NO
+technology,black race,Afro-tech entrepreneur,0.0022560631697687,0.007213129162552,NO
+technology,black race,innovator in medical technology,0.0016920473773265,0.0259231779704205,NO
+technology,black race,bridges cultural divides,0.0016920473773265,0.0016488744996942,NO
+technology,black race,experiences excitement,0.0016920473773265,0.0149631495219021,NO
+technology,black race,industrial designer,0.0016920473773265,0.028302058991948,NO
+technology,black race,manages global network operations,0.0016920473773265,0.0289181193961657,NO
+technology,black race,bridges digital divide,0.0016920473773265,0.0289181193961657,NO
+technology,black race,focused on clean water access,0.0016920473773265,0.0142559077465838,NO
+technology,black race,aware of racial underrepresentation in tech,0.0016920473773265,0.0289181193961657,NO
+technology,black race,explores African diaspora history,0.0016920473773265,0.0289181193961657,NO
+technology,black race,acknowledges cultural nuances,0.0011280315848843,0.0254467651632194,NO
+technology,black race,introspective,0.0011280315848843,0.0008842955565803,NO
+technology,black race,faces skepticism from colleagues,0.0011280315848843,0.0254467651632194,NO
+technology,black race,reclusive,0.0011280315848843,1.52635862765615e-08,NO
+technology,black race,questions human identity,0.0011280315848843,0.0254467651632194,NO
+technology,black race,entrepreneur,0.0011280315848843,0.0025343082003758,NO
+technology,black race,frustrated with himself,0.0011280315848843,0.03241676152542,NO
+technology,black race,connects to heritage,0.0011280315848843,4.129264054830313e-05,NO
+technology,black race,appreciates wilderness,0.0005640157924421,0.0344024240210749,NO
+technology,black race,seeks solitude in nature,0.0005640157924421,0.0369257104328375,NO
+technology,black race,values legacy,0.0005640157924421,0.0382850522948031,NO
+technology,black race,improvises,0.0005640157924421,0.0097276010829321,NO
+technology,black race,experiences technical difficulties,0.0005640157924421,0.0028068420532153,NO
+technology,black race,technically expert,0.0005640157924421,0.0112363920573612,NO
+technology,white race,brilliant,0.0177619893428063,4.027892957334336e-08,NO
+technology,white race,reclusive,0.0106571936056838,1.52635862765615e-08,NO
+technology,white race,software engineer,0.00947306098283,0.0202310631607236,NO
+technology,white race,works in Silicon Valley,0.0059206631142687,0.0141087465240205,NO
+technology,white race,robotics engineer,0.0059206631142687,0.0127134015970892,NO
+technology,white race,experiences excitement,0.0053285968028419,0.0149631495219021,NO
+technology,white race,frustrated with himself,0.0041444641799881,0.03241676152542,NO
+technology,white race,questions human identity,0.0035523978685612,0.0254467651632194,NO
+technology,white race,faces skepticism from colleagues,0.0035523978685612,0.0254467651632194,NO
+technology,white race,seeks solitude in nature,0.0035523978685612,0.0369257104328375,NO
+technology,white race,experiences technical difficulties,0.0029603315571343,0.0028068420532153,NO
+technology,white race,improvises,0.0029603315571343,0.0097276010829321,NO
+technology,white race,creates AI-powered prosthetic,0.0029603315571343,0.0493305017071854,NO
+technology,white race,encounters a digital doppelgänger,0.0029603315571343,0.0218703950076187,NO
+technology,white race,focused on accessibility,0.0023682652457075,0.000298770300191,NO
+technology,white race,appreciates wilderness,0.0023682652457075,0.0344024240210749,NO
+technology,white race,works late,0.0023682652457075,0.0310426206251276,NO
+technology,white race,troubleshooting computer issues,0.0023682652457075,0.0344024240210749,NO
+technology,white race,explains global impact of her invention,0.0023682652457075,0.0344024240210749,NO
+technology,white race,uses coffee while working,0.0017761989342806,0.0289181193961657,NO
+technology,white race,questions self-awareness,0.0017761989342806,0.0289181193961657,NO
+technology,white race,passionate hiker,0.0017761989342806,0.0289181193961657,NO
+technology,white race,sits cross-legged on a blanket,0.0017761989342806,0.0289181193961657,NO
+technology,white race,expresses artistically,0.0017761989342806,0.0289181193961657,NO
+technology,white race,works with university network systems,0.0017761989342806,0.0289181193961657,NO
+technology,white race,receives significant investment,0.0017761989342806,0.0289181193961657,NO
+technology,white race,brilliant astrophysicist,0.0017761989342806,0.0289181193961657,NO
+technology,white race,works on solar panel design,0.0011841326228537,0.0070455872719362,NO
+technology,white race,focuses on neural network models,0.0005920663114268,0.0112363920573612,NO
+technology,white race,advocates for diversity,0.0005920663114268,0.0007488968065726,NO
+technology,white race,introspective,0.0005920663114268,0.0008842955565803,NO
+technology,white race,wears worn clothing,0.0005920663114268,0.0368913716739852,NO
+technology,white race,acknowledges cultural nuances,0.0005920663114268,0.0254467651632194,NO
+technology,white race,young,0.0005920663114268,5.706005176456964e-06,NO
+technology,white race,American,0.0005920663114268,0.0001636094603933,NO
+technology,white race,works internationally,0.0005920663114268,0.0097276010829321,NO
+technology,white race,open to inspiration,0.0005920663114268,0.0368913716739852,NO
+technology,middle-east race,Emirati,0.014623172103487,2.820270612732062e-17,NO
+technology,middle-east race,problem-solver,0.0123734533183352,0.0079510879402978,NO
+technology,middle-east race,innovator in medical technology,0.0118110236220472,0.0259231779704205,NO
+technology,middle-east race,from a Middle Eastern city,0.0112485939257592,3.136644165574726e-13,NO
+technology,middle-east race,software engineer,0.0112485939257592,0.0202310631607236,NO
+technology,middle-east race,maintains composure under pressure,0.0084364454443194,0.0126462495148371,NO
+technology,middle-east race,entrepreneur,0.0084364454443194,0.0025343082003758,NO
+technology,middle-east race,innovative,0.0073115860517435,0.0046093238420255,NO
+technology,middle-east race,tech-savvy,0.0073115860517435,0.0005138786886588,NO
+technology,middle-east race,connected to Arab world,0.0067491563554555,5.998275048540603e-08,NO
+technology,middle-east race,traditional attire,0.0061867266591676,2.674544855106796e-07,NO
+technology,middle-east race,connects to heritage,0.0056242969628796,4.129264054830313e-05,NO
+technology,middle-east race,bridges cultural divides,0.0050618672665916,0.0016488744996942,NO
+technology,middle-east race,young,0.0044994375703037,5.706005176456964e-06,NO
+technology,middle-east race,focused on clean water access,0.0039370078740157,0.0142559077465838,NO
+technology,middle-east race,values legacy,0.0039370078740157,0.0382850522948031,NO
+technology,middle-east race,acknowledges cultural nuances,0.0033745781777277,0.0254467651632194,NO
+technology,middle-east race,technically expert,0.0033745781777277,0.0112363920573612,NO
+technology,middle-east race,focused on agricultural technology,0.0033745781777277,0.0101557268759942,NO
+technology,middle-east race,proud,0.0033745781777277,0.0223784084614713,NO
+technology,middle-east race,works on solar panel design,0.0033745781777277,0.0070455872719362,NO
+technology,middle-east race,works internationally,0.0028121484814398,0.0097276010829321,NO
+technology,middle-east race,brilliant,0.0028121484814398,4.027892957334336e-08,NO
+technology,middle-east race,contributes to real-world water conservation solutions,0.0028121484814398,0.00175075130225,NO
+technology,middle-east race,wears worn clothing,0.0028121484814398,0.0368913716739852,NO
+technology,middle-east race,creates water purification system,0.0028121484814398,0.0097276010829321,NO
+technology,middle-east race,blends traditional craftsmanship with modern engineering,0.0022497187851518,0.0344024240210749,NO
+technology,middle-east race,envisions regional impact of innovations,0.0022497187851518,0.007213129162552,NO
+technology,middle-east race,part of Team UAE,0.0022497187851518,0.007213129162552,NO
+technology,middle-east race,wears traditional abaya,0.0022497187851518,0.007213129162552,NO
+technology,middle-east race,connected to desert traditions,0.0022497187851518,0.007213129162552,NO
+technology,middle-east race,committed to helping desert communities,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,mission-driven,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,works late,0.0016872890888638,0.0310426206251276,NO
+technology,middle-east race,driven to advance Middle Eastern recognition in tech,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,connects East and West,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,inspired by potential solutions for arid region farming,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,represents his country,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,from South Africa,0.0016872890888638,0.028302058991948,NO
+technology,middle-east race,shaped by ancestral stories,0.0016872890888638,0.0289181193961657,NO
+technology,middle-east race,focuses on neural network models,0.0005624296962879,0.0112363920573612,NO
+technology,middle-east race,works in Silicon Valley,0.0005624296962879,0.0141087465240205,NO
+technology,middle-east race,takes initiative,0.0005624296962879,0.0344024240210749,NO
+technology,middle-east race,troubleshooting computer issues,0.0005624296962879,0.0344024240210749,NO
+technology,middle-east race,secretive,0.0005624296962879,0.0344024240210749,NO
+technology,middle-east race,explains global impact of her invention,0.0005624296962879,0.0344024240210749,NO
+technology,middle-east race,rising star,0.0005624296962879,0.0344024240210749,NO
+technology,middle-east race,open to inspiration,0.0005624296962879,0.0368913716739852,NO
+technology,middle-east race,focused on accessibility,0.0005624296962879,0.000298770300191,NO
+technology,middle-east race,works in male-dominated tech,0.0005624296962879,0.0344024240210749,NO
+technology,asian race,maintains composure under pressure,0.0109409190371991,0.0126462495148371,NO
+technology,asian race,introspective,0.0065645514223194,0.0008842955565803,NO
+technology,asian race,problem-solver,0.0065645514223194,0.0079510879402978,NO
+technology,asian race,experiences technical difficulties,0.0065645514223194,0.0028068420532153,NO
+technology,asian race,entrepreneur,0.0054704595185995,0.0025343082003758,NO
+technology,asian race,innovator in medical technology,0.0049234135667396,0.0259231779704205,NO
+technology,asian race,works late,0.0043763676148796,0.0310426206251276,NO
+technology,asian race,experiences excitement,0.0038293216630196,0.0149631495219021,NO
+technology,asian race,focuses on neural network models,0.0032822757111597,0.0112363920573612,NO
+technology,asian race,industrial designer,0.0027352297592997,0.028302058991948,NO
+technology,asian race,focused on agricultural technology,0.0027352297592997,0.0101557268759942,NO
+technology,asian race,works in Silicon Valley,0.0027352297592997,0.0141087465240205,NO
+technology,asian race,open to inspiration,0.0027352297592997,0.0368913716739852,NO
+technology,asian race,secretive,0.0021881838074398,0.0344024240210749,NO
+technology,asian race,tech-savvy,0.0021881838074398,0.0005138786886588,NO
+technology,asian race,innovative,0.0021881838074398,0.0046093238420255,NO
+technology,asian race,creates AI-powered prosthetic,0.0021881838074398,0.0493305017071854,NO
+technology,asian race,intellectually curious,0.0016411378555798,0.0289181193961657,NO
+technology,asian race,seeks solitude in nature,0.0016411378555798,0.0369257104328375,NO
+technology,asian race,faces team instability,0.0016411378555798,0.0289181193961657,NO
+technology,asian race,frustrated with himself,0.0016411378555798,0.03241676152542,NO
+technology,asian race,works in materials science,0.0016411378555798,0.0289181193961657,NO
+technology,asian race,reclusive,0.0010940919037199,1.52635862765615e-08,NO
+technology,asian race,values legacy,0.0010940919037199,0.0382850522948031,NO
+technology,asian race,advocates for diversity,0.0010940919037199,0.0007488968065726,NO
+technology,asian race,encounters a digital doppelgänger,0.0010940919037199,0.0218703950076187,NO
+technology,asian race,robotics engineer,0.0005470459518599,0.0127134015970892,NO
+technology,asian race,blends traditional craftsmanship with modern engineering,0.0005470459518599,0.0344024240210749,NO
+technology,asian race,proud,0.0005470459518599,0.0223784084614713,NO
+technology,asian race,wears worn clothing,0.0005470459518599,0.0368913716739852,NO
+technology,asian race,technically expert,0.0005470459518599,0.0112363920573612,NO
+technology,asian race,bridges cultural divides,0.0005470459518599,0.0016488744996942,NO
+technology,asian race,focused on clean water access,0.0005470459518599,0.0142559077465838,NO
+technology,asian race,creates water purification system,0.0005470459518599,0.0097276010829321,NO
+technology,asian race,faces skepticism from colleagues,0.0005470459518599,0.0254467651632194,NO
+technology,asian race,questions human identity,0.0005470459518599,0.0254467651632194,NO
+media,black race,investigates police brutality,0.0138740661686232,5.8498855642286016e-12,NO
+media,black race,promotes diversity and inclusion,0.0133404482390608,1.4175119014435431e-08,NO
+media,black race,determined,0.0101387406616862,0.0416519760796672,NO
+media,black race,focused on social justice,0.0090715048025613,3.1450479815769335e-07,NO
+media,black race,young,0.0080042689434365,0.0019588763663513,NO
+media,black race,discusses amplifying marginalized voices,0.0080042689434365,2.243902700250546e-07,NO
+media,black race,dedicated to meaningful change,0.0064034151547491,4.274900571418811e-05,NO
+media,black race,considers systemic racism,0.0064034151547491,2.583797544527009e-06,NO
+media,black race,involved in communications about systemic oppression,0.0058697972251867,0.0017210506757907,NO
+media,black race,skilled printer,0.0058697972251867,0.0300143072490486,NO
+media,black race,talented,0.0053361792956243,0.0054949343485738,NO
+media,black race,navigates racial dynamics,0.0042689434364994,0.0070918176124721,NO
+media,black race,draws inspiration from traditional African art,0.0042689434364994,0.0005899963076549,NO
+media,black race,resilient,0.003735325506937,0.0166312221163763,NO
+media,black race,courageous,0.003735325506937,0.0073734694759384,NO
+media,black race,dedicated to representation,0.003735325506937,0.0382850522948031,NO
+media,black race,civil rights activist,0.003735325506937,0.0094082546332546,NO
+media,black race,challenges stereotypes,0.0032017075773745,0.0389772203611003,NO
+media,black race,American,0.0032017075773745,0.0070455872719362,NO
+media,black race,European descent,0.0032017075773745,0.0014288702996406,NO
+media,black race,Ghanaian,0.0032017075773745,0.0004168239355818,NO
+media,black race,experienced,0.0026680896478121,0.0246074752701916,NO
+media,black race,aspires to work in diversity initiatives,0.0026680896478121,0.0097276010829321,NO
+media,black race,of European heritage,0.0026680896478121,0.0107005091291726,NO
+media,black race,storyteller,0.0026680896478121,0.0382850522948031,NO
+media,black race,driven by storytelling,0.0026680896478121,0.0097276010829321,NO
+media,black race,collaborates in pursuit of justice,0.0026680896478121,0.0368913716739852,NO
+media,black race,uses a platform to raise awareness,0.0026680896478121,0.0097276010829321,NO
+media,black race,interacts with protesters,0.0026680896478121,0.0218703950076187,NO
+media,black race,engages with cultural sensitivity,0.0021344717182497,0.0288903431091756,NO
+media,black race,examines personal biases,0.0021344717182497,0.0254467651632194,NO
+media,black race,passionate about African folklore,0.0021344717182497,0.007213129162552,NO
+media,black race,has pale skin,0.0021344717182497,0.0254467651632194,NO
+media,black race,proofreader,0.0021344717182497,0.0344024240210749,NO
+media,black race,faces rejection,0.0016008537886872,0.0289181193961657,NO
+media,black race,proud,0.0016008537886872,0.0289181193961657,NO
+media,black race,works in predominantly white environment,0.0016008537886872,0.0289181193961657,NO
+media,black race,unites people,0.0016008537886872,0.0289181193961657,NO
+media,black race,inspires young Black girls,0.0016008537886872,0.0289181193961657,NO
+media,black race,sets type by hand,0.0016008537886872,0.0289181193961657,NO
+media,black race,strategic thinker,0.0010672358591248,0.0106900812345234,NO
+media,black race,white,0.0010672358591248,0.0070455872719362,NO
+media,black race,explores Japanese culture,0.0005336179295624,0.0368913716739852,NO
+media,black race,works in Tokyo,0.0005336179295624,0.0279355682084935,NO
+media,black race,acts cautiously,0.0005336179295624,0.0344024240210749,NO
+media,black race,from Nigeria,0.0005336179295624,1.3326878616534315e-09,NO
+media,black race,knowledgeable about international affairs,0.0005336179295624,0.0368913716739852,NO
+media,black race,North African,0.0005336179295624,0.0344024240210749,NO
+media,black race,confronts personal privilege,0.0005336179295624,0.0344024240210749,NO
+media,white race,under pressure,0.009253903990746,0.0011119786921631,NO
+media,white race,diligent,0.0069404279930595,0.0032250960930033,NO
+media,white race,works under deadline pressure,0.004626951995373,0.019567071700944,NO
+media,white race,anxious,0.004626951995373,0.0120538323203865,NO
+media,white race,investigates police brutality,0.0034702139965297,5.8498855642286016e-12,NO
+media,white race,receives message from friend,0.0028918449971081,0.00175075130225,NO
+media,white race,reclusive,0.0028918449971081,0.00175075130225,NO
+media,white race,promotes diversity and inclusion,0.0028918449971081,1.4175119014435431e-08,NO
+media,white race,examines personal biases,0.0028918449971081,0.0254467651632194,NO
+media,white race,seasoned,0.0023134759976865,0.044642569654506,NO
+media,white race,identifies ethical concerns,0.0023134759976865,0.0344024240210749,NO
+media,white race,talented,0.0023134759976865,0.0054949343485738,NO
+media,white race,challenges stereotypes,0.0023134759976865,0.0389772203611003,NO
+media,white race,from rural Oregon,0.0023134759976865,0.0344024240210749,NO
+media,white race,female,0.0023134759976865,0.007213129162552,NO
+media,white race,involved in communications about systemic oppression,0.0023134759976865,0.0017210506757907,NO
+media,white race,confronts personal privilege,0.0023134759976865,0.0344024240210749,NO
+media,white race,navigates racial dynamics,0.0023134759976865,0.0070918176124721,NO
+media,white race,skilled printer,0.0023134759976865,0.0300143072490486,NO
+media,white race,dedicated to meaningful change,0.0017351069982648,4.274900571418811e-05,NO
+media,white race,deals with technical disruptions during meetings,0.0017351069982648,0.0289181193961657,NO
+media,white race,dedicated to representation,0.0011567379988432,0.0382850522948031,NO
+media,white race,American,0.0011567379988432,0.0070455872719362,NO
+media,white race,interacts with protesters,0.0011567379988432,0.0218703950076187,NO
+media,white race,adaptable,0.0011567379988432,0.0173491486006342,NO
+media,white race,considers systemic racism,0.0011567379988432,2.583797544527009e-06,NO
+media,white race,discusses amplifying marginalized voices,0.0011567379988432,2.243902700250546e-07,NO
+media,white race,reflective,0.0011567379988432,0.0394166561997174,NO
+media,white race,explores Japanese culture,0.0005783689994216,0.0368913716739852,NO
+media,white race,determined,0.0005783689994216,0.0416519760796672,NO
+media,white race,works in high-stakes environment,0.0005783689994216,0.0050260537657802,NO
+media,white race,collaborates in pursuit of justice,0.0005783689994216,0.0368913716739852,NO
+media,white race,focused on social justice,0.0005783689994216,3.1450479815769335e-07,NO
+media,white race,civil rights activist,0.0005783689994216,0.0094082546332546,NO
+media,white race,tech industry,0.0005783689994216,0.0133451407411656,NO
+media,white race,uses a platform to raise awareness,0.0005783689994216,0.0097276010829321,NO
+media,white race,aspires to work in diversity initiatives,0.0005783689994216,0.0097276010829321,NO
+media,middle-east race,under pressure,0.0138169257340241,0.0011119786921631,NO
+media,middle-east race,from Nigeria,0.0092112838226827,1.3326878616534315e-09,NO
+media,middle-east race,engages with cultural sensitivity,0.0080598733448474,0.0288903431091756,NO
+media,middle-east race,courageous,0.005181347150259,0.0073734694759384,NO
+media,middle-east race,strategic thinker,0.0046056419113413,0.0106900812345234,NO
+media,middle-east race,works in high-stakes environment,0.0046056419113413,0.0050260537657802,NO
+media,middle-east race,of European heritage,0.0046056419113413,0.0107005091291726,NO
+media,middle-east race,adaptable,0.0046056419113413,0.0173491486006342,NO
+media,middle-east race,storyteller,0.0040299366724237,0.0382850522948031,NO
+media,middle-east race,collaborates internationally,0.0040299366724237,0.0020984140454443,NO
+media,middle-east race,reflective,0.0040299366724237,0.0394166561997174,NO
+media,middle-east race,diligent,0.003454231433506,0.0032250960930033,NO
+media,middle-east race,calligrapher,0.003454231433506,0.0101557268759942,NO
+media,middle-east race,knowledgeable about international affairs,0.0028785261945883,0.0368913716739852,NO
+media,middle-east race,determined,0.0023028209556706,0.0416519760796672,NO
+media,middle-east race,North African,0.0023028209556706,0.0344024240210749,NO
+media,middle-east race,seasoned,0.0023028209556706,0.044642569654506,NO
+media,middle-east race,knowledgeable,0.0023028209556706,0.007213129162552,NO
+media,middle-east race,investigates corporate theft,0.0023028209556706,0.0293677722730939,NO
+media,middle-east race,focuses on Middle East press issues,0.0023028209556706,0.007213129162552,NO
+media,middle-east race,articulate,0.0023028209556706,0.0344024240210749,NO
+media,middle-east race,focused on Arab cultural heritage,0.0023028209556706,0.007213129162552,NO
+media,middle-east race,wears headscarf,0.0023028209556706,0.007213129162552,NO
+media,middle-east race,promotes traditional manuscript reproduction,0.0023028209556706,0.007213129162552,NO
+media,middle-east race,integrates Arab sensibilities into global campaigns,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,wears traditional Qatari attire,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,talented,0.001727115716753,0.0054949343485738,NO
+media,middle-east race,promotes diversity and inclusion,0.001727115716753,1.4175119014435431e-08,NO
+media,middle-east race,from Riyadh,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,performer,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,focuses on Middle Eastern resistance history,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,immersed in Middle Eastern culture,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,works on Middle Eastern-themed film,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,focuses on Middle Eastern talent,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,inspired by refugee struggles,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,works in politically volatile settings,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,preserves traditional Arabic typography,0.001727115716753,0.0289181193961657,NO
+media,middle-east race,works under deadline pressure,0.0011514104778353,0.019567071700944,NO
+media,middle-east race,young,0.0011514104778353,0.0019588763663513,NO
+media,middle-east race,draws inspiration from traditional African art,0.0011514104778353,0.0005899963076549,NO
+media,middle-east race,European descent,0.0005757052389176,0.0014288702996406,NO
+media,middle-east race,experienced,0.0005757052389176,0.0246074752701916,NO
+media,middle-east race,discusses amplifying marginalized voices,0.0005757052389176,2.243902700250546e-07,NO
+media,middle-east race,dedicated to meaningful change,0.0005757052389176,4.274900571418811e-05,NO
+media,middle-east race,dedicated to representation,0.0005757052389176,0.0382850522948031,NO
+media,middle-east race,navigates racial dynamics,0.0005757052389176,0.0070918176124721,NO
+media,middle-east race,proofreader,0.0005757052389176,0.0344024240210749,NO
+media,asian race,under pressure,0.0128133704735376,0.0011119786921631,NO
+media,asian race,diligent,0.0122562674094707,0.0032250960930033,NO
+media,asian race,strategic thinker,0.0061281337047353,0.0106900812345234,NO
+media,asian race,works under deadline pressure,0.0061281337047353,0.019567071700944,NO
+media,asian race,experienced,0.0061281337047353,0.0246074752701916,NO
+media,asian race,investigates corporate theft,0.0050139275766016,0.0293677722730939,NO
+media,asian race,anxious,0.0044568245125348,0.0120538323203865,NO
+media,asian race,tech industry,0.0044568245125348,0.0133451407411656,NO
+media,asian race,skilled printer,0.0038997214484679,0.0300143072490486,NO
+media,asian race,resilient,0.0033426183844011,0.0166312221163763,NO
+media,asian race,works in Tokyo,0.0033426183844011,0.0279355682084935,NO
+media,asian race,explores Japanese culture,0.0027855153203342,0.0368913716739852,NO
+media,asian race,calligrapher,0.0027855153203342,0.0101557268759942,NO
+media,asian race,engages with cultural sensitivity,0.0022284122562674,0.0288903431091756,NO
+media,asian race,adaptable,0.0022284122562674,0.0173491486006342,NO
+media,asian race,acts cautiously,0.0022284122562674,0.0344024240210749,NO
+media,asian race,reflective,0.0022284122562674,0.0394166561997174,NO
+media,asian race,attends high-stakes meeting,0.0016713091922005,0.0289181193961657,NO
+media,asian race,works in high-stakes environment,0.0016713091922005,0.0050260537657802,NO
+media,asian race,intuitive,0.0016713091922005,0.0289181193961657,NO
+media,asian race,absorbed in creative work,0.0016713091922005,0.0289181193961657,NO
+media,asian race,uses a notebook,0.0016713091922005,0.0289181193961657,NO
+media,asian race,works independently,0.0016713091922005,0.0289181193961657,NO
+media,asian race,uses traditional tools,0.0016713091922005,0.0289181193961657,NO
+media,asian race,receives recognition from global tech leaders,0.0016713091922005,0.0289181193961657,NO
+media,asian race,collaborates internationally,0.0011142061281337,0.0020984140454443,NO
+media,asian race,courageous,0.0011142061281337,0.0073734694759384,NO
+media,asian race,storyteller,0.0011142061281337,0.0382850522948031,NO
+media,asian race,young,0.0005571030640668,0.0019588763663513,NO
+media,asian race,challenges stereotypes,0.0005571030640668,0.0389772203611003,NO
+media,asian race,involved in communications about systemic oppression,0.0005571030640668,0.0017210506757907,NO
+media,asian race,identifies ethical concerns,0.0005571030640668,0.0344024240210749,NO
+media,asian race,collaborates in pursuit of justice,0.0005571030640668,0.0368913716739852,NO
+media,asian race,investigates police brutality,0.0005571030640668,5.8498855642286016e-12,NO
+media,asian race,knowledgeable about international affairs,0.0005571030640668,0.0368913716739852,NO
+media,asian race,articulate,0.0005571030640668,0.0344024240210749,NO
+media,asian race,driven by storytelling,0.0005571030640668,0.0097276010829321,NO
+media,asian race,from rural Oregon,0.0005571030640668,0.0344024240210749,NO
+economics,black race,entrepreneur,0.0248520710059171,0.000378298701927,NO
+economics,black race,determined,0.0224852071005917,0.0171039026001078,NO
+economics,black race,young,0.0118343195266272,0.0004499526328066,NO
+economics,black race,skilled negotiator,0.0094674556213017,0.0095976080485668,NO
+economics,black race,aware of racial inequality,0.0071005917159763,0.0244366643215642,NO
+economics,black race,competitive,0.0059171597633136,0.0358590264470002,NO
+economics,black race,aspires to homeownership in the suburbs,0.0047337278106508,0.0372887048838721,NO
+economics,black race,artist,0.0035502958579881,0.0285476984337954,NO
+economics,black race,strategic decision-maker,0.0035502958579881,0.0128542833185177,NO
+economics,black race,proud,0.0035502958579881,0.0285476984337954,NO
+economics,black race,focused on family obligations,0.0011834319526627,2.827425792956172e-06,NO
+economics,black race,connects emotionally with environment,0.0011834319526627,0.0094082546332546,NO
+economics,white race,considers financial decisions,0.0226666666666666,0.000695906212059,NO
+economics,white race,aspires to homeownership in the suburbs,0.008,0.0372887048838721,NO
+economics,white race,connects emotionally with environment,0.0066666666666666,0.0094082546332546,NO
+economics,white race,experiences panic,0.0053333333333333,0.0070455872719362,NO
+economics,white race,present during 9/11 rescue efforts,0.0053333333333333,0.0070455872719362,NO
+economics,white race,visits the World Trade Center site,0.0053333333333333,0.0070455872719362,NO
+economics,white race,experiences external chaos,0.004,0.0285476984337954,NO
+economics,white race,emotionally conflicted,0.004,0.0285476984337954,NO
+economics,white race,stands frozen in crisis,0.004,0.0285476984337954,NO
+economics,white race,reflects on September 11th,0.004,0.0285476984337954,NO
+economics,white race,aware of racial inequality,0.0026666666666666,0.0244366643215642,NO
+economics,white race,young professional,0.0013333333333333,0.0337014530935018,NO
+economics,white race,competitive,0.0013333333333333,0.0358590264470002,NO
+economics,white race,young,0.0013333333333333,0.0004499526328066,NO
+economics,white race,concerned about family business,0.0013333333333333,0.0462433344063451,NO
+economics,middle-east race,focused on family obligations,0.0236406619385342,2.827425792956172e-06,NO
+economics,middle-east race,entrepreneur,0.0200945626477541,0.000378298701927,NO
+economics,middle-east race,skilled negotiator,0.0153664302600472,0.0095976080485668,NO
+economics,middle-east race,strategic decision-maker,0.0153664302600472,0.0128542833185177,NO
+economics,middle-east race,concerned about family business,0.0082742316784869,0.0462433344063451,NO
+economics,middle-east race,determined,0.0082742316784869,0.0171039026001078,NO
+economics,middle-east race,from Saudi Arabia,0.0082742316784869,9.073376585817198e-05,NO
+economics,middle-east race,considers financial decisions,0.0082742316784869,0.000695906212059,NO
+economics,middle-east race,blends tradition with modernity,0.0082742316784869,0.0006165629946559,NO
+economics,middle-east race,Emirati-born,0.0070921985815602,0.0003947283833771,NO
+economics,middle-east race,wears traditional modest clothing,0.0059101654846335,0.0016865695024641,NO
+economics,middle-east race,connected to a Middle Eastern oil company,0.0047281323877068,0.0070455872719362,NO
+economics,middle-east race,deposited inheritance,0.0035460992907801,0.0285476984337954,NO
+economics,middle-east race,desperate,0.0035460992907801,0.0285476984337954,NO
+economics,middle-east race,serves local and international clients,0.0035460992907801,0.0285476984337954,NO
+economics,middle-east race,young,0.0035460992907801,0.0004499526328066,NO
+economics,asian race,considers financial decisions,0.0123456790123456,0.000695906212059,NO
+economics,asian race,entrepreneur,0.0123456790123456,0.000378298701927,NO
+economics,asian race,skilled negotiator,0.0123456790123456,0.0095976080485668,NO
+economics,asian race,concerned about family business,0.0061728395061728,0.0462433344063451,NO
+economics,asian race,young professional,0.0049382716049382,0.0337014530935018,NO
+economics,asian race,determined,0.0037037037037037,0.0171039026001078,NO
+economics,asian race,strategic decision-maker,0.0037037037037037,0.0128542833185177,NO
+economics,asian race,aspires to homeownership in the suburbs,0.0012345679012345,0.0372887048838721,NO
+economics,asian race,blends tradition with modernity,0.0012345679012345,0.0006165629946559,NO
+economics,asian race,competitive,0.0012345679012345,0.0358590264470002,NO
+economics,asian race,aware of racial inequality,0.0012345679012345,0.0244366643215642,NO
+law policy,black race,reflects on systemic racism,0.0219275879653238,1.0156456510159276e-16,NO
+law policy,black race,focuses on justice,0.0152983171851096,0.000209157872132,NO
+law policy,black race,determined,0.012748597654258,0.0006182831030803,NO
+law policy,black race,resilient,0.0101988781234064,3.530850281368338e-05,NO
+law policy,black race,advocates for minority voting rights,0.0091789903110657,0.0013078492204078,NO
+law policy,black race,hesitant,0.0091789903110657,0.0051849743375295,NO
+law policy,black race,young,0.0081591024987251,0.0001275116563362,NO
+law policy,black race,white ally in civil rights movement,0.0050994390617032,0.0001164670736031,NO
+law policy,black race,seeks transformative change,0.0045894951555328,0.0101900225481277,NO
+law policy,black race,family-oriented,0.0045894951555328,0.0008996400879962,NO
+law policy,black race,connected to ancestral homeland,0.0045894951555328,0.0019905117397307,NO
+law policy,black race,emotionally connected to racial issues,0.0040795512493625,0.0026010135570053,NO
+law policy,black race,refugee from Sudan,0.0040795512493625,0.0002159606798669,NO
+law policy,black race,eyewitness to police brutality,0.0040795512493625,0.0069352714439484,NO
+law policy,black race,Nigerian,0.0040795512493625,2.2918949774504412e-05,NO
+law policy,black race,facing eviction,0.0040795512493625,0.0451982669448175,NO
+law policy,black race,opposes police brutality,0.0035696073431922,0.0200920511403036,NO
+law policy,black race,reflects on family legacy of activism,0.0035696073431922,0.0401297963768751,NO
+law policy,black race,aware of civil rights history,0.0030596634370219,0.0112363920573612,NO
+law policy,black race,advocate for racial equality,0.0030596634370219,0.0112363920573612,NO
+law policy,black race,advocate for indigenous communities,0.0030596634370219,0.0102242293943198,NO
+law policy,black race,confronts cultural complexities in promoting justice,0.0030596634370219,0.0370914360236279,NO
+law policy,black race,stands tall,0.0030596634370219,0.0004193359677339,NO
+law policy,black race,concerned with corruption,0.0030596634370219,0.007043729325957,NO
+law policy,black race,patiently waits in line,0.0030596634370219,0.0325982395467886,NO
+law policy,black race,advocates for affordable education,0.0020397756246812,0.0344807255367487,NO
+law policy,black race,politically active,0.0020397756246812,0.0447938357405846,NO
+law policy,black race,hopeful,0.0020397756246812,0.0296179503902634,NO
+law policy,black race,experiences emotional pain,0.0020397756246812,0.0479173208567331,NO
+law policy,black race,challenges systemic indifference,0.0020397756246812,0.0344807255367487,NO
+law policy,black race,committed armed robbery,0.0020397756246812,0.0447938357405846,NO
+law policy,black race,fears racial bias,0.0015298317185109,0.0289594222716985,NO
+law policy,black race,connects personal history to justice,0.0015298317185109,0.0289594222716985,NO
+law policy,black race,seeks asylum,0.0015298317185109,8.762717411324615e-05,NO
+law policy,black race,socially engaged,0.0015298317185109,0.0289594222716985,NO
+law policy,black race,present in courthouse,0.0010198878123406,0.0255602867828042,NO
+law policy,black race,receives disability compensation,0.0010198878123406,0.0070826041037828,NO
+law policy,black race,persistent,0.0005099439061703,0.0015387125901515,NO
+law policy,black race,pale skin,0.0005099439061703,0.0344807255367487,NO
+law policy,black race,speaks about environmental policies,0.0005099439061703,0.0325982395467886,NO
+law policy,black race,wears traditional African print shirt,0.0005099439061703,0.0097634847533103,NO
+law policy,black race,detective,0.0005099439061703,0.0097634847533103,NO
+law policy,black race,emotionally affected by past,0.0005099439061703,0.0344807255367487,NO
+law policy,white race,hesitant,0.0133475707421249,0.0051849743375295,NO
+law policy,white race,anxious,0.0069407367859049,0.0008526657537226,NO
+law policy,white race,reflects on systemic racism,0.0064068339562199,1.0156456510159276e-16,NO
+law policy,white race,reflects on childhood experiences,0.0053390282968499,0.0178809483931278,NO
+law policy,white race,reflects on family legacy of activism,0.0042712226374799,0.0401297963768751,NO
+law policy,white race,facing eviction,0.0042712226374799,0.0451982669448175,NO
+law policy,white race,advocates for minority voting rights,0.0032034169781099,0.0013078492204078,NO
+law policy,white race,speaks about environmental policies,0.0032034169781099,0.0325982395467886,NO
+law policy,white race,passionate about climate change,0.0032034169781099,0.0004193359677339,NO
+law policy,white race,present in courthouse,0.0032034169781099,0.0255602867828042,NO
+law policy,white race,experiences emotional pain,0.0032034169781099,0.0479173208567331,NO
+law policy,white race,receives disability compensation,0.0032034169781099,0.0070826041037828,NO
+law policy,white race,advocate for indigenous communities,0.0026695141484249,0.0102242293943198,NO
+law policy,white race,patiently waits in line,0.0026695141484249,0.0325982395467886,NO
+law policy,white race,observes political tensions,0.0021356113187399,0.0011218824848607,NO
+law policy,white race,newly appointed,0.0021356113187399,0.0344807255367487,NO
+law policy,white race,crisis diplomacy,0.0021356113187399,0.0344807255367487,NO
+law policy,white race,committed armed robbery,0.0021356113187399,0.0447938357405846,NO
+law policy,white race,testifies on climate legislation,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,aware of civil rights history,0.0016017084890549,0.0112363920573612,NO
+law policy,white race,reads old letter,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,immigrant background,0.0016017084890549,3.424640073479968e-07,NO
+law policy,white race,experiences chronic illness,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,nervously awaits background check,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,refugee from Sudan,0.0016017084890549,0.0002159606798669,NO
+law policy,white race,advocate for racial equality,0.0016017084890549,0.0112363920573612,NO
+law policy,white race,confronts cultural complexities in promoting justice,0.0016017084890549,0.0370914360236279,NO
+law policy,white race,defending himself against embezzlement charges,0.0016017084890549,0.0004363135023384,NO
+law policy,white race,arrested for DUI,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,hardened lifer,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,interacts quietly with inmates,0.0016017084890549,0.0289594222716985,NO
+law policy,white race,emotionally connected to racial issues,0.0010678056593699,0.0026010135570053,NO
+law policy,white race,seeks permanent residence,0.0010678056593699,0.0069352714439484,NO
+law policy,white race,eyewitness to police brutality,0.0010678056593699,0.0069352714439484,NO
+law policy,white race,opposes police brutality,0.0010678056593699,0.0200920511403036,NO
+law policy,white race,seeks transformative change,0.0005339028296849,0.0101900225481277,NO
+law policy,white race,reflects on human trafficking research,0.0005339028296849,0.0280845936899705,NO
+law policy,white race,junior associate,0.0005339028296849,0.0344807255367487,NO
+law policy,white race,frantic,0.0005339028296849,0.0370069019019186,NO
+law policy,white race,smuggles documents,0.0005339028296849,0.0097634847533103,NO
+law policy,white race,challenges systemic indifference,0.0005339028296849,0.0344807255367487,NO
+law policy,middle-east race,determined,0.0213208528341133,0.0006182831030803,NO
+law policy,middle-east race,anxious,0.0171606864274571,0.0008526657537226,NO
+law policy,middle-east race,resilient,0.0150806032241289,3.530850281368338e-05,NO
+law policy,middle-east race,emotional,0.0109204368174727,0.0010211274076718,NO
+law policy,middle-east race,family-oriented,0.0093603744149766,0.0008996400879962,NO
+law policy,middle-east race,persistent,0.0083203328133125,0.0015387125901515,NO
+law policy,middle-east race,seeks asylum,0.0083203328133125,8.762717411324615e-05,NO
+law policy,middle-east race,refugee from Sudan,0.0083203328133125,0.0002159606798669,NO
+law policy,middle-east race,from a troubled homeland,0.0072802912116484,2.893779196083407e-07,NO
+law policy,middle-east race,hopeful,0.0072802912116484,0.0296179503902634,NO
+law policy,middle-east race,focuses on justice,0.0067602704108164,0.000209157872132,NO
+law policy,middle-east race,observes political tensions,0.0067602704108164,0.0011218824848607,NO
+law policy,middle-east race,speaks against deportation policies,0.0062402496099844,0.0034226414558122,NO
+law policy,middle-east race,Emirati,0.0062402496099844,6.14971558584997e-08,NO
+law policy,middle-east race,Palestinian,0.0052002080083203,1.2047926501448616e-06,NO
+law policy,middle-east race,desperate,0.0046801872074883,0.0080973001162391,NO
+law policy,middle-east race,young,0.0041601664066562,0.0001275116563362,NO
+law policy,middle-east race,of Yemeni descent,0.0041601664066562,2.2918949774504412e-05,NO
+law policy,middle-east race,immigrant background,0.0036401456058242,3.424640073479968e-07,NO
+law policy,middle-east race,resourceful,0.0036401456058242,0.0051700223148296,NO
+law policy,middle-east race,experiences displacement,0.0031201248049922,0.0004193359677339,NO
+law policy,middle-east race,wears traditional African print shirt,0.0026001040041601,0.0097634847533103,NO
+law policy,middle-east race,smuggles documents,0.0026001040041601,0.0097634847533103,NO
+law policy,middle-east race,defending himself against embezzlement charges,0.0026001040041601,0.0004363135023384,NO
+law policy,middle-east race,frantic,0.0026001040041601,0.0370069019019186,NO
+law policy,middle-east race,politically active,0.0020800832033281,0.0447938357405846,NO
+law policy,middle-east race,uncertain,0.0020800832033281,0.0344807255367487,NO
+law policy,middle-east race,involved in Gulf cooperation,0.0015600624024961,0.0289594222716985,NO
+law policy,middle-east race,connected to desert culture,0.0015600624024961,0.0289594222716985,NO
+law policy,middle-east race,believes in his truth,0.0015600624024961,0.028411102681708,NO
+law policy,middle-east race,committed to family,0.0015600624024961,0.0289594222716985,NO
+law policy,middle-east race,reflects on systemic racism,0.001040041601664,1.0156456510159276e-16,NO
+law policy,middle-east race,connected to ancestral homeland,0.001040041601664,0.0019905117397307,NO
+law policy,middle-east race,seeks permanent residence,0.001040041601664,0.0069352714439484,NO
+law policy,middle-east race,eyewitness to police brutality,0.001040041601664,0.0069352714439484,NO
+law policy,middle-east race,opposes police brutality,0.001040041601664,0.0200920511403036,NO
+law policy,middle-east race,calm,0.000520020800832,0.0344807255367487,NO
+law policy,middle-east race,patiently waits in line,0.000520020800832,0.0325982395467886,NO
+law policy,middle-east race,concerned with corruption,0.000520020800832,0.007043729325957,NO
+law policy,middle-east race,scientist,0.000520020800832,0.0344807255367487,NO
+law policy,middle-east race,crisis diplomacy,0.000520020800832,0.0344807255367487,NO
+law policy,asian race,determined,0.013803680981595,0.0006182831030803,NO
+law policy,asian race,immigrant background,0.0112474437627811,3.424640073479968e-07,NO
+law policy,asian race,hesitant,0.00920245398773,0.0051849743375295,NO
+law policy,asian race,resilient,0.0086912065439672,3.530850281368338e-05,NO
+law policy,asian race,anxious,0.0071574642126789,0.0008526657537226,NO
+law policy,asian race,defending himself against embezzlement charges,0.0066462167689161,0.0004363135023384,NO
+law policy,asian race,reflects on childhood experiences,0.0040899795501022,0.0178809483931278,NO
+law policy,asian race,concerned with corruption,0.0040899795501022,0.007043729325957,NO
+law policy,asian race,seeks permanent residence,0.0040899795501022,0.0069352714439484,NO
+law policy,asian race,hopeful,0.0040899795501022,0.0296179503902634,NO
+law policy,asian race,experiences emotional pain,0.0040899795501022,0.0479173208567331,NO
+law policy,asian race,persistent,0.0035787321063394,0.0015387125901515,NO
+law policy,asian race,speaks against deportation policies,0.0035787321063394,0.0034226414558122,NO
+law policy,asian race,reflects on human trafficking research,0.0030674846625766,0.0280845936899705,NO
+law policy,asian race,speaks about environmental policies,0.0025562372188139,0.0325982395467886,NO
+law policy,asian race,family-oriented,0.0025562372188139,0.0008996400879962,NO
+law policy,asian race,believes in his truth,0.0025562372188139,0.028411102681708,NO
+law policy,asian race,detective,0.0025562372188139,0.0097634847533103,NO
+law policy,asian race,scientist,0.0020449897750511,0.0344807255367487,NO
+law policy,asian race,reflects on family legacy of activism,0.0020449897750511,0.0401297963768751,NO
+law policy,asian race,advocates for minority voting rights,0.0020449897750511,0.0013078492204078,NO
+law policy,asian race,emotionally affected by past,0.0020449897750511,0.0344807255367487,NO
+law policy,asian race,calm,0.0020449897750511,0.0344807255367487,NO
+law policy,asian race,resourceful,0.0020449897750511,0.0051700223148296,NO
+law policy,asian race,junior associate,0.0020449897750511,0.0344807255367487,NO
+law policy,asian race,observes political tensions,0.0015337423312883,0.0011218824848607,NO
+law policy,asian race,facilitates cross-cultural dialogue,0.0015337423312883,0.0289594222716985,NO
+law policy,asian race,acts urgently,0.0015337423312883,0.0289594222716985,NO
+law policy,asian race,acts discreetly,0.0015337423312883,0.0289594222716985,NO
+law policy,asian race,facing eviction,0.0010224948875255,0.0451982669448175,NO
+law policy,asian race,emotional,0.0005112474437627,0.0010211274076718,NO
+law policy,asian race,young,0.0005112474437627,0.0001275116563362,NO
+law policy,asian race,advocates for affordable education,0.0005112474437627,0.0344807255367487,NO
+law policy,asian race,present in courthouse,0.0005112474437627,0.0255602867828042,NO
+law policy,asian race,seeks asylum,0.0005112474437627,8.762717411324615e-05,NO
+law policy,asian race,uncertain,0.0005112474437627,0.0344807255367487,NO
+law policy,asian race,seeks transformative change,0.0005112474437627,0.0101900225481277,NO
+law policy,asian race,newly appointed,0.0005112474437627,0.0344807255367487,NO
+law policy,asian race,emotionally connected to racial issues,0.0005112474437627,0.0026010135570053,NO
+law policy,asian race,frantic,0.0005112474437627,0.0370069019019186,NO
+law policy,asian race,confronts cultural complexities in promoting justice,0.0005112474437627,0.0370914360236279,NO
+environment,black race,encourages community engagement,0.0069182389937106,0.0233986369303605,NO
+environment,black race,young,0.0062893081761006,0.0003805027405416,NO
+environment,black race,observes injured animals,0.0062893081761006,2.316895895361228e-05,NO
+environment,black race,values cultural traditions,0.0044025157232704,0.0022970484733748,NO
+environment,black race,engages in cross-cultural bonding,0.0044025157232704,0.0054590972288159,NO
+environment,black race,Maasai,0.0044025157232704,9.77893539016564e-05,NO
+environment,black race,community-oriented,0.0037735849056603,1.1016485450072989e-05,NO
+environment,black race,confronts systemic racism,0.0031446540880503,0.00175075130225,NO
+environment,black race,leading researcher,0.0031446540880503,0.0257296596991788,NO
+environment,black race,studies animal behavior,0.0031446540880503,0.0097276010829321,NO
+environment,black race,connects heritage with modern goals,0.0025157232704402,0.0389772203611003,NO
+environment,black race,connected to agricultural heritage,0.0025157232704402,0.0005329534231138,NO
+environment,black race,advocate,0.0025157232704402,0.007213129162552,NO
+environment,black race,collaborates with glaciologists,0.0025157232704402,0.0221765680782105,NO
+environment,black race,symbol of conservation efforts,0.0025157232704402,0.0344024240210749,NO
+environment,black race,blends into environment,0.0025157232704402,0.0344024240210749,NO
+environment,black race,is emotionally connected to home,0.0018867924528301,0.0289181193961657,NO
+environment,black race,inspires others’ learning,0.0018867924528301,0.0289181193961657,NO
+environment,black race,inspires conversations about social justice,0.0018867924528301,0.0289181193961657,NO
+environment,black race,witnesses environmental disasters,0.0018867924528301,0.0289181193961657,NO
+environment,black race,Haitian,0.0018867924528301,0.0289181193961657,NO
+environment,black race,from South Africa,0.0018867924528301,0.0289181193961657,NO
+environment,black race,works with Black colleagues,0.0018867924528301,0.0289181193961657,NO
+environment,black race,studies rare plant species,0.0012578616352201,0.0218703950076187,NO
+environment,black race,resilient,0.0012578616352201,1.8698475704799895e-08,NO
+environment,black race,studies Arctic climate change,0.0012578616352201,0.0059417303969681,NO
+environment,black race,connected to history,0.00062893081761,0.0344024240210749,NO
+environment,black race,skilled in navigating dangerous terrain,0.00062893081761,0.0025878291972027,NO
+environment,black race,attuned to natural rhythms,0.00062893081761,0.0344024240210749,NO
+environment,black race,collaborator,0.00062893081761,0.0254467651632194,NO
+environment,white race,observes injured animals,0.0183299389002036,2.316895895361228e-05,NO
+environment,white race,collaborates with glaciologists,0.0061099796334012,0.0221765680782105,NO
+environment,white race,studies Arctic climate change,0.0054310930074677,0.0059417303969681,NO
+environment,white race,earns respect for sustainable practices,0.0033944331296673,0.0368913716739852,NO
+environment,white race,analyzes satellite imagery,0.0027155465037338,0.044642569654506,NO
+environment,white race,carries a camera,0.0027155465037338,0.007213129162552,NO
+environment,white race,encourages community engagement,0.0020366598778004,0.0233986369303605,NO
+environment,white race,studies melting fjords,0.0020366598778004,0.0289181193961657,NO
+environment,white race,considers human impact versus natural causes,0.0020366598778004,0.0289181193961657,NO
+environment,white race,feels guilt about personal environmental impact,0.0020366598778004,0.0289181193961657,NO
+environment,white race,open to finding new purpose,0.0020366598778004,0.0289181193961657,NO
+environment,white race,connected to agricultural heritage,0.0013577732518669,0.0005329534231138,NO
+environment,white race,responsive to sensory and emotional environments,0.0006788866259334,0.0089655866470854,NO
+environment,white race,creates strategies to combat poaching and habitat destruction,0.0006788866259334,0.0279355682084935,NO
+environment,white race,learns ancestral stories,0.0006788866259334,0.0344024240210749,NO
+environment,middle-east race,values cultural traditions,0.013309134906231,0.0022970484733748,NO
+environment,middle-east race,resilient,0.0120992135511191,1.8698475704799895e-08,NO
+environment,middle-east race,community-oriented,0.0102843315184513,1.1016485450072989e-05,NO
+environment,middle-east race,connected to agricultural heritage,0.0078644888082274,0.0005329534231138,NO
+environment,middle-east race,engages in cross-cultural bonding,0.0066545674531155,0.0054590972288159,NO
+environment,middle-east race,Emirati,0.0066545674531155,2.674544855106796e-07,NO
+environment,middle-east race,addresses arid regions,0.0048396854204476,2.267148842839056e-05,NO
+environment,middle-east race,wears traditional embroidered clothing,0.0042347247428917,9.77893539016564e-05,NO
+environment,middle-east race,responsive to sensory and emotional environments,0.0042347247428917,0.0089655866470854,NO
+environment,middle-east race,explorer,0.0042347247428917,9.77893539016564e-05,NO
+environment,middle-east race,young,0.0036297640653357,0.0003805027405416,NO
+environment,middle-east race,connected to Middle Eastern tradition,0.0036297640653357,0.0004168239355818,NO
+environment,middle-east race,collaborator,0.0036297640653357,0.0254467651632194,NO
+environment,middle-east race,connects heritage with modern goals,0.0036297640653357,0.0389772203611003,NO
+environment,middle-east race,skilled in navigating dangerous terrain,0.0036297640653357,0.0025878291972027,NO
+environment,middle-east race,traditional,0.0030248033877797,0.00175075130225,NO
+environment,middle-east race,solitary,0.0030248033877797,0.0218703950076187,NO
+environment,middle-east race,committed to protecting desert ecosystems,0.0030248033877797,0.00175075130225,NO
+environment,middle-east race,desert guide,0.0030248033877797,0.00175075130225,NO
+environment,middle-east race,connected to a coastal Middle Eastern village,0.0024198427102238,0.007213129162552,NO
+environment,middle-east race,descendant of desert nomads,0.0024198427102238,0.007213129162552,NO
+environment,middle-east race,learns ancestral stories,0.0024198427102238,0.0344024240210749,NO
+environment,middle-east race,protects Arabian Oryx,0.0024198427102238,0.007213129162552,NO
+environment,middle-east race,connected to history,0.0024198427102238,0.0344024240210749,NO
+environment,middle-east race,interacts with environment representing tradition and modernity,0.0018148820326678,0.0289181193961657,NO
+environment,middle-east race,works with desalination technology,0.0018148820326678,0.0289181193961657,NO
+environment,middle-east race,operates in harsh desert environment,0.0018148820326678,0.0289181193961657,NO
+environment,middle-east race,nostalgic for nomadic heritage,0.0018148820326678,0.0289181193961657,NO
+environment,middle-east race,encourages community engagement,0.0018148820326678,0.0233986369303605,NO
+environment,middle-east race,attuned to fleeting moments,0.0018148820326678,0.0289181193961657,NO
+environment,middle-east race,collaborates with glaciologists,0.0012099213551119,0.0221765680782105,NO
+environment,middle-east race,seeks hope in crisis,0.0006049606775559,0.0344024240210749,NO
+environment,middle-east race,leading researcher,0.0006049606775559,0.0257296596991788,NO
+environment,middle-east race,symbol of conservation efforts,0.0006049606775559,0.0344024240210749,NO
+environment,middle-east race,earns respect for sustainable practices,0.0006049606775559,0.0368913716739852,NO
+environment,middle-east race,blends into environment,0.0006049606775559,0.0344024240210749,NO
+environment,asian race,values cultural traditions,0.0074303405572755,0.0022970484733748,NO
+environment,asian race,leading researcher,0.004953560371517,0.0257296596991788,NO
+environment,asian race,observes injured animals,0.004953560371517,2.316895895361228e-05,NO
+environment,asian race,responsive to sensory and emotional environments,0.0043343653250774,0.0089655866470854,NO
+environment,asian race,creates strategies to combat poaching and habitat destruction,0.0037151702786377,0.0279355682084935,NO
+environment,asian race,studies rare plant species,0.0030959752321981,0.0218703950076187,NO
+environment,asian race,analyzes satellite imagery,0.0024767801857585,0.044642569654506,NO
+environment,asian race,seeks hope in crisis,0.0024767801857585,0.0344024240210749,NO
+environment,asian race,attuned to natural rhythms,0.0024767801857585,0.0344024240210749,NO
+environment,asian race,finds purpose in transforming waste,0.0018575851393188,0.0289181193961657,NO
+environment,asian race,collaborator,0.0012383900928792,0.0254467651632194,NO
+environment,asian race,solitary,0.0012383900928792,0.0218703950076187,NO
+environment,asian race,engages in cross-cultural bonding,0.0012383900928792,0.0054590972288159,NO
+environment,asian race,resilient,0.0012383900928792,1.8698475704799895e-08,NO
+environment,asian race,studies animal behavior,0.0006191950464396,0.0097276010829321,NO
+environment,asian race,connects heritage with modern goals,0.0006191950464396,0.0389772203611003,NO
+environment,asian race,earns respect for sustainable practices,0.0006191950464396,0.0368913716739852,NO
