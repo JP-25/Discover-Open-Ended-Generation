@@ -10,7 +10,7 @@ The **FactPDF** is a comprehensive framework designed for extracting phrases fro
 
 ## Story Generations
 
-`results_responses.zip` and `results_responses_patch2.zip` contain all generated stories in csv format.
+`results_responses.zip` and `results_responses_patch2.zip` contain all generated stories in csv format. Can be found in **[GoogleDrive](https://drive.google.com/drive/folders/1W2auHBgi0H8zBPsf09V7VFICGTGmkQro?usp=sharing)**
 
 ---
 Below is the instructions you can run our framework to explore representational harms. Codes are in 📂 src/ and 📂 patchscope/
