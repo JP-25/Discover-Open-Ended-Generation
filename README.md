@@ -1,10 +1,10 @@
-# Factual Phrases Discovery Framework (FactPDF)
+# Bias Association Discovery Framework (BADF)
 
 ---
 
 ## Overview
 
-The **FactPDF** is a comprehensive framework designed for extracting phrases from open-ended generated contexts from LLMs to discover representational harms.
+The **BADF** is a comprehensive framework designed for extracting phrases from open-ended generated contexts from LLMs to discover representational harms.
 
 ---
 
@@ -22,7 +22,7 @@ Detailed instructions for running the framework are in `run_commands.txt`
 3. Run `2b_res_summary_refine.py` for post-hoc review to remove hallucinated/bad phrases;
 4. Run `3a_res_combine.py` to split combined phrases into finer-grained phrases;
 5. Run `3b_res_combine_check.py` to do the second post-hoc review to check the forgotten/failed-split combined phrases from previous step and decompose them;
-6. Preprocess raw data using `-3.5_data_preprocess_.ipynb`;
+6. Preprocess raw data using `_3.5_data_preprocess_.ipynb`;
 7. Run `4a_res_calc.py` to select significant phrases;
 8. Preprocess raw data from step 7 via `_4a_final_raw_data.ipynb`;
 9. Run `4b_res_filter.py` to filter exclusive phrases for each demographic identity.
