@@ -10,7 +10,7 @@ The **BADF** is a comprehensive framework designed for extracting phrases from o
 
 ## Story Generations
 
-`results_responses.zip` and `results_responses_patch2.zip` contain all generated stories in csv format. Can be found in **[GoogleDrive](https://drive.google.com/drive/folders/1W2auHBgi0H8zBPsf09V7VFICGTGmkQro?usp=sharing)**
+`results_responses.zip` and `results_responses_patch2.zip` contain all open-ended generated texts in csv format. Can be found in **[GoogleDrive](https://drive.google.com/drive/folders/1W2auHBgi0H8zBPsf09V7VFICGTGmkQro?usp=sharing)**
 
 ---
 Below is the instructions you can run our framework to explore representational harms. Codes are in 📂 src/ and 📂 patchscope/
@@ -30,7 +30,7 @@ Detailed instructions for running the framework are in `run_commands.txt`
 ---
 
 ## Results
-`FINAL_RES_ALL` contains results of extracted phrases.
+`FINAL_RES_ALL` contains results of extracted bias associations.
 
 
 [//]: # (## Citation)
