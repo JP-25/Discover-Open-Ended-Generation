@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **BADF** is a comprehensive framework designed for extracting phrases from open-ended generated contexts from LLMs to discover representational harms.
+The **BADF** is a comprehensive framework designed for extracting bias associations from open-ended generated contexts in LLMs.
 
 ---
 
