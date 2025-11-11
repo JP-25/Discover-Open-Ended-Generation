@@ -2,6 +2,12 @@
 
 ---
 
+## Appendix
+
+Complete **Appendix** can be found **[here](https://github.com/JP-25/Discover-Open-Ended-Generation/blob/main/Appendix.pdf)**
+
+---
+
 ## Overview
 
 The **BADF** is a comprehensive framework designed for extracting bias associations from open-ended generated contexts in LLMs.
