@@ -1,6 +1,10 @@
 # Bias Association Discovery Framework (BADF)
 
 ---
+[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/40541)
+[arXiv version with Appendix](https://arxiv.org/abs/2508.01412)
+
+---
 
 ## Appendix
 
@@ -39,10 +43,18 @@ Detailed instructions for running the framework are in `run_commands.txt`
 `FINAL_RES_ALL` contains results of extracted bias associations.
 
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # ()
-[//]: # (If you use DBB in your work, please cite:)
+If you use BADF in your work, please cite:
 
-[//]: # ()
-[//]: # (```bibtex)
+```
+@inproceedings{pan2026bias,
+  title={Bias Association Discovery Framework for Open-Ended LLM Generations},
+  author={Pan, Jinhao and Raj, Chahat and Zhu, Ziwei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={38},
+  pages={32637--32645},
+  year={2026}
+}
+```
