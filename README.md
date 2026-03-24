@@ -2,6 +2,7 @@
 
 ---
 [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/40541)
+
 [arXiv version with Appendix](https://arxiv.org/abs/2508.01412)
 
 ---
